@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#MykolaSymchych">Mykola Symchych</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2024-10-23">October 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="M" n="cod-r7yv7v">Vernadsky National Library of Ukraine, fonds 8, 60</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-10-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#M" n="562-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="y789tt-d1e223">
+        <head xml:id="y789tt-d1e223-Hd1e108">Quaestio 1</head><!-- diputatio 3, quaestio 1-->
+        <head xml:id="y789tt-d1e223-Hd1e111" type="question-title">De negationibus</head>
+        <div xml:id="y789tt-d1e223-Dd1e114">
+          <head xml:id="y789tt-d1e223-Hd1e116">Sectio 1</head>
+          <head xml:id="y789tt-d1e223-Hd1e118" type="question-title">Utrum dentur nemine cogitante negationes et privationes rerum</head>
+          <p xml:id="y789tt-d1e223-d1e121"/>
+        </div>
+        <div xml:id="y789tt-d1e223-Dd1e124">
+          <head xml:id="y789tt-d1e223-Hd1e126">Sectio 2</head>
+          <head xml:id="y789tt-d1e223-Hd1e128" type="question-title">Utrum negationes distinguantur a parte rei ab omni ente positivo</head>
+          <p xml:id="y789tt-d1e223-d1e131"/>
+        </div>
+        <div xml:id="y789tt-d1e223-Dd1e134">
+          <head xml:id="y789tt-d1e223-Hd1e136">Sectio 3</head>
+          <head xml:id="y789tt-d1e223-Hd1e138" type="question-title">Solvuntur objectiones</head>
+          <p xml:id="y789tt-d1e223-d1e141"/>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
