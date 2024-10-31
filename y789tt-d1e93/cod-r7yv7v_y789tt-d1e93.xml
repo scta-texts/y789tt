@@ -91,7 +91,10 @@
             <lb ed="#M"/>quae attinguntur per aliquam potentiam intentionalem, illa omnia et sola dici debent 
             <lb ed="#M"/>entia realia, quae movent aliquam potentiam intentionalem, sicut enim se habent 
             <lb ed="#M"/>sensibile ad sensum, ita attingibile a potentia Intentionali ad potentiam 
-            <lb ed="#M"/>Intentionalem. <gap extent="1" unit="characters"/> <!--I would like to divide the paragraph here--> Differt Conceptus Entis a conceptu Veri. Quia hoc
+            <lb ed="#M"/>Intentionalem. <gap extent="1" unit="characters"/> 
+          </p>
+          <p>
+            Differt Conceptus Entis a conceptu Veri. Quia hoc
             <pb ed="#M" n="552-r"/>
             <lb ed="#M"/>est Motivum potentiae intellectivae tantum. Bonum autem est potentiae appetitivae
             <lb ed="#M"/>motivum. Ens autem ex suo conceptu est indifferens ut attingatur
@@ -143,7 +146,7 @@
           <p>
             <pb ed="#M" n="552-v"/>
             <lb ed="#M"/><hi>Urgetur</hi> Quia Color ut sic explicatur per ordinem ad actuum ut sic potentiae visivae
-            <lb ed="#M"/>dicendum color est obiectum visûs; ideo talis color verbi gratia album dicitur explicari per
+            <lb ed="#M"/>dicendum color est obiectum visus; ideo talis color verbi gratia album dicitur explicari per
             or<lb ed="#M" break="no"/>dinem ad talem actum potentiae visivae dicendo, album est disgreagativum visus
             <lb ed="#M"/>ergo Similiter Si Ens reale ut sic explicatur per ordinem ad actum ut Sic
             poten<lb ed="#M" break="no"/>tiae Intentionalis. etiam tale Ens verbi gratia Leo deberet explicari per ordinem ad
@@ -152,7 +155,7 @@
             <lb ed="#M"/>et id ex quo deducitur.
           </p>
           <p>
-            <!--it is the same line--><hi>Respondeo</hi>tam color ut sic quam album sunt termini immediate
+            <!--it is the same line--><hi>Respondeo</hi> tam color ut sic quam album sunt termini immediate
             <lb ed="#M"/>per se noti et ideo uterque hic terminus tam Genericus quam Specificus definiuntur 
             <lb ed="#M"/>relate ad actum nostrum experimentalem. At Ens ut sic <unclear>scilicet</unclear> sit terminus per se
             <lb ed="#M"/>notus non tamen similiter omnia inferiora eius verbi gratia homo, Leo etc. (Substantiae
