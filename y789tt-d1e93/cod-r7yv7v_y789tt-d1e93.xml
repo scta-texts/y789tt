@@ -75,7 +75,7 @@
             <lb ed="#M"/>sed a posteriori, respective ad actum visivum experimentalem, nam album est diciturque
             <lb ed="#M"/>disgregativum visus igitur idem de Ente
           </p>
-          <p>
+          <p xml:id="y789tt-d1e93-d1e149">
             <lb ed="#M"/><hi>Dicendum</hi> est Ens Reale est illud quod est motivum potentiae intentionalis 
             <lb ed="#M"/>Ita Perez et eorum Sequaces praesertim Princeps Philosophorum Pater
             Mo<lb ed="#M" break="no"/>rawski. <hi>Probatur</hi> communi illo quod scilicet haec definitio competat omni soli 
@@ -93,7 +93,7 @@
             <lb ed="#M"/>sensibile ad sensum, ita attingibile a potentia Intentionali ad potentiam 
             <lb ed="#M"/>Intentionalem. <gap extent="1" unit="characters"/> 
           </p>
-          <p>
+          <p xml:id="y789tt-d1e93-d1e196">
             Differt Conceptus Entis a conceptu Veri. Quia hoc
             <pb ed="#M" n="552-r"/>
             <lb ed="#M"/>est Motivum potentiae intellectivae tantum. Bonum autem est potentiae appetitivae
@@ -101,12 +101,12 @@
             <lb ed="#M"/>ab hac vel illa potentia: Unde universalior est illis. Et in Conceptu veri
             <lb ed="#M"/>clare apparet conceptus Entis non autem vicissim. Hinc
           </p>
-          <p>
+          <p xml:id="y789tt-d1e93-d1e210">
             <lb ed="#M"/>Infertur primo Male definitur Ens quod sit illud quod opponitur non Enti <!--how to spell this-->. Sicut Male
             <lb ed="#M"/>definiretur homo per hoc quod opponitur non homini nam etiam lapis opponitur non homini.
             <lb ed="#M"/>et tamen non est homo.
           </p>
-          <p>
+          <p xml:id="y789tt-d1e93-d1e221">
             <lb ed="#M"/>Infero secundo Male definitur Ens esse illud quod est aptum existere
             <lb ed="#M"/>Ratio Quia existere cum sit realiter identificatum cum Ente, vel est identificatum 
             <lb ed="#M"/>ut quid inferius vel ut quid superius, vel ut quid convertibile eum respectu
@@ -119,11 +119,11 @@
             <lb ed="#M"/>aptum esse risibile et tamen omnes huiusmodi definitiones non sunt exactae.
             <lb ed="#M"/>Indiget ergo maiori luce utraque definitio Entis praedicta.
           </p>
-          <p>
+          <p xml:id="y789tt-d1e93-d1e247">
             <lb ed="#M"/>Obiicitur primo Ens reale est quid absolutum ergo non bene definitur
             <lb ed="#M"/>per id quod est respectivum, tale autem est Esse motivum potentiae intentionalis
           </p>
-          <p>
+          <p xml:id="y789tt-d1e93-d1e254">
             <lb ed="#M"/>Respondeo Absolutum dicitur explicari per Relativum propter duas causas: <choice><unclear>Prima</unclear><unclear>Primo</unclear></choice>
             <lb ed="#M"/>Quando absolutum est maxime cognoscibile sed a sensibus remotissimum 
             <lb ed="#M"/>et hoc modo Deum concipimus relate ad creaturas. Vel etiam dum absolutum est
@@ -132,18 +132,18 @@
             <lb ed="#M"/>notum, hunc enim debet explicari per ordinem ad aliquem actum experimentalem
             <lb ed="#M"/>ut patet in albo et nigro. propter has rationes etiam Ens explicari debet per respectivum.
           </p>
-          <p>
+          <p xml:id="y789tt-d1e93-d1e276">
             <lb ed="#M"/><hi>Urgetur</hi> Ipsa potentia Intentionalis explicari debet per ordinem ad Ens
             <lb ed="#M"/>reale tanquam ad Suum obiectum a quo specificatur ergo circulus Vitiosus erit.
           </p>
-          <p>
+          <p xml:id="y789tt-d1e93-d1e284">
             <lb ed="#M"/><hi>Respondeo</hi> possunt absque circulo vitioso explicari duo termini per se ipsos
             <lb ed="#M"/>mutuo, quando sunt per se ipsos immediate noti, Quia <unclear>hunc</unclear> unus terminus explicatur
             <lb ed="#M"/>per alium aliunde scilicet per se ipsum notum, Sic autem contingit in Explicatione
             <lb ed="#M"/>Entis imo etiam in correlativis; filius enim explicatur per patrem aliunde scilicet
             <lb ed="#M"/>notum et pater vicissim.
           </p>
-          <p>
+          <p xml:id="y789tt-d1e93-d1e302">
             <pb ed="#M" n="552-v"/>
             <lb ed="#M"/><hi>Urgetur</hi> Quia Color ut sic explicatur per ordinem ad actuum ut sic potentiae visivae
             <lb ed="#M"/>dicendum color est obiectum visus; ideo talis color verbi gratia album dicitur explicari per
@@ -154,7 +154,7 @@
             <lb ed="#M"/>attingitur a potentia Intentionali. Sequela autem est inconveniens ergo
             <lb ed="#M"/>et id ex quo deducitur.
           </p>
-          <p>
+          <p xml:id="y789tt-d1e93-d1e325">
             <!--it is the same line--><hi>Respondeo</hi> tam color ut sic quam album sunt termini immediate
             <lb ed="#M"/>per se noti et ideo uterque hic terminus tam Genericus quam Specificus definiuntur 
             <lb ed="#M"/>relate ad actum nostrum experimentalem. At Ens ut sic <unclear>scilicet</unclear> sit terminus per se

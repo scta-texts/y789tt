@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#MykolaSymchych">Mykola Symchych</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2024-10-31">October 31, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="D" n="cod-ro9i8u">Vernadsky National Library of Ukraine, fonds 305, 152</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-10-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#M" n="551-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="y789tt-d1e93">
+        <head xml:id="y789tt-d1e93-Hd1e108">Quaestio 1</head><!-- disputatio, quaestio 1-->
+        <head xml:id="y789tt-d1e93-Hd1e111" type="question-title">De quidditate entis eiusque transcendentia atque conceptu univoco</head>
+        <div xml:id="y789tt-d1e93-Dd1e114">
+          <head xml:id="y789tt-d1e93-Hd1e116">Sectio 1</head>
+          <head xml:id="y789tt-d1e93-Hd1e118" type="question-title">Quomodo definitur ens</head>
+          <p xml:id="y789tt-d1e93-d1e121">
+            Praenoto Ens Reale non est definibile per Genus superius se, nihil enim est Superius
+            Ente ut Sic. neque est definibile per aliquid notius Quia est ipsum maxime notum 
+            intellectui nam in omni obiecto quod cognoscit intellectus maxime cognoscit rationem entis
+            de pluribus enim in obiecto dubitamus. de ratione autem Entis nihil. Imo Ens
+            primum est in notitia Quia nihil prius cognoscit Intellectus Ente reali
+            et primo occurrit in obiecto omni Ratio Entis. Unde Ens est id quod primo
+            concipit intellectus tanquam notissimum et in quod omnes conceptiones resolvuntur
+            Cum ergo ratio Entis sit universalissima, prima, notissima non potest a priori definiri
+            nisi a posteriori ad aliquem actum experimentalem. Sic album Quia est notum per se non definitur a priori
+            sed a posteriori, respective ad actum visivum experimentalem, nam album est diciturque
+            disgregativum visus igitur idem de Ente
+          </p>
+          <p xml:id="y789tt-d1e93-d1e149">
+            <hi>Dicendum</hi> est Ens Reale est illud quod est motivum potentiae intentionalis 
+            Ita Perez et eorum Sequaces praesertim Princeps Philosophorum Pater
+            Morawski. <hi>Probatur</hi> communi illo quod scilicet haec definitio competat omni soli 
+            et semper suo definito. <hi>Omni</hi> quia nullo est ens reale quod per se vel 
+            per speciem sui nequeat movere ad Cognitionem sui Saltem Intellectum
+            Qui est potentia in cognoscendo illimitata. <hi>Soli</hi> Quia movere
+            potentiam Intentionalem pertinet ad Genus causalitatis, quae Soli Enti Reali
+            convenire potest; unde hymerae et non Entia (Si dantur distincta ab omni Ente 
+            reali) ad summum possunt esse obiectum potentiae Intentionalis pure 
+            terminativum quapropter sicut inter obiectum, quae sensu percipiuntur illa omnia est sola
+            vocantur Entia quae ad cognitionem sui movent sensum aliquem, quae vero 
+            non movent, uti silentium, tenebrae etc: non vocantur entia realia: ita etiam inter obiecta 
+            quae attinguntur per aliquam potentiam intentionalem, illa omnia et sola dici debent 
+            entia realia, quae movent aliquam potentiam intentionalem, sicut enim se habent 
+            sensibile ad sensum, ita attingibile a potentia Intentionali ad potentiam 
+            Intentionalem. 
+          </p>
+          <p xml:id="y789tt-d1e93-d1e196">
+            Differt Conceptus Entis a conceptu Veri. Quia hoc
+            <pb ed="#M" n="552-r"/>
+            est Motivum potentiae intellectivae tantum. Bonum autem est potentiae appetitivae
+            motivum. Ens autem ex suo conceptu est indifferens ut attingatur
+            ab hac vel illa potentia: Unde universalior est illis. Et in Conceptu veri
+            clare apparet conceptus Entis non autem vicissim. Hinc
+          </p>
+          <p xml:id="y789tt-d1e93-d1e210">
+            Infertur primo Male definitur Ens quod sit illud quod opponitur non Enti <!--how to spell this-->. Sicut Male
+            definiretur homo per hoc quod opponitur non homini nam etiam lapis opponitur non homini.
+            et tamen non est homo.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e221">
+            Infero secundo Male definitur Ens esse illud quod est aptum existere
+            Ratio Quia existere cum sit realiter identificatum cum Ente, vel est identificatum 
+            ut quid inferius vel ut quid superius, vel ut quid convertibile eum respectu
+            Entis quatenus communis ad pure possibile et existens. Cum ergo definitur
+            Ens per hoc quod sit aptum existere vel definitur ratio superior per hoc
+            quod sit apta esse sua Species, ac si quis dicat: animal est id quod est aptum esse homo.
+            vel e converso definitur ratio inferio per hoc, quod sit apta esse suum
+            Genus: vel demum definitur unum ex praedicatis convertibilibus per hoc
+            quod sit aptum esse suum convertibile ac si quis dicat homo est id, quod est
+            aptum esse risibile et tamen omnes huiusmodi definitiones non sunt exactae.
+            Indiget ergo maiori luce utraque definitio Entis praedicta.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e247">
+            Obiicitur primo Ens reale est quid absolutum ergo non bene definitur
+            per id quod est respectivum, tale autem est Esse motivum potentiae intentionalis
+          </p>
+          <p xml:id="y789tt-d1e93-d1e254">
+            Respondeo Absolutum dicitur explicari per Relativum propter duas causas: <choice><unclear>Prima</unclear><unclear>Primo</unclear></choice>
+            Quando absolutum est maxime cognoscibile sed a sensibus remotissimum 
+            et hoc modo Deum concipimus relate ad creaturas. Vel etiam dum absolutum est
+            minime cognoscibile, et hoc modo concipimus materiam primam non nisi relate 
+            ad formas. Secunda Dum  Absolutum explicatur per respectivum dum est per se 
+            notum, hunc enim debet explicari per ordinem ad aliquem actum experimentalem
+            ut patet in albo et nigro. propter has rationes etiam Ens explicari debet per respectivum.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e276">
+            <hi>Urgetur</hi> Ipsa potentia Intentionalis explicari debet per ordinem ad Ens
+            reale tanquam ad Suum obiectum a quo specificatur ergo circulus Vitiosus erit.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e284">
+            <hi>Respondeo</hi> possunt absque circulo vitioso explicari duo termini per se ipsos
+            mutuo, quando sunt per se ipsos immediate noti, Quia <unclear>hunc</unclear> unus terminus explicatur
+            per alium aliunde scilicet per se ipsum notum, Sic autem contingit in Explicatione
+            Entis imo etiam in correlativis; filius enim explicatur per patrem aliunde scilicet
+            notum et pater vicissim.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e302">
+            <hi>Urgetur</hi> Quia Color ut sic explicatur per ordinem ad actuum ut sic potentiae visivae
+            dicendum color est obiectum visus; ideo talis color verbi gratia album dicitur explicari per
+            ordinem ad talem actum potentiae visivae dicendo, album est disgreagativum visus
+            ergo Similiter Si Ens reale ut sic explicatur per ordinem ad actum ut Sic
+            potentiae Intentionalis. etiam tale Ens verbi gratia Leo deberet explicari per ordinem ad
+            tale actum potentiae Intentionalis dicendo Leo est id quod tali modo
+            attingitur a potentia Intentionali. Sequela autem est inconveniens ergo
+            et id ex quo deducitur.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e325">
+            <!--it is the same line--><hi>Respondeo</hi> tam color ut sic quam album sunt termini immediate
+            per se noti et ideo uterque hic terminus tam Genericus quam Specificus definiuntur 
+            relate ad actum nostrum experimentalem. At Ens ut sic <unclear>scilicet</unclear> sit terminus per se
+            notus non tamen similiter omnia inferiora eius verbi gratia homo, Leo etc. (Substantiae
+            enim nobis innotescunt per sua accidentia) et ideo haec non definiuntur relate
+            ad actus nostros experimentales sicut definitur ipsum Ens ut sic.
+          </p>
+        </div>
+        <div xml:id="y789tt-d1e93-Dd1e124">
+          <head xml:id="y789tt-d1e93-Hd1e126">Sectio 2</head>
+          <head xml:id="y789tt-d1e93-Hd1e128" type="question-title">An dabilis est conceptus entis communis enti creato et increato, substantiae et accidentis</head>
+          <p xml:id="y789tt-d1e93-d1e131"/>
+        </div>
+        <div xml:id="y789tt-d1e93-Dd1e134">
+          <head xml:id="y789tt-d1e93-Hd1e136">Sectio 3</head>
+          <head xml:id="y789tt-d1e93-Hd1e138" type="question-title">An ens formaliter transcendit differentias</head>
+          <p xml:id="y789tt-d1e93-d1e141"/>
+        </div>
+        <div xml:id="y789tt-d1e93-Dd1e145">
+          <head xml:id="y789tt-d1e93-Hd1e147">Sectio 4</head>
+          <head xml:id="y789tt-d1e93-Hd1e149" type="question-title">An conceptus entis sit univocum en analogus</head>
+          <p xml:id="y789tt-d1e93-d1e152"/>
+        </div>
+        <div xml:id="y789tt-d1e93-Dd1e155">
+          <head xml:id="y789tt-d1e93-Hd1e157">Sectio 5</head>
+          <head xml:id="y789tt-d1e93-Hd1e159" type="question-title">An solum ens reale potest cognosci</head>
+          <p xml:id="y789tt-d1e93-d1e162"/>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
