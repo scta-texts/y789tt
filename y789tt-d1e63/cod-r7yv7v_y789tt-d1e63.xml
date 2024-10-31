@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Prooeminus</title>
+        <title>Prooemium</title>
         <author ref="#per-sykisy">Stefan Yavorskyi</author>
         <respStmt>
           <name ref="#MykolaSymchych">Mykola Symchych</name>
@@ -17,7 +17,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Articulus 9</title>
+          <title>Prooemium</title>
           <date when="2024-10-23">October 23, 2024</date>
         </edition>
       </editionStmt>
@@ -52,13 +52,93 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#M" n="567-r"/>
+        <pb ed="#M" n="550-r"/>
       </div>
     </front>
     <body>
       <div xml:id="y789tt-d1e63">
-        <head xml:id="y789tt-d1e63-Hd1e108">Prooeminus</head>
-        <p xml:id="y789tt-d1e63-d1e110"/>
+        <head xml:id="y789tt-d1e63-Hd1e108">Prooemium</head>
+        <p xml:id="y789tt-d1e63-d1e110">
+          <pb ed="#M" n="550-r"/>
+          <lb ed="#M" n="1"/>PROOEMIUM
+          <lb ed="#M"/>DE Prologomenis Metaphysicae
+        </p>
+        <p xml:id="y789tt-d1e63-d1e120">
+          <lb ed="#M"/>Deo auspice duce Aristotle facimus tandem gradum a consideratione rerum
+          <lb ed="#M"/>corporearum et sensibilium ad eam scientiam quae absolute spectatur rerum esse 
+          <lb ed="#M"/>abstrahendo ab hoc sintne corporeae an non ? unde <unclear>extra</unclear> haec scientia meta<lb ed="#M" break="no"/>physica 
+          seu ultra naturalis dicitur <unclear>?</unclear> etiam ab <name>Aristotele</name> sapientia, quia
+          <lb ed="#M"/>illius munus est primas rerum causas et universalissima principia investigare, 
+          <lb ed="#M"/>de omnibus rerum et aliarum scientiarum obiectis per rationes abstractas disputare.
+          <lb ed="#M"/>Apellatur etiam naturalis theologia quia agit de deo tanquam praecipuo suo obiecto 
+          <lb ed="#M"/>et de intelligentiis prout per media <unclear>homine</unclear> naturae nota, id est per causas a nobis cognitas.
+          <lb ed="#M"/>immensum in hac parte philosophiae rerum tractandam ingrederemur <unclear>organum</unclear>, nisi 
+          <lb ed="#M"/>magnam difficultatem metaphysicae partim in logica partim in physica
+          <lb ed="#M"/><unclear>superassemus</unclear> quae restant explicanda paucis complectemur:
+          <lb ed="#M"/>sed in primis agendo de prologomenis metaphysicae 
+        </p>
+        <p>
+          <lb ed="#M"/>Dicendum primo Metaphysica est scientia proprie dicta. <add place="above-line">Ratio</add> tum quia demonstrat
+          <lb ed="#M"/>de suo obiecto passiones per causas certas et evidentes quod sufficit ad scientiam
+          <lb ed="#M"/>et diximus in Logica tum quia habet omnia requisita ad eam scientiam ut patet consideranti 
+          <lb ed="#M"/>dicta in Logica tum quia metaphysica procedit demonstrative de suo obiecto 
+          <lb ed="#M"/>verbi gratia omne verum est cognoscibile sed omne ens reale est verum ergo omne ens reale est cogno<lb ed="#M" break="no"/>scibile
+        </p>
+        <p>
+          Dicendum secundo metaphysica est scientia pure pure speculativa ratio 
+          <lb ed="#M"/>Quia nullus illius actus ordinatur ad effectionem alicuius obiecti nullum enim 
+          <lb ed="#M"/>ens reali, sit ex directione actus metaphysici 
+        </p>
+        <p>
+          Dices logica est partialiter
+          <lb ed="#M"/>practica ergo et metaphysica. probatur etiam quia utraque versatur circa definitiones <unclear>rerum</unclear> etiam 
+          <lb ed="#M"/>ad probationem dico Logica versatur circa definitiones formales quomodo sint
+          <lb ed="#M"/>faciendae practice eas dirigendo metaphysico vero circa definitiones 
+          <lb ed="#M"/>obiectivas simpliciter intendens scire quod <unclear>si?tura</unclear> quaeque res
+        </p>
+        <p>
+          <pc type="pilcrow"/> Dices <unclear>ista</unclear> <unclear>profdires</unclear>
+          <lb ed="#M"/>Deus est <unclear>linie?dus</unclear> quia est iustus Deus est amandus quia est bonus sunt metaphysica 
+          <lb ed="#M"/><unclear>et?ae</unclear> dirigunt practice t?uentae ad Dei timore et amorem Quod non istas propositiones
+          <lb ed="#M"/><unclear>th?e</unclear> metaphysicas ad summum enim <unclear>na?</unclear> <unclear><!-- Lambda, book 12--></unclear> metaphysicas Deus est fa?midabilis quia est 
+          <lb ed="#M"/>iustus <pc type="punctus"/> deus est amabilis quia est bonus Quae propositiones utique <unclear>ip?s?pecu</unclear> <unclear>la?tivam</unclear>
+          <lb ed="#M"/>non directivam scientis: Postea vero <unclear>r???hica</unclear> Ex his inquit Deum esse amandum <!--catchword: quia est-->
+          <pb ed="#M" n="550-v"/>
+          <lb ed="#M"/>quia est bonus sicut ars chirurgica et chymira aliaeque artes ex principiis physicis
+          <lb ed="#M"/>mere speculativis deducere <unclear>solet</unclear> sua dictamine practica.
+          <lb ed="#M"/>Deinde diximus in <unclear>Litteram</unclear> quod non omnis cognitio de re operabili est practica, sed <unclear>gicam</unclear> procedit 
+          <lb ed="#M"/>modo operabili unica obiectum operabile <unclear>entita</unclear> facienti suae , uti <unclear>pro?du?</unclear> dirigat irure?que aut bene 
+          <lb ed="#M"/>operandum neque ex <unclear>materiae</unclear> sua <unclear>px</unclear> sistere in sola speculatione 
+        </p>
+        <p>
+          Nota quod meta<lb ed="#M"/>physicam 
+          est directiva propositione per dictamina practica aliarum suarum:  Sed 
+          <lb ed="#M"/>per mis?iveet speculative quatenus ad eam omnes scientia remanere dicunt 
+          <lb ed="#M"/>Quia tenent prima principia omnia operationis metaphysica, licet illa numquam
+          <lb ed="#M"/>dictet quomodo faciendum ut aliquis habet enim principia tam practica quam specula<lb ed="#M"/>tivis 
+          applicabilia ideo grasi virtualiter et permisive practica dici potest 
+          <lb ed="#M"/>non tamen vera est proprie.
+        </p>
+        <p>
+          <lb ed="#M"/> Dicendum <unclear>quod</unclear> metaphyisca est proprie sapientia <del rend="underline">Quod</del> quia habet omnes 
+          <lb ed="#M"/>conditiones ad rem sapientia porro sapientias conditiones sunt <unclear>hae</unclear>: Amam ut 
+          <lb ed="#M"/>verusque infra omnia sitque scientia omnium rerum. 2da ut sit de differentionibus 
+          <lb ed="#M"/>dummodo lumine <unclear>natura</unclear> suri queant nam noprie obi?va et sentibus occurrentia 
+          <lb ed="#M"/>vulgarium humanum est non sapientiam 3ta ut sit certissima scientia enim perfectissi<lb ed="#M"/>ma 
+          requirit certitudinem summam 4ta ut procedat per causas et principia universali<lb ed="#M"/>ssima. 
+          5ta ut appetar gratia sui seu ipsum scire Quia minimum 
+          <lb ed="#M"/>sapientia nobilissima dicit esse inter speculativis. 6ta ut sit aptior ad docen<lb ed="#M"/>dum 
+          quam omnes aliae scientiae hoc enim sapientis praecipuum manus est ut sit doctor 
+          <lb ed="#M"/>omnium 7ma ut sit principalior aliis scientiis istisque <unclear>post</unclear> et <unclear>domineus</unclear> atque 
+          <lb ed="#M"/>easdem defendat non enim iusta <name>Aristotelem</name> decet ut sapienti praecipiam sed ut ille 
+          <lb ed="#M"/>praecipiat Haec conditiones <unclear>hi?ce</unclear> <unclear> ??alis</unclear>  apprehenditur
+          <!-- break or quote here -->
+          <lb ed="#M"/>omnia difficilis certissima per quid <unclear>supremas</unclear> 
+          <lb ed="#M"/>et inter causas doctis propter <unclear>de</unclear> maxima <unclear>profes</unclear>
+        </p>
+        <p>
+          
+        </p>
       </div>
     </body>
   </text>
