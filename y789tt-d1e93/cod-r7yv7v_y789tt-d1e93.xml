@@ -60,7 +60,7 @@
         <head xml:id="y789tt-d1e93-Hd1e108">Quaestio 1</head><!-- disputatio, quaestio 1-->
         <head xml:id="y789tt-d1e93-Hd1e111" type="question-title">De quidditate entis eiusque transcendentia atque conceptu univoco</head>
         <div xml:id="y789tt-d1e93-Dd1e114">
-          <head xml:id="y789tt-d1e93-Hd1e116">Sectio 1</head>
+          <head xml:id="y789tt-d1e93-Hd1e116">Paragraphus 1</head>
           <head xml:id="y789tt-d1e93-Hd1e118" type="question-title">Quomodo definitur ens</head>
           <p xml:id="y789tt-d1e93-d1e121">
             <lb ed="#M"/>Praenoto Ens Reale non est definibile per Genus superius se, nihil enim est Superius
@@ -85,7 +85,7 @@
             <lb ed="#M"/>potentiam Intentionalem pertinet ad Genus causalitatis, quae Soli Enti Reali
             <lb ed="#M"/>convenire potest; unde hymerae et non Entia (Si dantur distincta ab omni Ente 
             <lb ed="#M"/>reali) ad summum possunt esse obiectum potentiae Intentionalis pure 
-            termi<lb ed="#M" break="no"/>nativum quapropter sicut inter obiectum, quae sensu percipiuntur illa omnia est sola
+            termi<lb ed="#M" break="no"/>nativum quapropter sicut inter obiecta, quae sensu percipiuntur illa omnia et sola
             <lb ed="#M"/>vocantur Entia quae ad cognitionem sui movent sensum aliquem, quae vero 
             <lb ed="#M"/>non movent, uti silentium, tenebrae etc: non vocantur entia realia: ita etiam inter obiecta 
             <lb ed="#M"/>quae attinguntur per aliquam potentiam intentionalem, illa omnia et sola dici debent 
@@ -102,7 +102,7 @@
             <lb ed="#M"/>clare apparet conceptus Entis non autem vicissim. Hinc
           </p>
           <p xml:id="y789tt-d1e93-d1e210">
-            <lb ed="#M"/>Infertur primo Male definitur Ens quod sit illud quod opponitur non Enti <!--how to spell this-->. Sicut Male
+            <lb ed="#M"/>Infero primo Male definitur Ens quod sit illud quod opponitur non Enti <!--how to spell this-->. Sicut Male
             <lb ed="#M"/>definiretur homo per hoc quod opponitur non homini nam etiam lapis opponitur non homini.
             <lb ed="#M"/>et tamen non est homo.
           </p>
@@ -113,7 +113,7 @@
             <lb ed="#M"/>Entis quatenus communis ad pure possibile et existens. Cum ergo definitur
             <lb ed="#M"/>Ens per hoc quod sit aptum existere vel definitur ratio superior per hoc
             <lb ed="#M"/>quod sit apta esse sua Species, ac si quis dicat: animal est id quod est aptum esse homo.
-            <lb ed="#M"/>vel e converso definitur ratio inferio per hoc, quod sit apta esse suum
+            <lb ed="#M"/>vel e converso definitur ratio inferior per hoc, quod sit apta esse suum
             <lb ed="#M"/>Genus: vel demum definitur unum ex praedicatis convertibilibus per hoc
             <lb ed="#M"/>quod sit aptum esse suum convertibile ac si quis dicat homo est id, quod est
             <lb ed="#M"/>aptum esse risibile et tamen omnes huiusmodi definitiones non sunt exactae.
@@ -124,12 +124,12 @@
             <lb ed="#M"/>per id quod est respectivum, tale autem est Esse motivum potentiae intentionalis
           </p>
           <p xml:id="y789tt-d1e93-d1e254">
-            <lb ed="#M"/>Respondeo Absolutum dicitur explicari per Relativum propter duas causas: <choice><unclear>Prima</unclear><unclear>Primo</unclear></choice>
+            <lb ed="#M"/>Respondeo Absolutum dicitur explicari per Relativum propter duas causas: Prima
             <lb ed="#M"/>Quando absolutum est maxime cognoscibile sed a sensibus remotissimum 
             <lb ed="#M"/>et hoc modo Deum concipimus relate ad creaturas. Vel etiam dum absolutum est
             <lb ed="#M"/>minime cognoscibile, et hoc modo concipimus materiam primam non nisi relate 
             <lb ed="#M"/>ad formas. Secunda Dum  Absolutum explicatur per respectivum dum est per se 
-            <lb ed="#M"/>notum, hunc enim debet explicari per ordinem ad aliquem actum experimentalem
+            <lb ed="#M"/>notum, <unclear>tunc</unclear> enim debet explicari per ordinem ad aliquem actum experimentalem
             <lb ed="#M"/>ut patet in albo et nigro. propter has rationes etiam Ens explicari debet per respectivum.
           </p>
           <p xml:id="y789tt-d1e93-d1e276">
@@ -138,7 +138,7 @@
           </p>
           <p xml:id="y789tt-d1e93-d1e284">
             <lb ed="#M"/><hi>Respondeo</hi> possunt absque circulo vitioso explicari duo termini per se ipsos
-            <lb ed="#M"/>mutuo, quando sunt per se ipsos immediate noti, Quia <unclear>hunc</unclear> unus terminus explicatur
+            <lb ed="#M"/>mutuo, quando sunt per se ipsos immediate noti, Quia <unclear>tunc</unclear> unus terminus explicatur
             <lb ed="#M"/>per alium aliunde scilicet per se ipsum notum, Sic autem contingit in Explicatione
             <lb ed="#M"/>Entis imo etiam in correlativis; filius enim explicatur per patrem aliunde scilicet
             <lb ed="#M"/>notum et pater vicissim.
@@ -146,7 +146,7 @@
           <p xml:id="y789tt-d1e93-d1e302">
             <pb ed="#M" n="552-v"/>
             <lb ed="#M"/><hi>Urgetur</hi> Quia Color ut sic explicatur per ordinem ad actuum ut sic potentiae visivae
-            <lb ed="#M"/>dicendum color est obiectum visus; ideo talis color verbi gratia album dicitur explicari per
+            <lb ed="#M"/>dicendo color est obiectum visus; ideo talis color verbi gratia album debet explicari per
             or<lb ed="#M" break="no"/>dinem ad talem actum potentiae visivae dicendo, album est disgreagativum visus
             <lb ed="#M"/>ergo Similiter Si Ens reale ut sic explicatur per ordinem ad actum ut Sic
             poten<lb ed="#M" break="no"/>tiae Intentionalis. etiam tale Ens verbi gratia Leo deberet explicari per ordinem ad
@@ -157,29 +157,29 @@
           <p xml:id="y789tt-d1e93-d1e325">
             <!--it is the same line--><hi>Respondeo</hi> tam color ut sic quam album sunt termini immediate
             <lb ed="#M"/>per se noti et ideo uterque hic terminus tam Genericus quam Specificus definiuntur 
-            <lb ed="#M"/>relate ad actum nostrum experimentalem. At Ens ut sic <unclear>scilicet</unclear> sit terminus per se
+            <lb ed="#M"/>relate ad actum nostrum experimentalem. At Ens ut sic licet sit terminus per se
             <lb ed="#M"/>notus non tamen similiter omnia inferiora eius verbi gratia homo, Leo etc. (Substantiae
             <lb ed="#M"/>enim nobis innotescunt per sua accidentia) et ideo haec non definiuntur relate
             <lb ed="#M"/>ad actus nostros experimentales sicut definitur ipsum Ens ut sic.
           </p>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e124">
-          <head xml:id="y789tt-d1e93-Hd1e126">Sectio 2</head>
+          <head xml:id="y789tt-d1e93-Hd1e126">Pargraphus 2</head>
           <head xml:id="y789tt-d1e93-Hd1e128" type="question-title">An dabilis est conceptus entis communis enti creato et increato, substantiae et accidentis</head>
           <p xml:id="y789tt-d1e93-d1e131"/>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e134">
-          <head xml:id="y789tt-d1e93-Hd1e136">Sectio 3</head>
+          <head xml:id="y789tt-d1e93-Hd1e136">Paragraphus 3</head>
           <head xml:id="y789tt-d1e93-Hd1e138" type="question-title">An ens formaliter transcendit differentias</head>
           <p xml:id="y789tt-d1e93-d1e141"/>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e145">
-          <head xml:id="y789tt-d1e93-Hd1e147">Sectio 4</head>
+          <head xml:id="y789tt-d1e93-Hd1e147">Paragraphus 4</head>
           <head xml:id="y789tt-d1e93-Hd1e149" type="question-title">An conceptus entis sit univocum en analogus</head>
           <p xml:id="y789tt-d1e93-d1e152"/>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e155">
-          <head xml:id="y789tt-d1e93-Hd1e157">Sectio 5</head>
+          <head xml:id="y789tt-d1e93-Hd1e157">Paragraphus 5</head>
           <head xml:id="y789tt-d1e93-Hd1e159" type="question-title">An solum ens reale potest cognosci</head>
           <p xml:id="y789tt-d1e93-d1e162"/>
         </div>

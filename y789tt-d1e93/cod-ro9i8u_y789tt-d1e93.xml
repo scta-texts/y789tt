@@ -52,7 +52,7 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#M" n="551-v"/>
+        <pb ed="#D" n="568-v"/>
       </div>
     </front>
     <body>
@@ -60,125 +60,123 @@
         <head xml:id="y789tt-d1e93-Hd1e108">Quaestio 1</head><!-- disputatio, quaestio 1-->
         <head xml:id="y789tt-d1e93-Hd1e111" type="question-title">De quidditate entis eiusque transcendentia atque conceptu univoco</head>
         <div xml:id="y789tt-d1e93-Dd1e114">
-          <head xml:id="y789tt-d1e93-Hd1e116">Sectio 1</head>
+          <head xml:id="y789tt-d1e93-Hd1e116">Paragraphus 1</head>
           <head xml:id="y789tt-d1e93-Hd1e118" type="question-title">Quomodo definitur ens</head>
           <p xml:id="y789tt-d1e93-d1e121">
-            Praenoto Ens Reale non est definibile per Genus superius se, nihil enim est Superius
-            Ente ut Sic. neque est definibile per aliquid notius Quia est ipsum maxime notum 
-            intellectui nam in omni obiecto quod cognoscit intellectus maxime cognoscit rationem entis
-            de pluribus enim in obiecto dubitamus. de ratione autem Entis nihil. Imo Ens
-            primum est in notitia Quia nihil prius cognoscit Intellectus Ente reali
-            et primo occurrit in obiecto omni Ratio Entis. Unde Ens est id quod primo
-            concipit intellectus tanquam notissimum et in quod omnes conceptiones resolvuntur
-            Cum ergo ratio Entis sit universalissima, prima, notissima non potest a priori definiri
-            nisi a posteriori ad aliquem actum experimentalem. Sic album Quia est notum per se non definitur a priori
-            sed a posteriori, respective ad actum visivum experimentalem, nam album est diciturque
-            disgregativum visus igitur idem de Ente
+            <lb ed="#D"/>Praenoto Ens reale non est definibile per genus superius se, nihil enim est superius ente ut sic. 
+            <lb ed="#D"/>Neque est definibile per aliquid notius Quia est ipsum maxime notum intellectui nam in omni obiecto quod 
+            cogno<lb ed="#D" break="no"/>scit intellectus maxime cognoscit rationem entis, de pluribus enim in obiecto dubitamus, De 
+            ra<lb ed="#D"/>tione autem entis nihil. Imo ens primum est in notitia, Quia Nihil cognoscit Intellectus Ente 
+            <lb ed="#D"/>reali et primo occurrit in obiecto omni ratio entis. Unde ens est id quod primo concipit 
+            <lb ed="#D"/>intellectus tanquam notissimum, et in <choice><abbr>qd</abbr><choice><expan>quod</expan><expan>quid</expan></choice></choice> omnes conceptiones resolvuntur. Cum ergo ratio entis 
+            <lb ed="#D"/>sit Universalissima prima notissima non potest a priori definiri nisi a posteriori 
+            <lb ed="#D"/>ad aliquem actum experimentalem respective. Universaliter enim quae sunt nota per
+            <lb ed="#D"/> se definiuntur a posteriori respective ad aliquem actum experimentalem. Sic album 
+            <lb ed="#D"/>Quia est notum per se non definitur a priori sed a posteriori, respective ad actum 
+            visi<lb ed="#D" break="no"/>vum experimentalem, nam album est <add place="above-line" hand="#N1">et dicitur</add> disgregativum visus Igitur idem de ente.
           </p>
           <p xml:id="y789tt-d1e93-d1e149">
-            <hi>Dicendum</hi> est Ens Reale est illud quod est motivum potentiae intentionalis 
-            Ita Perez et eorum Sequaces praesertim Princeps Philosophorum Pater
-            Morawski. <hi>Probatur</hi> communi illo quod scilicet haec definitio competat omni soli 
-            et semper suo definito. <hi>Omni</hi> quia nullo est ens reale quod per se vel 
-            per speciem sui nequeat movere ad Cognitionem sui Saltem Intellectum
-            Qui est potentia in cognoscendo illimitata. <hi>Soli</hi> Quia movere
-            potentiam Intentionalem pertinet ad Genus causalitatis, quae Soli Enti Reali
-            convenire potest; unde hymerae et non Entia (Si dantur distincta ab omni Ente 
-            reali) ad summum possunt esse obiectum potentiae Intentionalis pure 
-            terminativum quapropter sicut inter obiectum, quae sensu percipiuntur illa omnia est sola
-            vocantur Entia quae ad cognitionem sui movent sensum aliquem, quae vero 
-            non movent, uti silentium, tenebrae etc: non vocantur entia realia: ita etiam inter obiecta 
-            quae attinguntur per aliquam potentiam intentionalem, illa omnia et sola dici debent 
-            entia realia, quae movent aliquam potentiam intentionalem, sicut enim se habent 
-            sensibile ad sensum, ita attingibile a potentia Intentionali ad potentiam 
-            Intentionalem. 
+            <lb ed="#D"/><hi>Dicendum</hi> est Ens reale est illud, quod est motivum potentiae intentionalis. 
+            <lb ed="#D"/>Ita Perez et eorum sequaces praesertim Princeps Philosophorum Morawski. 
+            <lb ed="#D"/><hi>Probatur</hi> communi illo quod scilicet haec definitio competat omni soli et semper suo definito. 
+            <lb ed="#D"/><hi>Omni</hi> quia nullo est ens reale, quod per se vel per speciem sui nequeat movere ad cognitionem 
+            <lb ed="#D"/>sui saltem intellectum, Quia est potentia in cognoscendo illimitata. <hi>Soli</hi> Quia 
+            mo<lb ed="#D" break="no"/>vere potentiam intentionalem pertinet ad genus causalitatis, Quae soli enti reali
+            conve<lb ed="#D"/>nire potest, Unde himerae et non entia (si dantur distincta ab omni ente reali) ad 
+            <lb ed="#D"/>summum possunt esse obiectum potentiae intentionalis pure terminativum, Quapropter sicut 
+            <lb ed="#D"/>inter obiecta quae sensu percipiuntur illa omnia est sola vocantur entia, Quae ad 
+            cogni<lb ed="#D" break="no"/>tionem sui movent sensum aliquem. Quae vero non movent, Uti silentium, tenebrae etc: 
+            <lb ed="#D"/>non vocantur Entia realia: Ita etiam inter obiecta quae attinguntur per aliquam potentiam 
+            <lb ed="#D"/>intentionalem illa omnia et sola dici debent entia realia quae movent aliquam 
+            <pb ed="#D" n="569-r"/>
+            <lb ed="#D"/>potentiam intentionalem sicut enim se habent sensibile ad sensum, ita 
+            attin<lb ed="#D"/>gibile ad potentiam intentionalem. 
           </p>
           <p xml:id="y789tt-d1e93-d1e196">
-            Differt Conceptus Entis a conceptu Veri. Quia hoc
-            <pb ed="#M" n="552-r"/>
-            est Motivum potentiae intellectivae tantum. Bonum autem est potentiae appetitivae
-            motivum. Ens autem ex suo conceptu est indifferens ut attingatur
-            ab hac vel illa potentia: Unde universalior est illis. Et in Conceptu veri
-            clare apparet conceptus Entis non autem vicissim. Hinc
+            Differt conceptus entis a conceptu <hi>Veri</hi>. 
+            <lb ed="#D"/>Quia hoc est motivum potentiae intellectivae tantum. <hi>Bonum</hi> autem est potentiae appetitivae.
+            <lb ed="#D"/>Ens autem ex suo conceptu est indifferens ut attingatur ab hac vel illa potentia 
+            <lb ed="#D"/>Unde Universalior est illis. Et in conceptu veri clare apparet conceptus entis 
+            <lb ed="#D"/>non autem vicissim. Hinc
           </p>
           <p xml:id="y789tt-d1e93-d1e210">
-            Infertur primo Male definitur Ens quod sit illud quod opponitur non Enti <!--how to spell this-->. Sicut Male
-            definiretur homo per hoc quod opponitur non homini nam etiam lapis opponitur non homini.
-            et tamen non est homo.
+            Infero primo: Male definitur ens quod sit illud quod 
+            <lb ed="#D"/>opponitur non enti. Sicut male definiretur homo per hoc quod opponitur non homini 
+            <lb ed="#D"/>nam etiam Lapis opponitur non homini et tamen non est homo.
           </p>
           <p xml:id="y789tt-d1e93-d1e221">
-            Infero secundo Male definitur Ens esse illud quod est aptum existere
-            Ratio Quia existere cum sit realiter identificatum cum Ente, vel est identificatum 
-            ut quid inferius vel ut quid superius, vel ut quid convertibile eum respectu
-            Entis quatenus communis ad pure possibile et existens. Cum ergo definitur
-            Ens per hoc quod sit aptum existere vel definitur ratio superior per hoc
-            quod sit apta esse sua Species, ac si quis dicat: animal est id quod est aptum esse homo.
-            vel e converso definitur ratio inferio per hoc, quod sit apta esse suum
-            Genus: vel demum definitur unum ex praedicatis convertibilibus per hoc
-            quod sit aptum esse suum convertibile ac si quis dicat homo est id, quod est
-            aptum esse risibile et tamen omnes huiusmodi definitiones non sunt exactae.
-            Indiget ergo maiori luce utraque definitio Entis praedicta.
+            <lb ed="#D"/>Infero secundo Male definitur ens esse illud quod est aptum existere. Ratio Quia 
+            exis<lb ed="#D" break="no"/>tere, Cum sit realiter identificatum cum ente, vel est identificatum ut quid inferius 
+            <lb ed="#D"/>vel ut quid superius, vel ut quid convertibile eum respectu entis quatenus pure possibile ad 
+            <lb ed="#D"/>existens, Cum ergo definitur ens per hoc quod sit aptum existere, vel definitur ratio  
+            <lb ed="#D"/>superior per hoc quod sit apta esse sua Species, ac si quis dicat: animal est id quod 
+            <lb ed="#D"/>est aptum esse homo. Vel e converso definitur ratio inferior per hoc, quod sit apta esse suum
+            <lb ed="#D"/>genus: vel demum definitur unum ex praedicatis convertibilibus per hoc, quod sit aptum 
+            <lb ed="#D"/>esse suum convertibile ac si quis dicat homo est id quod est aptum esse risibile. Et tamen omnes 
+            <lb ed="#D"/>huiusmodi definitiones non sunt exactae. Indiget ergo maiori Luce utraque definitio 
+            <lb ed="#D"/>entis praedicta;
           </p>
           <p xml:id="y789tt-d1e93-d1e247">
-            Obiicitur primo Ens reale est quid absolutum ergo non bene definitur
-            per id quod est respectivum, tale autem est Esse motivum potentiae intentionalis
+            <lb ed="#D"/>Obiicitur primo Ens reale est quid absolutum, ergo non bene 
+            <lb ed="#D"/>definitur per id quod est respectivum, tale autem est esse motivum potentiae intentionalis.
           </p>
           <p xml:id="y789tt-d1e93-d1e254">
-            Respondeo Absolutum dicitur explicari per Relativum propter duas causas: <choice><unclear>Prima</unclear><unclear>Primo</unclear></choice>
-            Quando absolutum est maxime cognoscibile sed a sensibus remotissimum 
-            et hoc modo Deum concipimus relate ad creaturas. Vel etiam dum absolutum est
-            minime cognoscibile, et hoc modo concipimus materiam primam non nisi relate 
-            ad formas. Secunda Dum  Absolutum explicatur per respectivum dum est per se 
-            notum, hunc enim debet explicari per ordinem ad aliquem actum experimentalem
-            ut patet in albo et nigro. propter has rationes etiam Ens explicari debet per respectivum.
+            <lb ed="#D"/>Respondeo Absolutum dicitur explicari per relativum propter duas causas. Prima quando absolutum 
+            <lb ed="#D"/>est maxime cognoscibile sed a sensibus remotissimum; et hoc modo Deum 
+            <lb ed="#D"/>concipimus relate ad creaturas. Vel Etiam dum absolutum est minime cognoscibile, 
+            <lb ed="#D"/>et hoc modo concipimus materiam primam non nisi relate ad formas. Secunda <unclear>Dum</unclear> 
+            Abso<lb ed="#D" break="no"/>lutum explicatur per respectivum, dum est per se notum, tunc enim debet explicari per ordinem 
+            <lb ed="#D"/>ad aliquem actum experimentalem ut patet in albo et nigro propter has rationes etiam ens 
+            <lb ed="#D"/>explicari debet per respectivum.
           </p>
           <p xml:id="y789tt-d1e93-d1e276">
-            <hi>Urgetur</hi> Ipsa potentia Intentionalis explicari debet per ordinem ad Ens
-            reale tanquam ad Suum obiectum a quo specificatur ergo circulus Vitiosus erit.
+            <hi>Urgetur</hi> Ipsa potentia intentionalis explicari debet per 
+            ordi<lb ed="#D" break="no"/>nem ad ens reale tanquam ad suum obiectum, a quo specificatur; ergo circulus vitiosus 
+            <lb ed="#D"/>erit.
           </p>
           <p xml:id="y789tt-d1e93-d1e284">
-            <hi>Respondeo</hi> possunt absque circulo vitioso explicari duo termini per se ipsos
-            mutuo, quando sunt per se ipsos immediate noti, Quia <unclear>hunc</unclear> unus terminus explicatur
-            per alium aliunde scilicet per se ipsum notum, Sic autem contingit in Explicatione
-            Entis imo etiam in correlativis; filius enim explicatur per patrem aliunde scilicet
-            notum et pater vicissim.
+            <hi>Respondeo</hi> Possunt absque circulo vitioso explicari duo termini per se ipsos
+            <lb ed="#D"/>mutuo Quando sunt per se ipsos immediate noti quia tunc unus terminus explicatur
+            <lb ed="#D"/>per alium aliunde scilicet per se ipsum notum sic autem contingit in explicatione entis 
+            <lb ed="#D"/>imo etiam in correlativis, filius enim explicatur per patrem Aliunde scilicet
+            <lb ed="#D"/>notum et pater vicissim.
           </p>
           <p xml:id="y789tt-d1e93-d1e302">
-            <hi>Urgetur</hi> Quia Color ut sic explicatur per ordinem ad actuum ut sic potentiae visivae
-            dicendum color est obiectum visus; ideo talis color verbi gratia album dicitur explicari per
-            ordinem ad talem actum potentiae visivae dicendo, album est disgreagativum visus
-            ergo Similiter Si Ens reale ut sic explicatur per ordinem ad actum ut Sic
-            potentiae Intentionalis. etiam tale Ens verbi gratia Leo deberet explicari per ordinem ad
-            tale actum potentiae Intentionalis dicendo Leo est id quod tali modo
-            attingitur a potentia Intentionali. Sequela autem est inconveniens ergo
-            et id ex quo deducitur.
+            <pb ed="#D" n="569-v"/>
+            <lb ed="#D"/>Urgetur Quia Color ut sic explicatur per ordinem ad actuum ut sic potentiae visivae 
+            <lb ed="#D"/>dicendo color est obiectum visus, Ideo talis color verbi gratia album debet explicari per ordinem ad talem 
+            <lb ed="#D"/>actum potentiae visivae, Dicendo album est disgreagativum visus ergo similiter, Si ens reale 
+            <lb ed="#D"/>ut sic explicatur per ordinem ad actum ut sic potentiae intentionalis, Etiam tale ens verbi gratia 
+            <lb ed="#D"/>Leo, deberet explicari per ordinem ad tale actum potentiae intentionalis, dicendo Leo 
+            <lb ed="#D"/>est id quod tali modo attingitur a potentia intentionali. Sequela autem est inconveniens: ergo
+            <lb ed="#D"/>et id ex quo deducitur.
           </p>
           <p xml:id="y789tt-d1e93-d1e325">
-            <!--it is the same line--><hi>Respondeo</hi> tam color ut sic quam album sunt termini immediate
-            per se noti et ideo uterque hic terminus tam Genericus quam Specificus definiuntur 
-            relate ad actum nostrum experimentalem. At Ens ut sic <unclear>scilicet</unclear> sit terminus per se
-            notus non tamen similiter omnia inferiora eius verbi gratia homo, Leo etc. (Substantiae
-            enim nobis innotescunt per sua accidentia) et ideo haec non definiuntur relate
-            ad actus nostros experimentales sicut definitur ipsum Ens ut sic.
+            Respondeo tam Color ut sic quam album sunt termini immediate
+            <lb ed="#D"/>per se noti et ideo uterque hic terminus tam genericus quam specificus definiuntur ad actum 
+            <lb ed="#D"/>nostrum relate experimentalem. At ens ut sic licet sit terminus per se notus 
+            <lb ed="#D"/>non tamen similiter omnia inferiora eius verbi gratia homo Leo etc: (Substantiae enim nobis 
+            in<lb ed="#D" break="no"/>notescunt per sua accidentia) Et ideo haec non definiuntur relate ad actus nostros 
+            ex<lb ed="#D" break="no"/>perimentales, sicut definitur ens ipsum ut sic.
           </p>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e124">
-          <head xml:id="y789tt-d1e93-Hd1e126">Sectio 2</head>
+          <head xml:id="y789tt-d1e93-Hd1e126">Paragraphus 2</head>
           <head xml:id="y789tt-d1e93-Hd1e128" type="question-title">An dabilis est conceptus entis communis enti creato et increato, substantiae et accidentis</head>
           <p xml:id="y789tt-d1e93-d1e131"/>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e134">
-          <head xml:id="y789tt-d1e93-Hd1e136">Sectio 3</head>
+          <head xml:id="y789tt-d1e93-Hd1e136">Paragraphus 3</head>
           <head xml:id="y789tt-d1e93-Hd1e138" type="question-title">An ens formaliter transcendit differentias</head>
           <p xml:id="y789tt-d1e93-d1e141"/>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e145">
-          <head xml:id="y789tt-d1e93-Hd1e147">Sectio 4</head>
+          <head xml:id="y789tt-d1e93-Hd1e147">Paragraphus 4</head>
           <head xml:id="y789tt-d1e93-Hd1e149" type="question-title">An conceptus entis sit univocum en analogus</head>
           <p xml:id="y789tt-d1e93-d1e152"/>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e155">
-          <head xml:id="y789tt-d1e93-Hd1e157">Sectio 5</head>
+          <head xml:id="y789tt-d1e93-Hd1e157">Paragraphus 5</head>
           <head xml:id="y789tt-d1e93-Hd1e159" type="question-title">An solum ens reale potest cognosci</head>
           <p xml:id="y789tt-d1e93-d1e162"/>
         </div>
