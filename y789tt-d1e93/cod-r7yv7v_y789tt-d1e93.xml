@@ -218,8 +218,12 @@
           </p>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e134">
-          <head xml:id="y789tt-d1e93-Hd1e136">Paragraphus <!--It must be 3 here--></head>
+          <head xml:id="y789tt-d1e93-Hd1e136">Paragraphus 3</head>
           <head xml:id="y789tt-d1e93-Hd1e138" type="question-title">An ens formaliter transcendit differentias</head>
+          <p>
+          <lb ed="#M"/> <sic>§</sic>
+          <lb ed="#M"/>An ens formaliter transcendit differentias
+          </p>
           <p>
             <lb ed="#M"/>Praenoto Ens transcendere formaliter Differentias est ita in illis includi et imbibi 
             <lb ed="#M"/>ut differentiae etiam abstractissime acceptae involvant rationem Entis. Hinc animal 
