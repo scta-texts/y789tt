@@ -287,12 +287,21 @@
             superiora se mutuo transcendunt realiter seu ex parte obiecti. Ratio,
             quia transcendere realiter ex parte obiecti est esse identificatum realiter, sed omnia
             praedicata unius individui sunt invicem identificata realiter, ut ratio entis,
-            substantiae, corporis, viventis, animalis, hominis, patreitatis etc, ergo etc.
+            substantiae, corporis, viventis, animalis, hominis, patreitatis, 
+            <app>
+              <lem>etc</lem>
+              <rdg wit="#D" type="variation-absent"/>
+            </app>,
+            ergo etc.
           </p>
           <p xml:id="y789tt-d1e93-d1e497">
             Dicendum secundo, genus superius transcendit formaliter species inferiores
             sibi immediate subiectas, verbi gratia vivens speciem animalis. Ratio, quia transcendere
-            formaliter genus speciem est ita genus includi in specie, ut non possit concipi
+            formaliter genus speciem est ita genus includi in specie, ut non possit 
+            <app>
+              <lem>concipi</lem>
+              <rdg wit="#D" type="variation-substance">inscribi</rdg>
+            </app>
             species, quin concipiatur genus. Sed ita se res habet in specie subiecta immediate 
             generi, ut patet inductione <!--what did he mean by induction-->, ergo etc.
           </p>
@@ -303,16 +312,20 @@
           <p xml:id="y789tt-d1e93-d1e517">
             Probatur, quia <unclear>rationale</unclear> verbi gratia ex parte actus apprehenditur 
             ut distinctum a hymera et a puro nihilo, ergo apprehenditur ex parte actus ut ens,
-            ergo ex parte actus non praescinditur ab ente. Repugnat enim aliquid apprehendi 
+            ergo ex parte actus non praescinditur ab ente. Repugnat enim 
+            <app> 
+            <lem>appraendi aliquid</lem>
+            <rdg wit="M" type="variation-inversion">aliquid apprehendi</rdg>
+            </app>
             <!--P 404-v-->
-            ut ens, et tum praescindi ab ente.
+            ut ens, et tamen praescindi ab ente.
           </p>
           <p xml:id="y789tt-d1e93-d1e528">
             Firmatur primo, quid est formaliter motivum potentiae
             <pb ed="#m" n="553-v"/>
-            intentionalis est formaliter ens, sed qualibet differentia est talis, ergo
+            intentionalis est formaliter ens, sed quaelibet differentia est talis, ergo
             quaelibet differentia est formaliter ens, consequenter ens formaliter transcendit 
-            differentias. Maior certa est ex data in nobis definitione entis supra, minor est vera,
+            differentias. Maior certa est ex data a nobis definitione entis supra, minor est vera,
             nam quaelibet differentia formaliter sumpta cognoscitur secundum suam essentiam, ergo
             est motivum potentiae intentionalis. 
           </p>
@@ -326,12 +339,21 @@
           <p xml:id="y789tt-d1e93-d1e562">
             Firmatur tertio, in hac propositione:
             <hi>Rationale est principium ratiocinationum</hi> in copula <hi>est</hi> involvitur ratio entis, quod
-            enim est principium ratiocinationum, utique est seu est capax esse, ergo etc.
+            etiam est principium ratiocinationum, utique est seu est capax esse, ergo etc.
           </p>
           <p xml:id="y789tt-d1e93-d1e572">
             Obiicitur primo, si differentiae habent imbibitam rationem entis, conveniunt
             in ratione entis, sed non possunt convenire in ratione entis, ergo etc. Minor probatur,
-            quia per quid ultimo differunt species oppositae, non potest in ratione entis
+            quia per quid ultimo differunt species oppositae, non potest 
+            <app>
+              <lem>illud</lem>
+              <rdg wit="#M" type="variation-absent"></rdg>
+            </app>
+            in ratione 
+            <app>
+              <lem>entis</lem>
+              <rdg wit="#M" type="variation-present">illud</rdg>
+            </app>
             illud convenire, sed per differentias ultimo differunt species oppositae,
             ergo differentiae non possunt convenire in ratione entis.
           </p>
