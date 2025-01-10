@@ -59,9 +59,19 @@
       <div xml:id="y789tt-d1e93">
         <head xml:id="y789tt-d1e93-Hd1e108">Quaestio 1</head><!-- disputatio, quaestio 1-->
         <head xml:id="y789tt-d1e93-Hd1e111" type="question-title">De quidditate entis eiusque transcendentia atque conceptu univoco</head>
+        <p>
+          <pb ed="#D" n="568-v"/>
+          <lb ed="#D" n="1"/>Quaestio 1
+          <lb ed="#D"/>De quidditate entis eiusque transcendentia atque con<lb ed="#D" break="no"/>ceptu 
+          univoco
+        </p>
         <div xml:id="y789tt-d1e93-Dd1e114">
           <head xml:id="y789tt-d1e93-Hd1e116">Paragraphus 1</head>
           <head xml:id="y789tt-d1e93-Hd1e118" type="question-title">Quomodo definitur ens</head>
+          <p>
+            <lb ed="#D"/>Paragraphus 1us
+            <lb ed="#D"/>Quomodo definitur ens
+          </p>
           <p xml:id="y789tt-d1e93-d1e121">
             <lb ed="#D"/>Praenoto Ens reale non est definibile per genus superius se, nihil enim est superius ente ut sic. 
             <lb ed="#D"/>Neque est definibile per aliquid notius Quia est ipsum maxime notum intellectui nam in omni obiecto quod 
