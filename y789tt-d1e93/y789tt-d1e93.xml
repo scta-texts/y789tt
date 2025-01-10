@@ -209,16 +209,200 @@
         <div xml:id="y789tt-d1e93-Dd1e124">
           <head xml:id="y789tt-d1e93-Hd1e126">Paragraphus 2</head>
           <head xml:id="y789tt-d1e93-Hd1e128" type="question-title">An dabilis est conceptus entis communis enti creato et increato, substantiae et accidentis</head>
-          <p xml:id="y789tt-d1e93-d1e131"/>
+          <p xml:id="y789tt-d1e93-d1e366">
+            Dicendum est, potest dari unus conceptus entis communis enti creato et increato, 
+            substantiae et accidenti. 
+          </p>
+          <p xml:id="y789tt-d1e93-d1e373">
+            Probatur, quia posse movere potentiam 
+            intentionalem est commune omni enti reali tam creato, quam increato, substantiae et accidenti.
+            Et in hoc conceptu non apparent clare 
+            <app>
+              <lem>differentiae entium</lem>
+              <rdg wit="#M" type="variation-inversion">entium differentiae</rdg>
+            </app>,
+            sicut dum concipitur animal ut sic, non apparent clare differentiae animalium, ergo potest dari unus conceptus entis. 
+          </p>
+          <p xml:id="y789tt-d1e93-d1e384">
+            Firmatur, dantur similia connotata propria substantiae et accidenti, qualia sunt 
+            potentia intentionalis, quae respicit et accidens, et substantia, item oppositio cum
+            hymera, item extractio a puro nihilo, item independentia in suo esse ab intellectu
+            fingente, item capacitas esse in loco. Egro omnia entia possunt cognosci 
+            per connotata similia, ergo possunt cognosci per modum unius, sicut homo ut
+            sic, animal ut sic.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e403">
+            Obiicitur primo, quod essentialiter dicit differentias, ergo non potest
+            dari unus conceptus, sed ens essentialiter dicit differentias, ergo entis non potest esse
+            unus conceptus. Probatur minor, quia a differentiis non potest praescindi ens, alias etiam
+            differentiae possunt praescindi ab ente. 
+          </p>
+          <p xml:id="y789tt-d1e93-d1e412">
+            Respondeo, nego minorem et eius probationem. Non enim sequitur,
+            quod ens potest praescidi a differentiis, etiam differentiae debent praescindi ab ente,
+            sicut unio non potest cognosci, nisi cognoscantur unibilia, non tamen vicissim.
+            Non possunt autem praescindi differentiae ab ente ideo, quia differentiae,
+            <pb ed="#M" n="553-r"/>
+            quomodocunque spectentur, opponuntur nihilo et sunt motivum potentiae intentionalis,
+            proinde semper involvunt rationem entis. E contra vere ens ita potest depurari, 
+            ut non appareatur in eius conceptu clare differentia.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e430">
+            Urgetur, quomodocunque concipiatur ens, ab huc manebit in differentiis,
+            ergo non potest praescindi a differentiis, consequenter non potest unisari.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e437">
+            Respondeo, distinguo antecedens: 
+            <quote>quomodocunque concipiatur ens, manebit in differentiis</quote> ex parte obiecti — concedo 
+            <app>
+              <lem>antecedens</lem>
+              <rdg wit="#A" type="variation-absent"/>
+            </app>,
+            ex parte actus — nego antecedens;
+            sic distincto consequente nego consequentiam.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e444">
+            Obiicitur secundo, non potest dari ratio communis sapientiae creatae et increatae,
+            ergo neque ratio communis enti creato et increato.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e451">
+            Respondeo, nego antecedens, quod non probatur.
+          </p>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e134">
           <head xml:id="y789tt-d1e93-Hd1e136">Paragraphus 3</head>
           <head xml:id="y789tt-d1e93-Hd1e138" type="question-title">An ens formaliter transcendit differentias</head>
-          <p xml:id="y789tt-d1e93-d1e141"/>
+          <p xml:id="y789tt-d1e93-d1e463">
+            <sic>§</sic>
+            An ens formaliter transcendit differentias
+          </p>
+          <p xml:id="y789tt-d1e93-d1e472">
+            Praenoto, ens transcendere formaliter differentias est ita in illis includi et imbibi, 
+            ut differentiae, etiam abstractissime acceptae, involvant rationem entis. Hinc animal 
+            hominis non transcendit formaliter rationale, quia ita potest depurari conceptus animalis, 
+            ut in illo non involvatur saltem ex parte actus conceptus rationalis. Hinc
+          </p>
+          <p xml:id="y789tt-d1e93-d1e483">
+            Dicendum primo, in uno individuo omnia praediata sive inferiora sive 
+            superiora se mutuo transcendunt realiter seu ex parte obiecti. Ratio,
+            quia transcendere realiter ex parte obiecti est esse identificatum realiter, sed omnia
+            praedicata unius individui sunt invicem identificata realiter, ut ratio entis,
+            substantiae, corporis, viventis, animalis, hominis, patreitatis, 
+            <app>
+              <lem>etc</lem>
+              <rdg wit="#D" type="variation-absent"/>
+            </app>,
+            ergo etc.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e497">
+            Dicendum secundo, genus superius transcendit formaliter species inferiores
+            sibi immediate subiectas, verbi gratia vivens speciem animalis. Ratio, quia transcendere
+            formaliter genus speciem est ita genus includi in specie, ut non possit 
+            <app>
+              <lem>concipi</lem>
+              <rdg wit="#D" type="variation-substance">inscribi</rdg>
+            </app>
+            species, quin concipiatur genus. Sed ita se res habet in specie subiecta immediate 
+            generi, ut patet inductione <!--what did he mean by induction-->, ergo etc.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e510">
+            Dicendum tertio, ens transcendit formaliter omnes differentias suorum inferiorum
+            et differentiarum omnium. 
+          </p>
+          <p xml:id="y789tt-d1e93-d1e517">
+            Probatur, quia <unclear>rationale</unclear> verbi gratia ex parte actus apprehenditur 
+            ut distinctum a hymera et a puro nihilo, ergo apprehenditur ex parte actus ut ens,
+            ergo ex parte actus non praescinditur ab ente. Repugnat enim 
+            <app> 
+            <lem>appraendi aliquid</lem>
+            <rdg wit="M" type="variation-inversion">aliquid apprehendi</rdg>
+            </app>
+            <!--P 404-v-->
+            ut ens, et tamen praescindi ab ente.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e528">
+            Firmatur primo, quid est formaliter motivum potentiae
+            <pb ed="#m" n="553-v"/>
+            intentionalis est formaliter ens, sed quaelibet differentia est talis, ergo
+            quaelibet differentia est formaliter ens, consequenter ens formaliter transcendit 
+            differentias. Maior certa est ex data a nobis definitione entis supra, minor est vera,
+            nam quaelibet differentia formaliter sumpta cognoscitur secundum suam essentiam, ergo
+            est motivum potentiae intentionalis. 
+          </p>
+          <p xml:id="y789tt-d1e93-d1e551">
+            Firmatur secundo, rationale ut est 
+            principium discurrendi cognoscitur per connotata entis, quia cognoscitur per 
+            discursus ab illo producibiles, ergo cognoscitur per connotatum aptissimum ad
+            cognoscendam existentiam causae. Quid enim aptius est ad cognoscendam 
+            existentiam causae, quam existentia effectus. 
+          </p>
+          <p xml:id="y789tt-d1e93-d1e562">
+            Firmatur tertio, in hac propositione:
+            <hi>Rationale est principium ratiocinationum</hi> in copula <hi>est</hi> involvitur ratio entis, quod
+            etiam est principium ratiocinationum, utique est seu est capax esse, ergo etc.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e572">
+            Obiicitur primo, si differentiae habent imbibitam rationem entis, conveniunt
+            in ratione entis, sed non possunt convenire in ratione entis, ergo etc. Minor probatur,
+            quia per quid ultimo differunt species oppositae, non potest 
+            <app>
+              <lem>illud</lem>
+              <rdg wit="#M" type="variation-absent"></rdg>
+            </app>
+            in ratione 
+            <app>
+              <lem>entis</lem>
+              <rdg wit="#M" type="variation-present">illud</rdg>
+            </app>
+            illud convenire, sed per differentias ultimo differunt species oppositae,
+            ergo differentiae non possunt convenire in ratione entis.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e585">
+            Respondeo, distinguo maiorem: 
+            differentiae confuse cognitae conveniunt in ratione entis — concedo, clare et 
+            expresse cognitae — nego. Respondeo secundo: etiam differentiae spectatae ad connotata 
+            communia entis conveniunt in ratione entis secus spectate secundum praedicata 
+            differentialia.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e596">
+            Obiicitur secundo: in omni compositione una pars debet distingui
+            ab alia comparte, sed substantia est compositum metaphysicum, componitur enim
+            ex genere, scilicet ente, et differentia, scilicet perseitate. Substantia enim est ens 
+            per se stans, ergo illius compars scilicet perseitas debet distingui ab alia
+            comparte, scilicet ente, consequenter non debet includere ens, ergo ens non transcendit 
+            differentias
+          </p>
+          <p xml:id="y789tt-d1e93-d1e609">
+            Respondeo, distinguo maiorem: in composito physico compars a comparte 
+            debet distingui — concedo, in metaphysico — nego.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e614">
+            Urgetur: si perseitas dicit rationem entis, ergo substantia nihil plus dicit
+            ultra perseitatem, sed debet dicere plus, quia substantia <unclear>debet</unclear> componitur ex 
+            genere et differentia, quae est perseitas, ergo praeter perseitatem debet dicere plus.
+            Probatur illatum, quia substantia dicit ens et perseitatem, sed perseitas dicit hoc
+            totum, ergo perseitas sola dicet hoc totum, quod dicet substantiam.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e627">
+            Respondeo: easdem
+            formalitates dicit perseitas et substantia, sed tamen illae formalitates diversimode 
+            <pb ed="#M" n="554-r"/>
+            concipiuntur in perseitate solitarie sumpta, et diversimode in substantia. Nam
+            in perseitate solitarie sumpta concipitur tanquam in ratione formali contrahendi
+            rationem communem et universalem entis ad speciem inferiorem ente, scilicet substantia. In
+            substantia autem concipitur tanquam in specie ad quam contrahitur ratio entis. Potest
+            etiam dici plus dicere substantiam, quam perseitatem solitarie sumptam, quia substantia
+            resolvitur in conceptum clarum entis et conceptum clarum perseitatis, in qua
+            obscurius ens imbibitur. Iam autem perseitas solum resolvitur in conceptum
+            perseitatis, in quo obscurius imbibit ens, ultra quem substantiam addit clarum
+            conceptum entis. Distinctio ergo non nisi rationis ratiocinantis <!--est P--> inter ens et perseitatem,
+            quia ens diversus modus tendendi in illa, dum nunc clarius, nunc obscurius
+            cognoscuntur.
+          </p>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e145">
           <head xml:id="y789tt-d1e93-Hd1e147">Paragraphus 4</head>
-          <head xml:id="y789tt-d1e93-Hd1e149" type="question-title">An conceptus entis sit univocum en analogus</head>
+          <head xml:id="y789tt-d1e93-Hd1e149" type="question-title">An conceptus entis sit univocum an analogus</head>
           <p xml:id="y789tt-d1e93-d1e152"/>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e155">
