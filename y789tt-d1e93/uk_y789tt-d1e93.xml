@@ -9,16 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
-        <respStmt>
-          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-          <resp>Transcription Editor</resp>
-          <resp>TEI Encoder</resp>
-        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
           <title>Quaestio 1</title>
-          <date when="2024-10-23">October 23, 2024</date>
+          <date when="2025-01-10">January 10, 2025</date>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -43,23 +38,27 @@
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
-        <change when="2024-10-23" status="draft" n="0.0.0">
+        <change when="2025-01-10" status="draft" n="0.0.0">
           <p>Created file for the first time.</p>
         </change>
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text xml:lang="la">
+  <text xml:lang="uk">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#M" n="551-v"/>
+        
       </div>
     </front>
     <body>
       <div xml:id="y789tt-d1e93">
-        <head xml:id="y789tt-d1e93-Hd1e108">Quaestio 1</head><!-- disputatio, quaestio 1-->
+        <head xml:id="y789tt-d1e93-Hd1e108">Question 1</head><!-- disputatio, quaestio 1-->
         <head xml:id="y789tt-d1e93-Hd1e111" type="question-title">De quidditate entis eiusque transcendentia atque conceptu univoco</head>
         <p xml:id="y789tt-d1e93-d1e115">
+          Question 1
+          On the whatness of being and transcendence and also concept
+          
+          
           <pb ed="#M" n="551-v"/>
           <lb ed="#M" n="1"/>Quaestio 1ma
           <lb ed="#M" n="2"/>De quidditate entis et transcendentia atque conce<lb ed="#M" n="3"/>ptu 
