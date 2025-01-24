@@ -329,9 +329,7 @@
             </subst>
             Quia est diversus modus tendendi 
             <lb ed="#D"/>in illa dum nunc clarius nunc obscurius cognoscuntur.
-            <pb ed="#D" n="571-r"/> 
-            <!-- I'm not sure whether I can put pb here -->
-          </p>
+            </p>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e145">
           <head xml:id="y789tt-d1e93-Hd1e147">Paragraphus 4</head>
@@ -361,59 +359,64 @@
             <lb ed="#D"/>et tamen ratio actus vitalis univoce dicitur de volitione et cognitione. 
           </p>
           <p xml:id="y789tt-d1e93-d1e711">
-            Ad Rationem Adversationem dico: eo ipso quod concipitur
-            Ratio Entis esse prior in Deo quam in Creaturis involvitur actus comparativus
-            de quo hic non est Quaestio. Deinde falsum est, quod Ratio Entis prius contrahatur
-            ad Deum quam creaturas contrahi enim Genus ad Speciem nihil aliud est, nisi cognosci
-            clare specie et in Specie, sed Ratio Entis prius cognoscitur clare in Creaturis
-            quam in Deo et accidente quam Substantia Quia et Deus cognoscitur per Creaturas
-            <pb ed="#M" n="554-v"/>
-            et substantiam per accidentia. ergo etc: Solum ergo dicta dependentia est in esse non in cognosci
+            Ad rationem 
+            <lb ed="#D"/>adversariorum dico: Eo ipso quod concipitur ratio entis, esse prior in Deo quam in creaturis 
+            <lb ed="#D"/>involvitur actus comparativus de quo hic non est quaestio. Deinde falsum est Quod 
+            <lb ed="#D"/>ratio entis prius contrahatur ad Deum quam creaturas, contrahi enim genus ad speciem 
+            <lb ed="#D"/>nihil aliud est, nisi cognosci clare specie et in specie genus, sed ratio entis 
+            <lb ed="#D"/>prius cognoscitur clare in creaturis quam in Deo, et in accidente quam substantia, Quia 
+            <lb ed="#D"/>et Deus cognoscatur per creaturas et substantia per accidentia: ergo etc: Solum ergo dicta 
+            <lb ed="#D"/>dependentia est in esse non in cognosci.
           </p>
           <p xml:id="y789tt-d1e93-d1e731">
-            Alii Dicunt Rationem Entis esse analogam propter transcendentiam est in esse non in cognosci
-            etiam differentias permeat, ut dixi supra, adeoque est diversa formaliter, quod enim 
-            identificatur diversis formaliter est diversum formaliter, Sed Ratio Entis identificatur 
-            diversis formaliter scilicet differentiis ergo etc: Haec sententia est extra Quaestionem
-            <unclear>quando</unclear> enim rationem Entis prout comparatur et contrahitur ad inferiora esse diversum. sed
-            Quaero: An Ens praecisa comparatione ad Inferiora involvat aliquam diversitatem?
-            seu conceptus Entis confusus formatus solum ad connotata communia Entis
-            est ne dabilis?
+            <lb ed="#D"/>Alii Dicunt rationem entis esse analogam propter transcendentiam, quae transcedentia Etiam 
+            <lb ed="#D"/>differentias permeat ut dixi supra adeoque est diversa formaliter quod enim identificatur 
+            <lb ed="#D"/>diversis formaliter est diversum formaliter, sed ratio entis identificatur diversis formaliter 
+            <lb ed="#D"/>scilicet differentiis Ergo etc: 
+          </p>
+          <p>
+            Haec sententia est extra quaestionem
+            Ideo enim rationem 
+            <lb ed="#D"/>entis prout comparatur et contrahitur ad inferiora esse diversum. Sed quaero; an ens 
+            <lb ed="#D"/>praecisa comparatione ad inferiora involvat aliquam diversitatem seu conceptus entis 
+            <lb ed="#D"/>confusus formatus solum ad connotata communia entis est ne dabilis?
           </p>
           <p xml:id="y789tt-d1e93-d1e752">
-            Dices: Ens sic spectatum non involvere illam diversitatem
-            actualem nisi aptitudinalem Ratio Quia conceptus Entis est Universalis homo vero Universale quodlibet
-            sit unum aptum inesse multis hinc conceptus universalis debet competere conceptum Entis
-            ac proinde debet esse unus aptus inesse multis et Quia Ens, ita aptum est in esse multis
-            ut transcendat formaliter etiam differentias ultimas. hinc ratione huius aptitudinalis
-            differentiae conceptus Entis erit analogus. Aliter contingit in conceptu animalis, animal 
-            enim ita est aptum inesse multis, ut possit ab illius conceptu depurari differentia,
-            conceptus enim formalis rationalis non involvit conceptum formalem animalis. Quia diversa
-            sunt ista principia per rationem.
+            Dices 
+            <lb ed="#D"/>Ens sic spectatum non involvere ullam diversitatem actualem nisi aptitudinalem. 
+            <lb ed="#D"/>Ratio Quia conceptus entis est universalis: homo vero universale quodlibet sit unum 
+            <pb ed="#D"/>
+            <lb ed="#D"/>aptum inesse multis hinc conceptus universalis debet competere conceptum entis, ac proinde 
+            <lb ed="#D"/>debet esse unus aptus inesse multis. Et Quia ens ita aptum est in esse multis, ut 
+            transcen<lb ed="#D"/>dat formaliter etiam Differentias ultimas. Hinc ratione huius aptitudinalis
+            <lb ed="#D"/>differentiae conceptus entis erit analogus. Aliter contingit in conceptu <hi>animalis</hi> 
+            <lb ed="#D"/>animal enim ita est aptum inesse multis, ut possit ab illius conceptu depurari differentia,
+            <lb ed="#D"/>Conceptus enim formalis <hi>rationalis</hi> Non involvit conceptum <hi>Animalis</hi> formalem, Quia 
+            diver<lb ed="#D"/>sa sunt ista principia per rationem.
           </p>
           <p xml:id="y789tt-d1e93-d1e772">
-            Ad hoc Respondeo: Praenoto in ratione
-            Entis confuse concepti duplex potest cogitari aptitudo ad praedicari de multis,
-            <hi>proxima</hi> et remota: proxima quae <unclear>habitur</unclear> ab actu comparativo Entis ad Inferiora
-            ut dixi in Logica. Et haec aptitudo proxima infert diversitatem ut dixi.
-            <hi>Remota</hi> quae habitur ab ipso conceptu Entis confuso praecisa comparatione. De
-            hac itaque aptitudine.
+            Ad hoc respondeo. 
+            <lb ed="#D"/>Praenoto in ratione entis confuse concepti duplex potest cogitari aptitudo ad 
+            praedi<lb ed="#D"/>cari de multis, Proxima et remota: <hi>Proxima</hi> Quae <unclear>habitur</unclear> ab actu 
+            compara<lb ed="#D"/>tivo entis ad inferiora, ut dixi in Logica. Et haec Aptitudo proxima infert 
+            di<lb ed="#D"/>versitatem ut dixi. <hi>Remota</hi> Quae habitur ab ipso conceptu entis confuso praecisa 
+            compa<lb ed="#D"/>ratione. De hac itaque aptitudine.
           </p>
           <p xml:id="y789tt-d1e93-d1e790">
-            Dicendum secundo Ens non est Analogum sed Univocum propter
-            transcedentiam aptitudinalem. 
+            <lb ed="#D"/>Dicendum secundo Ens Non est analogum sed univocum propter transcedentiam 
+            aptitudina<lb ed="#D"/>lem. 
           </p>
           <p xml:id="y789tt-d1e93-d1e797">
-            Probatur Quia in Conceptu Entis, seclusa comparatione
-            ad inferiora non apparet diversitas aptitudinalis formalis transcendentiae, nam
-            diversitas actualis Entis non habitur a ratione Entis quatenus significata nomine Entis
-            sed Quatenus significata nomine Differentiarum ergo diversitas aptitudinalis.
-            sed in illo conceptu non apparet etiam aptitudo formalis diversitatis.
-            Brevius sic: Univoca sunt quorum nomen est commune, ratio significata 
-            per nomine omnino eadem. Sed ita se habet Ratio Entis ergo etc: minor probatur Quia 
-            aptitudinalis diversitas transcendentiae non est ex ratione Entis, Significata nomine Entis,
-            sed ex ratione significata nomine Differentiae ergo ratio Entis nomine Entis Significata
-            est omnino eadem.
+            Probatur: Quia in conceptu entis seclusa comparatione ad inferiora non 
+            ap<lb ed="#D"/>paret diversitas aptitudinalis formalis transcendentiae, Nam diversitas actualis entis 
+            <lb ed="#D"/>non habetur a ratione entis quatenus significata nomine entis sed quatenus significata nomine 
+            <lb ed="#D"/>differentiarum Ergo diversitas aptitudinalis. sed in illo conceptu entis confuso
+            <lb ed="#D"/>nullum est nomen differentiarum Ergo in illo conceptu non apparet etiam aptitudo formalis 
+            <lb ed="#D"/>diversitatis: Brevius sic Univoca sunt quorum nomen est commune, ratio vero per
+            <lb ed="#D"/>nomen significata est <!-- there is a difference in #M here --> omnino eadem. sed ita se habet ratio entis, Ergo etc: Ergo est universa 
+            <lb ed="#D"/>minor probatur Quia aptitudinalis diversitas transcendentiae non est ex ratione entis 
+            signi<lb ed="#D"/>ficata nomine entis, sed ex ratione significata nomine differentiae. Ergo ratio entis nomine entis 
+            <lb ed="#D"/>significata est omnino eadem.
           </p>
           <p xml:id="y789tt-d1e93-d1e820">
             Firmatur primo aptitudo in conceptu animalis ad
