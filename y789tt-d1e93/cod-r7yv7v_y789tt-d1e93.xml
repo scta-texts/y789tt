@@ -176,6 +176,11 @@
         <div xml:id="y789tt-d1e93-Dd1e124">
           <head xml:id="y789tt-d1e93-Hd1e126">Paragraphus 2</head>
           <head xml:id="y789tt-d1e93-Hd1e128" type="question-title">An dabilis est conceptus entis communis enti creato et increato, substantiae et accidentis</head>
+          <p>
+            <lb ed="#M"/>§ 2dus
+            <lb ed="#M"/>An dabilis est Conceptus communis Enti Creato et Increato
+            <lb ed="#M"/>Substantiae et Accidenti
+          </p>
           <p xml:id="y789tt-d1e93-d1e366">
             <lb ed="#M" n="14"/>Dicendum est Potest dari unus conceptus Entis Communis Enti Creato et Increato 
             <lb ed="#M" n="15"/>Substantiae et Accidenti. 
@@ -341,6 +346,8 @@
           <p xml:id="y789tt-d1e93-d1e668">
             <lb ed="#M"/>§ 4
             <lb ed="#M"/>An conceptus entis sit univocum en analogus
+          </p>
+          <p>
             <lb ed="#M" n="12"/>Praenoto Non est Dubium quod Ratio Entis Si comparetur ad Inferiora sit Analoga. Quia est
             <lb ed="#M" n="13"/>partim eadem praecisa a Differentiis partim diversa, Si comparetur ad Inferiora, quod enim
             <lb ed="#M" n="14"/>identificatur diversis formaliter est diversum formaliter, sed Ratio Entis sic se habet comparata
@@ -383,7 +390,7 @@
             <lb ed="#M" n="6"/><unclear>quando</unclear> enim rationem Entis prout comparatur et contrahitur ad inferiora esse diversum. sed
             <lb ed="#M" n="7"/>Quaero: An Ens praecisa comparatione ad Inferiora involvat aliquam diversitatem?
             <lb ed="#M" n="8"/>seu conceptus Entis confusus formatus solum ad connotata communia Entis
-            <lb ed="#M" n="9"/>est ne dabilis?
+            <lb ed="#M" n="9"/>estne dabilis?
           </p>
           <p xml:id="y789tt-d1e93-d1e752">
             Dices: Ens sic spectatum non involvere ullam diversitatem
@@ -399,9 +406,9 @@
           <p xml:id="y789tt-d1e93-d1e772">
             Ad hoc Respondeo: Praenoto in ratione
             <lb ed="#M" n="18"/>Entis confuse concepti duplex potest cogitari aptitudo ad praedicari de multis,
-            <lb ed="#M" n="19"/><hi>proxima</hi> et remota: proxima quae <unclear>habitur</unclear> ab actu comparativo Entis ad Inferiora
+            <lb ed="#M" n="19"/><hi>proxima</hi> et remota: proxima quae <unclear>habetur</unclear> ab actu comparativo Entis ad Inferiora
             <lb ed="#M" n="20"/>ut dixi in Logica. Et haec aptitudo proxima infert diversitatem ut dixi.
-            <lb ed="#M" n="21"/><hi>Remota</hi> quae habitur ab ipso conceptu Entis confuso praecisa comparatione. De
+            <lb ed="#M" n="21"/><hi>Remota</hi> quae habetur ab ipso conceptu Entis confuso praecisa comparatione. De
             <lb ed="#M" n="22"/>hac itaque aptitudine.
           </p>
           <p xml:id="y789tt-d1e93-d1e790">
@@ -424,13 +431,15 @@
           <p xml:id="y789tt-d1e93-d1e820">
             Firmatur primo aptitudo in conceptu animalis ad
             <pb ed="#M" n="555-r"/>
-            transcen<lb ed="#M" break="no" n="1"/><unclear>dentiam</unclear> formaliter species non obest univocationem in <unclear>conceptis</unclear> animalis secundum omnes
+            transcen<lb ed="#M" break="no" n="1"/><unclear>dentiam</unclear> formaliter species non obest univocationem in <subst><del>conceptus</del> <add>conceptu</add></subst> animalis secundum omnes
+            <!-- The previous correction is in two manuscripts. It shows that the text was dictated -->
             <lb ed="#M" n="2"/>ergo etiam aptitudo ad transcendendas formaliter differentias non obest univocationi
             conceptus Entis.
           </p>
           <p xml:id="y789tt-d1e93-d1e832">
-            Firmatur secundo Conceptus Entis debet esse diversus <unclear>per</unclear> hoc quod est ipsi
-            <lb ed="#M" n="3"/>essentiale Enti, potest enim Ens praescindi abilis per rationem ergo etc:
+            Firmatur secundo Conceptus Entis debet esse diversus per hoc quod est ipsi
+            <lb ed="#M" n="3"/>essentiale: omne enim est diversum ab alio per suam essentiam sed differentiae non sunt
+            essentiale Enti, potest enim Ens praescindi ab ilis per rationem ergo etc:
           </p>
           <p xml:id="y789tt-d1e93-d1e839">
             <lb ed="#M" n="4"/>Obiicitur primo Quod est aptum in esse formaliter diversis est diversum adeoque non est univocum
@@ -455,27 +464,29 @@
           <p xml:id="y789tt-d1e93-d1e879">
             <lb ed="#M" n="15"/>Infero Ratio Entis praecisa comparatione ad Sua Inferiora per actum reflexum
             <lb ed="#M" n="16"/>est univoca,. Aequivoca autem est respectu Entis rationis et negationum, Supposito
-            <lb ed="#M" n="17"/>quod hae distinguantur ab omni Ente reali. Analoga denique est spectat in Casu comparationis
+            <lb ed="#M" n="17"/>quod hae distinguantur ab omni Ente reali. Analoga denique est spectata in Casu comparationis
             <lb ed="#M" n="18"/>ad Sua Inferiora.
           </p>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e155">
           <head xml:id="y789tt-d1e93-Hd1e157">Paragraphus 5</head>
           <head xml:id="y789tt-d1e93-Hd1e159" type="question-title">An solum ens reale potest cognosci</head>
-          <p xml:id="y789tt-d1e93-d1e162"/>
-          <p xml:id="y789tt-d1e93-d1e901">
+          <p>
             <!--ed="#P" no="406-v"-->
+            <lb ed="#M"/>§V
+            <lb ed="#M"/>An solum Ens Reale potest cognosci
+          </p>
+          <p xml:id="y789tt-d1e93-d1e901">
             <lb ed="#M" n="19"/>Praenoto Quoniam Supra definivimus Ens per hoc quod sit motivum potentiae Intentionalis
-            <lb ed="#M" n="20"/>debemus iam consequenter dicere. quod quidquid movet potentiam Intentionalem seu quidquid cognoscitur est Ens.
-            <!--ed="#P" no="407-r"-->
+            <lb ed="#M" n="20"/>debemus iam consequenter dicere. quod quidquid movet potentiam Intentionalem <!--ed="#P" no="407-r"--> seu quidquid cognoscitur est Ens.
             <lb ed="#M" n="21"/>Hic itaque solemniter inquiritur an Solum Ens Reale potest Cognosci ita ut quidquid sit distinctum
             <lb ed="#M" n="22"/>ab omni Ente reali nequaquam cognosci possit adeoque quidquid sit impossibile sit etiam incognoscibile.
             <lb ed="#M" n="23"/>pro utraque Sententia magna Authorum Classicorum <!-- stat #P --> multitudo nobis tamen
           </p>
           <p xml:id="y789tt-d1e93-d1e921">
-          <lb ed="#M" n="24"/>Dicendum est primo Omne Ens Reale potest Cognosci Ratio Quia omne 
-          <lb ed="#M" n="25"/>verum potest Cognosci verum enim est obiectum Intellectus sed omne Ens Reale est verum. Quia
-          <lb ed="#M" n="26"/>veritas est passio metaphysica Entis identificata realiter eidem ergo etc:
+            <lb ed="#M" n="24"/>Dicendum est primo Omne Ens Reale potest Cognosci Ratio Quia omne 
+            <lb ed="#M" n="25"/>verum potest Cognosci verum enim est obiectum Intellectus sed omne Ens Reale est verum. Quia
+            <lb ed="#M" n="26"/>veritas est passio metaphysica Entis identificata realiter eidem ergo etc:
           </p>
           <p xml:id="y789tt-d1e93-d1e931">
             <lb ed="#M" n="27"/>Notandum enim hic. Quia non definio a quo nam Intellectu potest cognosci Ens Reale plura
