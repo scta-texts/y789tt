@@ -176,7 +176,7 @@
         <div xml:id="y789tt-d1e93-Dd1e124">
           <head xml:id="y789tt-d1e93-Hd1e126">Paragraphus 2</head>
           <head xml:id="y789tt-d1e93-Hd1e128" type="question-title">An dabilis est conceptus entis communis enti creato et increato, substantiae et accidentis</head>
-          <p>
+          <p xml:id="y789tt-d1e93-d1e331">
             <lb ed="#M"/>§ 2dus
             <lb ed="#M"/>An dabilis est Conceptus communis Enti Creato et Increato
             <lb ed="#M"/>Substantiae et Accidenti
@@ -343,11 +343,11 @@
         <div xml:id="y789tt-d1e93-Dd1e145">
           <head xml:id="y789tt-d1e93-Hd1e147">Paragraphus 4</head>
           <head xml:id="y789tt-d1e93-Hd1e149" type="question-title">An conceptus entis sit univocum en analogus</head>
-          <p xml:id="y789tt-d1e93-d1e668">
+          <p xml:id="y789tt-d1e93-d1e650">
             <lb ed="#M"/>§ 4
             <lb ed="#M"/>An conceptus entis sit univocum en analogus
           </p>
-          <p>
+          <p xml:id="y789tt-d1e93-d1e668">
             <lb ed="#M" n="12"/>Praenoto Non est Dubium quod Ratio Entis Si comparetur ad Inferiora sit Analoga. Quia est
             <lb ed="#M" n="13"/>partim eadem praecisa a Differentiis partim diversa, Si comparetur ad Inferiora, quod enim
             <lb ed="#M" n="14"/>identificatur diversis formaliter est diversum formaliter, sed Ratio Entis sic se habet comparata
@@ -385,7 +385,7 @@
             identi<lb ed="#M" break="no" n="4"/>ficatur diversis formaliter est diversum formaliter, Sed Ratio Entis identificatur 
             <lb ed="#M" n="5"/>diversis formaliter scilicet differentiis ergo etc: 
             </p>
-            <p>
+          <p xml:id="y789tt-d1e93-d1e742">
             Haec sententia est extra Quaestionem
             <lb ed="#M" n="6"/><unclear>quando</unclear> enim rationem Entis prout comparatur et contrahitur ad inferiora esse diversum. sed
             <lb ed="#M" n="7"/>Quaero: An Ens praecisa comparatione ad Inferiora involvat aliquam diversitatem?
@@ -471,7 +471,7 @@
         <div xml:id="y789tt-d1e93-Dd1e155">
           <head xml:id="y789tt-d1e93-Hd1e157">Paragraphus 5</head>
           <head xml:id="y789tt-d1e93-Hd1e159" type="question-title">An solum ens reale potest cognosci</head>
-          <p>
+          <p xml:id="y789tt-d1e93-d1e162">
             <!--ed="#P" no="406-v"-->
             <lb ed="#M"/>§V
             <lb ed="#M"/>An solum Ens Reale potest cognosci
