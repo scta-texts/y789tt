@@ -108,9 +108,9 @@
             non movent, uti silentium, tenebrae etc., non vocantur entia realia. Ita etiam inter obiecta, 
             quae attinguntur per aliquam potentiam intentionalem, illa omnia et sola dici debent 
             entia realia, quae movent aliquam potentiam intentionalem, sicut enim se habent 
-            sensibile ad sensum, ita 
+            sensibile ad sensum, ita attingibile
             <app>
-              <lem>attingibile</lem>
+              <lem n="attingibile"/>
               <rdg wit="#M" type="variation-present">a potentia intentionali</rdg>
             </app>
             ad potentiam intentionalem. 
@@ -349,9 +349,9 @@
               <lem>illud</lem>
               <rdg wit="#M" type="variation-absent"></rdg>
             </app>
-            in ratione 
+            in ratione entis
             <app>
-              <lem>entis</lem>
+              <lem n="entis"/>
               <rdg wit="#M" type="variation-present">illud</rdg>
             </app>
             convenire, sed per differentias ultimo differunt species oppositae,
