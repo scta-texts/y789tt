@@ -173,6 +173,11 @@
         <div xml:id="y789tt-d1e93-Dd1e124">
           <head xml:id="y789tt-d1e93-Hd1e126">Paragraphus 2</head>
           <head xml:id="y789tt-d1e93-Hd1e128" type="question-title">An dabilis est conceptus entis communis enti creato et increato, substantiae et accidentis</head>
+          <p>
+            <lb ed="#D"/>§II
+            <lb ed="#D"/>An dabilis est conceptus entis communis enti creato et increato, substantiae et accidentis
+            <lb ed="#D"/>increato, substantiae et accidentis
+          </p>
           <p xml:id="y789tt-d1e93-d1e366">
             <lb ed="#D"/>Dicendum est Potest dari unus conceptus entis communis enti creato et increato substantiae et accidenti. 
           </p>
@@ -278,61 +283,270 @@
             <lb ed="#D"/>Obiicitur primo si differentiae habent imbibitam rationem entis
             <add place="left-margine" hand="#N2">tunc</add>conveniunt in ratione entis, sed non possunt convenire in ratione Entis Ergo etc: minor 
             pro<lb ed="#D"/>batur Quia per quid ultimo differunt species oppositae non potest illud in ratione entis
-            convenire. sed per differentias ultimo differunt species oppositae
-            ergo differentiae non possunt convenire in ratione entis.
+            con<lb ed="#D"/>venire, sed per differentias ultimo differunt species oppositae ergo differentiae non possunt 
+            convenire in ratione entis;
           </p>
           <p xml:id="y789tt-d1e93-d1e585">
-            respondeo distinguo maiorem 
-            differentiae confuse cognitae conveniunt in ratione entis concedo clare et 
-            expresse cognitae nego respondeo secundo etiam differentiae spectatae ad connotata 
-            communia entis conveniunt in ratione entis secus spectate secundum praedicata 
-            differentialia.
+            Respondeo Distinguo maiorem differentiae confuse cognitae 
+            <lb ed="#D"/>conveniunt in ratione entis concedo clare et expresse cognitae nego. respondeo secundo Etiam 
+            <lb ed="#D"/>differentiae spectatae ad connotata communia entis conveniunt in ratione entis, secus 
+            <lb ed="#D"/>spectate secundum praedicata differentialia.
           </p>
           <p xml:id="y789tt-d1e93-d1e596">
-            obicitur secundo in omni compositione una pars debet distingui
-            ab alia comparte sed substantia est compositum metaphysicum componitur enim
-            ex genere scilicet ente et differentia scilicet perseitate. substantia enim est ens 
-            per se stans, ergo illius compars scilicet perseitas debet distingui ab alia
-            comparte scilicet ente, consequenter non debet includere ens ergo ens non transcendit 
-            differentias
+            <lb ed="#D"/>Obiicitur secundo In omni compositione una pars debet distingui ab alia 
+            <lb ed="#D"/>comparte sed substantia est compositum, metaphysicum, componitur enim ex genere scilicet 
+            <lb ed="#D"/>ente et differentia scilicet perseitate, substantia enim est ens per se stans, ergo illius compars 
+            <lb ed="#D"/>scilicet perseitas debet distingui ab alia comparte scilicet ente consequenter non debet includere ens 
+            <lb ed="#D"/>ergo ens non transcendit differentias.
           </p>
           <p xml:id="y789tt-d1e93-d1e609">
-            respondeo distinguo maiorem in composito physico compars a comparte 
-            debet distingui concedo in metaphysico nego.
+            Respondeo distinguo maiorem in composito physico compars a comparte 
+            <lb ed="#D"/>debet distingui concedo in metaphysico nego.
           </p>
           <p xml:id="y789tt-d1e93-d1e614">
-            urgetur si perseitas dicit rationem entis, ergo substantia nihil plus dicit
-            ultra perseitatem. sed debet dicere plus. quia substantia debet componitur ex 
-            genere et differentia quae est perseitas ergo praeter perseitatem debet dicere plus.
-            probatur illatum quia substantia dicit ens et perseitatem sed perseitas dicit hoc
-            totum, ergo perseitas sola dicet hoc totum, quod dicet substantiam.
+            <lb ed="#D"/>Urgetur si perseitas dicit rationem entis, ergo substantia nihil plus 
+            <lb ed="#D"/>dicit ultra perseitatem sed debet dicere plus, Quia substantia componitur ex genere et 
+            <lb ed="#D"/>differentia quod est perseitas, ergo praeter perseitatem debet dicere plus. Probatur 
+            illa<lb ed="#D"/>tum, Quia substantia dicit et perseitatem sed perseitas <add place="above-line">sola</add> dicit hoc totum, ergo perseitas sola 
+            <lb ed="#D"/>dicet hoc totum, quod dicet substantiam.
           </p>
           <p xml:id="y789tt-d1e93-d1e627">
-            respondeo easdem
-            formalitates dicit perseitas et substantia, sed tamen illae formalitates diversimode 
-            <pb ed="#m" n="554-r"/>
-            concipiuntur in perseitate solitarie sumpta, et diversimode in substantia nam
-            in perseitate solitarie sumpta concipitur tanquam in ratione formali contrahendi
-            rationem communem et universalem entis ad speciem inferiorem ente scilicet substantia in
-            substantia autem concipitur tanquam in specie ad quam contrahitur ratio entis. potest
-            etiam dici plus dicere substantiam quam perseitatem solitarie sumptam, quia substantia
-            resolvitur in conceptum clarum entis et conceptum clarum perseitatis, in qua
-            obscurius ens imbibitur, iam autem perseitas solum resolvitur in conceptum
-            perseitatis, in quo obscurius imbibit ens, ultra quem substantiam addit clarum
-            conceptum entis. distinctio ergo non nisi rationis ratiocinantis inter ens et perseitatem.
-            quia ens diversus modus tendendi in illa, dum nunc clarius nunc obscurius
-            cognoscuntur.
-          </p>
+            Respondeo easdem <subst><del>perseitas</del> <add>formalitates</add></subst> dicit perseitas, et substantia, —
+            <lb ed="#D"/>sed tamen illae formalitates diversimode concipiuntur in perseitate solitarie sumpta et diversimode 
+            <lb ed="#D"/>in substantia Nam in perseitate solitarie sumpta concipitur tanquam in ratione formali contrahendi rationem 
+            <lb ed="#D"/>communem et universalem entis ad speciem inferiorem ente scilicet substantia, in 
+            sub<lb ed="#D"/>stantia autem concipitur tanquam in specie ad quam contrahitur ratio entis. Potest etiam dici plus 
+            <lb ed="#D"/>dicere substantiam quam perseitatem solitarie sumptam, Quia substantia resolvitur in 
+            <lb ed="#D"/>conceptum clarum entis et conceptum clarum perseitatis in qua obscurius ens imbibitur. iam 
+            <lb ed="#D"/>autem perseitas solum resolvitur in conceptum perseitatis in quo obscurius imbibit ens 
+            <lb ed="#D"/>ultra quem substantiam addit clarum conceptum entis. Distinctio ergo non nisi rationis 
+            <lb ed="#D"/>ratiocinantis est nisi inter ens et perseitatem.
+            <subst >
+                <del >rationalitatem</del> <!--I'm not sure how is it called-->
+                <add hand="#N2" place="above-line">perseitatem</add> <!--I'm not sure how is it called-->
+            </subst>
+            Quia est diversus modus tendendi 
+            <lb ed="#D"/>in illa dum nunc clarius nunc obscurius cognoscuntur.
+            </p>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e145">
           <head xml:id="y789tt-d1e93-Hd1e147">Paragraphus 4</head>
           <head xml:id="y789tt-d1e93-Hd1e149" type="question-title">An conceptus entis sit univocum en analogus</head>
-          <p xml:id="y789tt-d1e93-d1e152"/>
+          <p>
+            <pb ed="#D" n="571-r"/>
+            <lb ed="#D"/>§ 4
+            <lb ed="#D"/>An conceptus entis sit univocum en analogus
+          </p>
+          <p xml:id="y789tt-d1e93-d1e668">
+            <lb ed="#D"/>Praenoto non est dubium quod ratio entis si comparetur ad inferiora sit analoga, Quia est
+            <lb ed="#D"/>partim eadem praecisa a differentiis partim diversa, si comparetur ad inferiora, quod enim identificatur 
+            <lb ed="#D"/>diversis formaliter est diversum formaliter, sed ratio entis sic se habet comparata ad 
+            infe<lb ed="#D"/>riora ergo etc: sed quaeritur hic an ratio entis praecisa a comparatione sit adhuc
+            <lb ed="#D"/>analoga?
+          </p>
+          <p xml:id="y789tt-d1e93-d1e681">
+            <lb ed="#D"/>Aliqui dixerunt ens esse analogum propter dependentiam quia inquirunt ratio entis prius contrahitur 
+            <lb ed="#D"/>ad Deum quam ad creaturas, item ad substantiam quam ad accidens, ergo prius participatur 
+            <lb ed="#D"/>a Deo quam a creatura, a substantia quam accidente, ergo ratio entis superior est 
+            inaequa<lb ed="#D"/>lis ac proinde analoga. Antecedens probant? Creatura dependent a Deo, accidens
+            <lb ed="#D"/>dependet a substantia non e converso. ergo ratio entis prius contrahitur ad Deum quam ad creaturas 
+            <lb ed="#D"/>substantiam quam accidens. contra quos.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e697">
+            <lb ed="#D"/>Dicendum primo Ratio entis non est analoga propter dependentiam. Ratio Quia dependentia 
+            <lb ed="#D"/>entis non obest univocationi, Nam actus vitalis essentialiter dependenter a potentia vitali, 
+            <lb ed="#D"/>et tamen ratio vitalis, univoce dicitur de actu et potentia, Item volitio dependet a cognitione 
+            <lb ed="#D"/>et tamen ratio actus vitalis univoce dicitur de volitione et cognitione. 
+          </p>
+          <p xml:id="y789tt-d1e93-d1e711">
+            Ad rationem 
+            <lb ed="#D"/>adversariorum dico: Eo ipso quod concipitur ratio entis, esse prior in Deo quam in creaturis 
+            <lb ed="#D"/>involvitur actus comparativus de quo hic non est quaestio. Deinde falsum est Quod 
+            <lb ed="#D"/>ratio entis prius contrahatur ad Deum quam creaturas, contrahi enim genus ad speciem 
+            <lb ed="#D"/>nihil aliud est, nisi cognosci clare specie et in specie genus, sed ratio entis 
+            <lb ed="#D"/>prius cognoscitur clare in creaturis quam in Deo, et in accidente quam substantia, Quia 
+            <lb ed="#D"/>et Deus cognoscatur per creaturas et substantia per accidentia: ergo etc: Solum ergo dicta 
+            <lb ed="#D"/>dependentia est in esse non in cognosci.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e731">
+            <lb ed="#D"/>Alii Dicunt rationem entis esse analogam propter transcendentiam, quae transcedentia Etiam 
+            <lb ed="#D"/>differentias permeat ut dixi supra adeoque est diversa formaliter quod enim identificatur 
+            <lb ed="#D"/>diversis formaliter est diversum formaliter, sed ratio entis identificatur diversis formaliter 
+            <lb ed="#D"/>scilicet differentiis Ergo etc: 
+          </p>
+          <p>
+            Haec sententia est extra quaestionem
+            Ideo enim rationem 
+            <lb ed="#D"/>entis prout comparatur et contrahitur ad inferiora esse diversum. Sed quaero; an ens 
+            <lb ed="#D"/>praecisa comparatione ad inferiora involvat aliquam diversitatem seu conceptus entis 
+            <lb ed="#D"/>confusus formatus solum ad connotata communia entis estne dabilis?
+          </p>
+          <p xml:id="y789tt-d1e93-d1e752">
+            Dices 
+            <lb ed="#D"/>Ens sic spectatum non involvere ullam diversitatem actualem nisi aptitudinalem. 
+            <lb ed="#D"/>Ratio Quia conceptus entis est universalis: homo vero universale quodlibet sit unum 
+            <pb ed="#D" n="571-v"/>
+            <lb ed="#D"/>aptum inesse multis hinc conceptus universalis debet competere conceptum entis, ac proinde 
+            <lb ed="#D"/>debet esse unus aptus inesse multis. Et Quia ens ita aptum est in esse multis, ut 
+            transcen<lb ed="#D"/>dat formaliter etiam Differentias ultimas. Hinc ratione huius aptitudinalis
+            <lb ed="#D"/>differentiae conceptus entis erit analogus. Aliter contingit in conceptu <hi>animalis</hi> 
+            <lb ed="#D"/>animal enim ita est aptum inesse multis, ut possit ab illius conceptu depurari differentia,
+            <lb ed="#D"/>Conceptus enim formalis <hi>rationalis</hi> Non involvit conceptum <hi>Animalis</hi> formalem, Quia 
+            diver<lb ed="#D"/>sa sunt ista principia per rationem.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e772">
+            Ad hoc respondeo. 
+            <lb ed="#D"/>Praenoto in ratione entis confuse concepti duplex potest cogitari aptitudo ad 
+            praedi<lb ed="#D"/>cari de multis, Proxima et remota: <hi>Proxima</hi> Quae <unclear>habetur</unclear> ab actu 
+            compara<lb ed="#D"/>tivo entis ad inferiora, ut dixi in Logica. Et haec Aptitudo proxima infert 
+            di<lb ed="#D"/>versitatem ut dixi. <hi>Remota</hi> Quae habitur ab ipso conceptu entis confuso praecisa 
+            compa<lb ed="#D"/>ratione. De hac itaque aptitudine.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e790">
+            <lb ed="#D"/>Dicendum secundo Ens Non est analogum sed univocum propter transcedentiam 
+            aptitudina<lb ed="#D"/>lem. 
+          </p>
+          <p xml:id="y789tt-d1e93-d1e797">
+            Probatur: Quia in conceptu entis seclusa comparatione ad inferiora non 
+            ap<lb ed="#D"/>paret diversitas aptitudinalis formalis transcendentiae, Nam diversitas actualis entis 
+            <lb ed="#D"/>non habetur a ratione entis quatenus significata nomine entis sed quatenus significata nomine 
+            <lb ed="#D"/>differentiarum Ergo diversitas aptitudinalis. sed in illo conceptu entis confuso
+            <lb ed="#D"/>nullum est nomen differentiarum Ergo in illo conceptu non apparet etiam aptitudo formalis 
+            <lb ed="#D"/>diversitatis: Brevius sic Univoca sunt quorum nomen est commune, ratio vero per
+            <lb ed="#D"/>nomen significata est <!-- there is a difference in #M here --> omnino eadem. sed ita se habet ratio entis, Ergo etc: Ergo est universa 
+            <lb ed="#D"/>minor probatur Quia aptitudinalis diversitas transcendentiae non est ex ratione entis 
+            signi<lb ed="#D"/>ficata nomine entis, sed ex ratione significata nomine differentiae. Ergo ratio entis nomine entis 
+            <lb ed="#D"/>significata est omnino eadem.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e820">
+            Firmatur primo Aptitudo in conceptu animalis 
+            <lb ed="#D"/>ad transcendendas formaliter diversas species non obest univocationi <subst><del>conceptus</del> <add>in conceptu</add></subst> animalis secundum 
+            <lb ed="#D"/>omnes, Ergo etiam aptitudo ad transcendendas formaliter differentias, non obest 
+            univo<lb ed="#D"/>cationi conceptus Entis.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e832">
+            Firmatur secundo Conceptus entis debet esse diversus per hoc quod 
+            <lb ed="#D"/>est ipsi essentiale: omne enim est diversum ab alio per suam essentiam. sed differentiae non sunt
+            essenti<lb ed="#D"/>ale enti, potest enim ens praescindi ab ilis per rationem Ergo etc:
+          </p>
+          <p xml:id="y789tt-d1e93-d1e839">
+            <lb ed="#D"/>Obiicitur primo Quod est aptum in esse formaliter diversis est diversum adeoque 
+            <lb ed="#D"/>non est univocum, sed ratio entis est apta inesse formaliter diversis scilicet differentiis ergo 
+            <lb ed="#D"/>est diversa non univoca.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e846">
+            Respondeo nego maiorem vel distinguo: Quod est aptum inesse formaliter 
+            <lb ed="#D"/>diversis est diversum in casu comparationis concedo est diversum pro statu praecisionis purae 
+            <lb ed="#D"/>ab inferioribus nego. Explicatio patet.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e855">
+            <pb ed="#D" n="572r"/>
+            <lb ed="#D"/>Obiicitur secundo Nihil potest dici univoce de Deo et creaturis, Quia nihil 
+            <lb ed="#D"/>potest esse commune Deo et creaturis. Ergo ens non potest esse Univocum respectu Dei et 
+            <lb ed="#D"/>creaturae substantiae et accidentis
+          </p>
+          <p xml:id="y789tt-d1e93-d1e864">
+            Respondeo nego antecedens probationem distinguo, Nihil potest esse 
+            <lb ed="#D"/>commune Deo et creaturis a parte rei concedo Quia ibi invenitur asseitas, infinitudo 
+            <lb ed="#D"/>quod non convenit creaturae. Nihil potest esse commune Deo et creaturis per rationem nego 
+            <lb ed="#D"/>quia esse oppositum nihilo, habere esse independenter ab intellectu fingente, Esse 
+            <lb ed="#D"/>motivum potentiae intentionalis, Utique est commune per rationem tam deo quam creaturis 
+            <lb ed="#D"/>Hinc
+          </p>
+          <p xml:id="y789tt-d1e93-d1e879">
+            Infero Ratio entis praecisa comparatione ad sua inferiora per 
+            <lb ed="#D"/>actum reflexum, est univoca. Aequivoca autem est respectu entis rationis 
+            <lb ed="#D"/>et negationum supposito quod hae distinguantur ab omni ente reali. Analoga 
+            <lb ed="#D"/>denique est spectata in casu comparationis ad sua inferiora.
+          </p>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e155">
           <head xml:id="y789tt-d1e93-Hd1e157">Paragraphus 5</head>
           <head xml:id="y789tt-d1e93-Hd1e159" type="question-title">An solum ens reale potest cognosci</head>
           <p xml:id="y789tt-d1e93-d1e162"/>
+          <p xml:id="y789tt-d1e93-d1e901">
+            <!--ed="#P" no="406-v"-->
+            <lb ed="#D"/>§V
+            <lb ed="#D"/>An solum ens reale potest cognosci.
+            <lb ed="#D"/>Praenoto Quoniam supra definivimus ens per hoc, quod sit motivum potentiae intentionalis
+            <lb ed="#D"/>debemus iam consequenter dicere, quod quidquid movet potentiam intentionalem, <!--ed="#P" no="407-r"--> seu quidquid cognoscitur est 
+            <lb ed="#D"/>ens. Hic itaque <unclear>solemniter</unclear> inquiritur: An solum ens reale potest cognosci, Ita ut quidquid  
+            <lb ed="#D"/>sit distinctum ab omni ente reali, nequaquam cognosci possit, adeoque quidquid sit impossibile 
+            <lb ed="#D"/>sit etiam incognoscibile. Pro utraque sententia magna Authorum classicorum <!-- stat #P --> 
+            <lb ed="#D"/>multitudo. Nobis tamen
+          </p>
+          <p xml:id="y789tt-d1e93-d1e921">
+            <lb ed="#D"/>Dicendum est primo Omne ens reale potest cognosci. Ratio Quia omne verum potest 
+            <lb ed="#D"/>cognosci verum enim est obiectum intellectus. sed omni ens reale est verum, Quia veritas est passio 
+            <lb ed="#D"/>metaphysica entis identificata realiter eidem; ergo etc.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e931">
+            Notandum hic Quia 
+            <lb ed="#D"/>non definio a quo nam intellectu potest cognosci ens reale, plura enim entia <!-- sunt #p --> quae non 
+            cogno<lb ed="#D"/>scuntur a creaturis, nec possunt cognosci nisi a Deo aut ab angelis.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e942">
+            <lb ed="#D"/>Dicendum secundo Omne cognoscibile est possibile, Nec datur ullum obiectum intellectus 
+            <lb ed="#D"/>distinctum ab omni ente reali. Ita <name xml:id="y789tt-d1e93-Nd1e950">Pater Ioannes Morawski Professor</name> <name xml:id="y789tt-d1e93-Nd1e953">mei 
+            <lb ed="#D"/>Professoris</name> et Alii quos ipse citat: Arubul, Erise, Eminentissimus Sphorcia, 
+            <lb ed="#D"/>Antonius Perez vi in posthumo de Deo opere ob Singulare acumen ingenii
+            me<lb ed="#D"/>rito Theologi mirabilis nomen obtinuit Item Martinus Esparsa Professor 
+            <lb ed="#D"/>Patris Morawski in Koll: Romano: Stephanus Sphinuga, Miller Hainanu 
+            <lb ed="#D"/>Bartolus, Savignanus, Palavicinus, Mairor. Monandulanus, Valasius, 
+            Lync<lb ed="#D"/>eus, <name xml:id="y789tt-d1e93-Nd1e964" ref="#FranciscoSuarez">Zoarius</name>, <name xml:id="y789tt-d1e93-Nd1e967" ref="#PedroHurtandodeMendoza">Hurtadus</name> etc.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e971">
+            <lb ed="#D"/>Probatur <sic>primo</sic> <!-- it must be "prima" --> conclusio Illud solum potest cognosci quod habet rationem veri sed quod est distinctum ab omni
+            <lb ed="#D"/>ente reali non habet rationem veri, Ergo quod est distinctum ab omni ente reali non potest cognosci: maior patet Quia 
+            <lb ed="#D"/>verum est adaequatum obiectum intellectus, sicut potentivae <!-- it is mistake --> lux et color auditivae sonus 
+            <pb ed="#D" n="572-v"/>
+            <lb ed="#D"/>Sapor gustativae. Volitivae bonum. Minor probatur quod constat ex terminis 
+            repugnan<lb ed="#D"/>tibus et mutuo se falsificantibus, illud non habet rationem <gap quantity="1" unit="word"/> sed omne distinctum ab ente 
+            <lb ed="#D"/>reali, constat ex terminis repugnantibus et se mutuo falsificantibus, Ergo non habet rationem veri 
+            <lb ed="#D"/>maior Probatur Quia si termini et praedicata se mutuo  falsificent, tunc non potest esse ratio veri, 
+            <lb ed="#D"/>Quia verum debet fundare conformitatem actus intellectus ad obiectum, Ita ut actus 
+            intelle<lb ed="#D"/>ctus verus enuntiet hoc quod est in obiecto. Si autem termini se falsificent, hoc non potest 
+            continge<lb ed="#D"/>re v.g., de hoc ente quod est hircocervus, et supponitur esse distinctum ab omni ente reali 
+            <lb ed="#D"/><del rend="strikethrough">et</del> ac constare terminis se mutuo falsificantibus non est verum dicere quod sit hircus 
+            <lb ed="#D"/>Quia hoc praedicatum destruitur per praedicationem cervi, quod enim cervus non est hircus, Nec etiam est 
+            ve<lb ed="#D"/>rum dicere quod sit cervus Quia <unclear>est</unclear> hircus, Quod autem est hircus non est cervus. et sic unum 
+            prae<lb ed="#D"/>dicatum destruitur per aliud, neutrum igitur est verum, Ergo hoc quod constat terminis se mutuo 
+            fal<lb ed="#D"/>sificantibus non habet rationem veri. Minor etiam illius argumenti probatur: Quia sicut ens 
+            reale est aptum existere, Ita hoc quod est distinctum ab omni ente reali non est aptum existere, hoc 
+            <lb ed="#D"/>autem quod non est aptum existere non potest existere, illud autem quod non potest existere est impossibile, adeoque 
+            <lb ed="#D"/>involvit praedicata contradictoria.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e1019">
+            Respondebis obiectum intellectus est verum aut 
+            <lb ed="#D"/>in re tale aut fictum: non secus ac bonum est obiectum voluntatis, aut re tale aut 
+            appa<lb ed="#D"/>rens. <!-- there is a difference with #M -->
+          </p>
+          <p xml:id="y789tt-d1e93-d1e1026">
+            <!--ed="#P" n="407-v"-->
+            Contra est Quia <del rend="strikethrough">Nulla</del> ficta veritas nulla est veritas, Siquidem  ficta veritas 
+            <lb ed="#D"/>consistit in verificatione duorum contradictoriorum ubi nulla est veritas ut dixi in Exemplo 
+            <lb ed="#D"/>hircocervi, Concedo quidem verum fictum cognosci posse, sicut quando amatur apparens bonum.
+            <lb ed="#D"/>sed hoc ipso argumento probatur, verum fictum esse ens reale falso cognitum ut verum, sicut 
+            <lb ed="#D"/>etiam bonum apparens est ens reale falso cognitum ut bonum.
+          </p>
+          <p xml:id="y789tt-d1e93-d1e1039">
+            <lb ed="#D"/>Probatur secundo <!-- it should be "secunda" --> conclusio Illud obiectum implicatorium et non reale cum non sit ante cognitionem 
+            <lb ed="#D"/>Alias esset ens reale, Tunc quaero: vel resultat quasi effective ex cognitione 
+            fin<lb ed="#D"/>gente, vel constituitur per ipsum cognitionem fingentem seu per formam extrinsecam. Non primum 
+            <lb ed="#D"/>Quia esse obiectum seu esse cognitum est determinatio extrinseca a cognitione absque ullo ente 
+            <lb ed="#D"/>resultante ex cognitione, ut dixi in prooemialibus Logicae, Ubi Reiecimus ab obiecto 
+            <lb ed="#D"/>Logicae ens rationis. Si enim cognitio confusa aut conditionata aut disiunctiva nihil 
+            effi<lb ed="#D"/>cit vel quasi efficit ex parte sui subiecti, sed solum se ipsam addendo, obiectum extrinsece 
+            deno<lb ed="#D"/>minat confusum aut conditionatum aut disiunctivum, Cur etiam eodem modo cognitio fingens 
+            <lb ed="#D"/>suum obiectum non denominabit fictum? Unde enim debet tribui maior activitas cognitioni 
+            fin<lb ed="#D"/>genti, quam <add place="above-line" hand="#N1">cognitioni</add> confusae vel disiunctivae. Non secundum Quia obiectum implicatorum non solum 
+            <lb ed="#D"/>dicitur fictum praecise sed etiam tale fictum v.g. dicitur identitas hirci et cerni ficta, Alteritas 
+            <lb ed="#D"/>Dei sed per cognitionem fingentem, obiectum non constituitur tale, (scilicet non constituitur identitas hirci et 
+            <lb ed="#D"/>cerni alteritas Dei) licet cognoscatur ut tale: Cognitio enim non facit tale, sed solum <unclear>terminum</unclear> 
+            <lb ed="#D"/>tali se ipsam superadit Ergo illud obiectum fictum, praeter cognitionem fingentem a qua dicitur 
+            <lb ed="#D"/>fictum, importat aliquid contradictum ab omni ente intentionali a quo denominatur tale 
+            <pb ed="#D" n="573-r"/>
+          </p>
         </div>
       </div>
     </body>
