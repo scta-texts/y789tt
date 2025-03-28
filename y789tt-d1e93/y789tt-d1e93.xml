@@ -63,7 +63,7 @@
           <head xml:id="y789tt-d1e93-Hd1e116">Paragraphus 1</head>
           <head xml:id="y789tt-d1e93-Hd1e118" type="question-title">Quomodo definitur ens</head>
           <p xml:id="y789tt-d1e93-d1e121">
-            Praenoto ens reale non est per genus superius se, nihil enim est superius
+            <hi>Praenoto</hi>: ens reale non est definibile per genus superius se, nihil enim est superius
             ente ut sic. Neque est definibile per aliquid notius, quia est ipsum maxime notum 
             intellectui. Nam in omni obiecto, quod cognoscit intellectus, maxime cognoscit rationem entis.
             De pluribus enim in obiecto dubitamus, de ratione autem entis nihil. Imo ens
@@ -73,32 +73,36 @@
             <rdg wit="#D" type="variation-absent"/>
             </app> 
             cognoscit intellectus ente reali
-            et primo occurrit in obiecto omni Ratio Entis. Unde Ens est id quod primo
-            concipit intellectus tanquam notissimum et in quod omnes conceptiones resolvuntur
-            Cum ergo ratio Entis sit universalissima, prima, notissima non potest a priori definiri
-            nisi a posteriori ad aliquem actum experimentalem. Sic album Quia est notum per se non definitur a priori
+            et primo occurrit in obiecto omni ratio entis. Unde ens est id, quod primo
+            concipit intellectus tanquam notissimum et in quod omnes conceptiones resolvuntur.
+            Cum ergo ratio entis sit universalissima, prima, notissima non potest a priori definiri,
+            nisi a posteriori ad aliquem actum experimentalem. Sic album, quia est notum per se, non definitur a priori,
             sed a posteriori, respective ad actum visivum experimentalem, nam album est diciturque
-            disgregativum visus igitur idem de Ente
+            disgregativum visus, igitur idem de ente.
           </p>
           <p xml:id="y789tt-d1e93-d1e149">
-            <hi>Dicendum est</hi>, ens reale est illud, quod est motivum potentiae intentionalis. 
+            <hi>Dicendum est</hi>: ens reale est illud, quod est motivum potentiae intentionalis. 
             Ita Perez et eorum sequaces, praesertim princeps philosophorum 
             <app>
               <lem>pater</lem>
               <rdg wit="#D" type="variation-absent"/>
             </app>
-            Morawski. <!--Can I introduce a new paragraph here?--><hi>Probatur</hi> communi illo, quod scilicet haec definitio competat omni, soli 
+            Morawski. 
+          </p>
+          <p xml:id="y789tt-d1e93-d1e156">
+            <hi>Probatur</hi>: communi illo, quod scilicet haec definitio competat omni, soli 
             et semper suo definito. <hi>Omni</hi> - quia nullo est ens reale, quod per se vel 
             per speciem sui nequeat movere ad cognitionem sui saltem intellectum,
             <app>
               <lem wit="#M">qui</lem>
-              <rdg wit="#D" type="variation-substance">quia</rdg>
+              <rdg wit="#D">quia</rdg>
             </app>
             est potentia in cognoscendo illimitata. <hi>Soli</hi> - quia movere
             potentiam intentionalem pertinet ad genus causalitatis, quae soli enti reali
             convenire potest. Unde 
             <app>
-              <lem>hymerae</lem>
+              <lem type="conjecture-corrected"><corr>chimaerae</corr></lem>
+              <rdg wit="#M" type="variation-orthography">hymerae</rdg>
               <rdg wit="#D" type="variation-orthography">himerae</rdg>
             </app>
             et non-entia (si dantur distincta ab omni ente 
@@ -107,7 +111,9 @@
             vocantur entia, quae ad cognitionem sui movent sensum aliquem, quae vero 
             non movent, uti silentium, tenebrae etc., non vocantur entia realia. Ita etiam inter obiecta, 
             quae attinguntur per aliquam potentiam intentionalem, illa omnia et sola dici debent 
-            entia realia, quae movent aliquam potentiam intentionalem, sicut enim se habent 
+            entia realia, quae movent aliquam 
+            <pb ed="#D" n="569-r"/>
+            potentiam intentionalem, sicut enim se habent 
             sensibile ad sensum, ita attingibile
             <app>
               <lem n="attingibile"/>
@@ -123,20 +129,20 @@
             <lem>motivum</lem>
             <rdg wit="#D" type="variation-absent"/>
             </app>. 
-            Ens autem ex suo conceptu est indifferens ut, attingatur
+            Ens autem ex suo conceptu est indifferens, ut attingatur
             ab hac vel illa potentia, unde universalior est illis. Et in conceptu veri
             clare apparet conceptus entis non autem vicissim. Hinc
           </p>
           <p xml:id="y789tt-d1e93-d1e210">
-            <hi>Infero primo</hi>, male definitur ens, quod sit illud, quod opponitur non-enti. Sicut male
-            definiretur homo per hoc, quod opponitur non homini, nam etiam lapis opponitur non homini
+            <hi>Infero primo</hi>: male definitur ens, quod sit illud, quod opponitur non-enti. Sicut male
+            definiretur homo per hoc, quod opponitur non-homini, nam etiam lapis opponitur non-homini
             et tamen non est homo.
           </p>
           <p xml:id="y789tt-d1e93-d1e221">
-            <hi>Infero secundo</hi>, male definitur ens esse illud, quod est aptum existere.
-            Ratio, quia existere cum sit realiter identificatum cum ente, vel est identificatum 
-            ut quid inferius vel ut quid superius vel ut quid convertibile eum respectu
-            entis quatenus
+            <hi>Infero secundo</hi>: male definitur ens esse illud, quod est aptum existere.
+            Ratio: quia existere, cum sit realiter identificatum cum ente, vel est identificatum 
+            ut quid inferius, vel ut quid superius, vel ut quid convertibile eum respectu
+            entis, quatenus
             <app>
             <lem>communis ad </lem>
             <rdg wit="#D" type="variation-absent"/>
@@ -148,18 +154,19 @@
             </app> existens. Cum ergo definitur
             ens per hoc, quod sit aptum existere, vel definitur ratio superior per hoc,
             quod sit apta esse sua species, ac si quis dicat: "Animal est id, quod est aptum esse homo";
-            vel e converso definitur ratio inferior per hoc, quod sit apta esse suum
-            genus; vel demum definitur unum ex praedicatis convertibilibus per hoc,
+            vel e converso definitur ratio inferior per hoc, quod sit apta 
+            <!-- Why "apta", not "aptum"? It is in both manuscripts. -->
+            esse suum genus; vel demum definitur unum ex praedicatis convertibilibus per hoc,
             quod sit aptum esse suum convertibile, ac si quis dicat: "Homo est id, quod est
             aptum esse risibile". Et tamen omnes huiusmodi definitiones non sunt exactae.
             Indiget ergo maiori luce utraque definitio entis praedicta.
           </p>
           <p xml:id="y789tt-d1e93-d1e247">
-            <hi>Obiicitur primo</hi>, ens reale est quid absolutum, ergo non bene definitur
+            <hi>Obiicitur primo</hi>: ens reale est quid absolutum, ergo non bene definitur
             per id, quod est respectivum. Tale autem est esse motivum potentiae intentionalis.
           </p>
           <p xml:id="y789tt-d1e93-d1e254">
-            <hi>Respondeo</hi>, absolutum dicitur explicari per relativum propter duas causas. Prima,
+            <hi>Respondeo</hi>: absolutum dicitur explicari per relativum propter duas causas. Prima,
             quando absolutum est maxime cognoscibile, sed a sensibus remotissimum. 
             Et hoc modo Deum concipimus relate ad creaturas. Vel etiam dum absolutum est
             minime cognoscibile. Et hoc modo concipimus materiam primam non nisi relate 
