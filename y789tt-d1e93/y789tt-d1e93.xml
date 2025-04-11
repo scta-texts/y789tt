@@ -53,6 +53,8 @@
     <front>
       <div xml:id="starts-on">
         <pb ed="#M" n="551-v"/>
+        <pb ed="#D" n="568-v"/>
+        <!-- pb ed=#P n="402-v" -->
       </div>
     </front>
     <body>
@@ -63,7 +65,7 @@
           <head xml:id="y789tt-d1e93-Hd1e116">Paragraphus 1</head>
           <head xml:id="y789tt-d1e93-Hd1e118" type="question-title">Quomodo definitur ens</head>
           <p xml:id="y789tt-d1e93-d1e121">
-            <hi>Praenoto</hi>: ens reale non est definibile per genus superius se, nihil enim est superius
+            <seg type="navigation">Praenoto</seg>: ens reale non est definibile per genus superius se, nihil enim est superius
             ente ut sic. Neque est definibile per aliquid notius, quia est ipsum maxime notum 
             intellectui. Nam in omni obiecto, quod cognoscit intellectus, maxime cognoscit rationem entis.
             De pluribus enim in obiecto dubitamus, de ratione autem entis nihil. Imo ens
@@ -90,14 +92,14 @@
             Morawski. 
           </p>
           <p xml:id="y789tt-d1e93-d1e156">
-            <hi>Probatur</hi>: communi illo, quod scilicet haec definitio competat omni, soli 
-            et semper suo definito. <hi>Omni</hi> - quia nullo est ens reale, quod per se vel 
+            <seg type="navigation">Probatur</seg>: communi illo, quod scilicet haec definitio competat omni, soli 
+            et semper suo definito. Omni - quia nullo est ens reale, quod per se vel 
             per speciem sui nequeat movere ad cognitionem sui saltem intellectum,
             <app>
               <lem wit="#M">qui</lem>
               <rdg wit="#D">quia</rdg>
             </app>
-            est potentia in cognoscendo illimitata. <hi>Soli</hi> - quia movere
+            est potentia in cognoscendo illimitata. Soli - quia movere
             potentiam intentionalem pertinet ad genus causalitatis, quae soli enti reali
             convenire potest. Unde 
             <app>
@@ -134,13 +136,13 @@
             clare apparet conceptus entis non autem vicissim. Hinc
           </p>
           <p xml:id="y789tt-d1e93-d1e210">
-            <hi>Infero primo</hi>: male definitur ens, quod sit illud, quod opponitur non-enti. Sicut male
+            <seg type="navigation">Infero primo</seg>: male definitur ens, quod sit illud, quod opponitur non-enti. Sicut male
             definiretur homo per hoc, quod opponitur non-homini, nam etiam lapis opponitur non-homini
             et tamen non est homo.
           </p>
           <p xml:id="y789tt-d1e93-d1e221">
-            <hi>Infero secundo</hi>: male definitur ens esse illud, quod est aptum existere.
-            Ratio: quia existere, cum sit realiter identificatum cum ente, vel est identificatum 
+            <seg type="navigation">Infero secundo</seg>: male definitur ens esse illud, quod est aptum existere.
+            <seg type="navigation">Ratio</seg>: quia existere, cum sit realiter identificatum cum ente, vel est identificatum 
             ut quid inferius, vel ut quid superius, vel ut quid convertibile eum respectu
             entis, quatenus
             <app>
@@ -162,51 +164,54 @@
             Indiget ergo maiori luce utraque definitio entis praedicta.
           </p>
           <p xml:id="y789tt-d1e93-d1e247">
-            <hi>Obiicitur primo</hi>: ens reale est quid absolutum, ergo non bene definitur
+            <seg type="navigation">Obiicitur primo</seg>: ens reale est quid absolutum, ergo non bene definitur
             per id, quod est respectivum. Tale autem est esse motivum potentiae intentionalis.
           </p>
           <p xml:id="y789tt-d1e93-d1e254">
-            <hi>Respondeo</hi>: absolutum dicitur explicari per relativum propter duas causas. Prima,
+            <seg type="navigation">Respondeo</seg>: absolutum dicitur explicari per relativum propter duas causas. Prima,
             quando absolutum est maxime cognoscibile, sed a sensibus remotissimum. 
             Et hoc modo Deum concipimus relate ad creaturas. Vel etiam dum absolutum est
             minime cognoscibile. Et hoc modo concipimus materiam primam non nisi relate 
-            ad formas. Secunda, dum absolutum explicatur per respectivum, dum est per se 
+            ad formas. Secunda, 
+            <!-- "dum" is deleted in both manuscripts (but it is in P), should I indicate it here? -->
+            absolutum explicatur per respectivum, dum est per se 
             notum. Tunc enim debet explicari per ordinem ad aliquem actum experimentalem,
             ut patet in albo et nigro. Propter has rationes etiam ens explicari debet per respectivum.
           </p>
           <p xml:id="y789tt-d1e93-d1e276">
-            <hi>Urgetur</hi>, ipsa potentia intentionalis explicari debet per ordinem ad ens
+            <seg type="navigation">Urgetur</seg>: ipsa potentia intentionalis explicari debet per ordinem ad ens
             reale tanquam ad suum obiectum, a quo specificatur, ergo circulus vitiosus erit.
           </p>
           <p xml:id="y789tt-d1e93-d1e284">
-            <hi>Respondeo</hi>, possunt absque circulo vitioso explicari duo termini per se ipsos
+            <seg type="navigation">Respondeo</seg>: possunt absque circulo vitioso explicari duo termini per se ipsos
             mutuo, quando sunt per se ipsos immediate noti, quia tunc unus terminus explicatur
-            per alium aliunde scilicet per se ipsum notum, sic autem contingit in explicatione
-            entis, imo etiam in correlativis. Filius enim explicatur per patrem aliunde scilicet
+            per alium aliunde scilicet per se ipsum notum. Sic autem contingit in explicatione
+            entis, imo etiam in correlativis, filius enim explicatur per patrem aliunde scilicet
             notum et pater vicissim.
           </p>
           <p xml:id="y789tt-d1e93-d1e302">
             <pb ed="#M" n="552-v"/>
-            <hi>Urgetur</hi>, quia color ut sic explicatur per ordinem ad actuum ut sic potentiae visivae,
+            <pb ed="#D" n="569-v"/>
+            <seg type="navigation">Urgetur</seg>: quia color ut sic explicatur per ordinem ad actuum ut sic potentiae visivae
             dicendo: color est obiectum visus. Ideo talis color, verbi gratia album, debet explicari per 
             ordinem ad talem actum potentiae visivae dicendo: album est disgreagativum visus.
             Ergo similiter si ens reale ut sic explicatur per ordinem ad actum ut sic
-            potentiae Intentionalis, etiam tale ens, verbi gratia leo, deberet explicari per ordinem ad
-            tale actum potentiae intentionalis, dicendo: leo est id, quod tali modo
+            potentiae intentionalis, etiam tale ens, verbi gratia leo, deberet explicari per ordinem ad
+            tale actum potentiae intentionalis dicendo: leo est id, quod tali modo
             attingitur a potentia intentionali. Sequela autem est inconveniens, ergo
-            et id ex quo deducitur.
+            et id, ex quo deducitur.
           </p>
           <p xml:id="y789tt-d1e93-d1e325">
-            <hi>Respondeo</hi>, tam color ut sic, quam album sunt termini immediate
-            per se noti. Et ideo uterque hic terminus tam genericus, quam specificus definiuntur 
+            <seg type="navigation">Respondeo</seg>: tam color ut sic, quam album sunt termini immediate
+            per se noti. Et ideo uterque hic terminus tam genericus, quam specificus <sic>definiuntur</sic> 
             <app>
             <lem>relate ad actum nostrum </lem>
             <rdg wit="#D" type="variation-inversion">ad actum nostrum relate</rdg>
             </app> 
-            experimentalem. At Ens ut sic licet sit terminus per se
-            notus, non tamen similiter omnia inferiora eius verbi gratia homo, Leo etc. (Substantiae
-            enim nobis innotescunt per sua accidentia) et ideo haec non definiuntur relate
-            ad actus nostros experimentales sicut definitur 
+            experimentalem. At ens ut sic licet sit terminus per se
+            notus, non tamen similiter omnia inferiora eius, verbi gratia homo, leo etc. (Substantiae
+            enim nobis innotescunt per sua accidentia.) Et ideo haec non definiuntur relate
+            ad actus nostros experimentales, sicut definitur 
             <app>
             <lem>ens ipsum</lem>
             <rdg wit="#M" type="variation-inversion">ipsum ens</rdg>
@@ -217,11 +222,11 @@
           <head xml:id="y789tt-d1e93-Hd1e126">Paragraphus 2</head>
           <head xml:id="y789tt-d1e93-Hd1e128" type="question-title">An dabilis est conceptus entis communis enti creato et increato, substantiae et accidentis</head>
           <p xml:id="y789tt-d1e93-d1e366">
-            Dicendum est, potest dari unus conceptus entis communis enti creato et increato, 
+            <seg type="navigation">Dicendum est</seg>: potest dari unus conceptus entis communis enti creato et increato, 
             substantiae et accidenti. 
           </p>
           <p xml:id="y789tt-d1e93-d1e373">
-            Probatur, quia posse movere potentiam 
+            <seg type="navigation">Probatur</seg>: quia posse movere potentiam 
             intentionalem est commune omni enti reali tam creato, quam increato, substantiae et accidenti.
             Et in hoc conceptu non apparent clare 
             <app>
@@ -231,39 +236,51 @@
             sicut dum concipitur animal ut sic, non apparent clare differentiae animalium, ergo potest dari unus conceptus entis. 
           </p>
           <p xml:id="y789tt-d1e93-d1e384">
-            Firmatur, dantur similia connotata propria substantiae et accidenti, qualia sunt 
+            <seg type="navigation">Firmatur</seg>: dantur similia connotata propria substantiae et accidenti, qualia sunt 
             potentia intentionalis, quae respicit et accidens, et substantia, item oppositio cum
-            hymera, item extractio a puro nihilo, item independentia in suo esse ab intellectu
+            <app>
+              <lem type="conjecture-corrected"><corr>chimaerae</corr></lem>
+              <rdg wit="#M" type="variation-orthography">hymerae</rdg>
+              <rdg wit="#D" type="variation-orthography">himerae</rdg>
+            </app>,
+            item extractio a puro nihilo, item independentia in suo esse ab intellectu
             fingente, item capacitas esse in loco. Egro omnia entia possunt cognosci 
             per connotata similia, ergo possunt cognosci per modum unius, sicut homo ut
             sic, animal ut sic.
           </p>
           <p xml:id="y789tt-d1e93-d1e403">
-            Obiicitur primo, quod essentialiter dicit differentias, ergo non potest
+            <seg type="navigation">Obiicitur primo</seg>: quod essentialiter dicit differentias, eius non potest
             dari unus conceptus, sed ens essentialiter dicit differentias, ergo entis non potest esse
-            unus conceptus. Probatur minor, quia a differentiis non potest praescindi ens, alias etiam
+            unus conceptus. <seg type="navigation">Probatur minor</seg>: quia a differentiis non potest praescindi ens, alias etiam
             differentiae possunt praescindi ab ente. 
           </p>
           <p xml:id="y789tt-d1e93-d1e412">
-            Respondeo, nego minorem et eius probationem. Non enim sequitur,
+            <seg type="navigation">Respondeo</seg>: nego minorem et eius probationem. Non enim sequitur,
             quod ens potest praescidi a differentiis, etiam differentiae debent praescindi ab ente,
             sicut unio non potest cognosci, nisi cognoscantur unibilia, non tamen vicissim.
             Non possunt autem praescindi differentiae ab ente ideo, quia differentiae,
             <pb ed="#M" n="553-r"/>
             quomodocunque spectentur, opponuntur nihilo et sunt motivum potentiae intentionalis,
-            proinde semper involvunt rationem entis. E contra vere ens ita potest depurari, 
-            ut non appareatur in eius conceptu clare differentia.
+            proinde semper involvunt rationem entis. Econtra vere ens ita potest depurari, 
+            ut non appareatur in eius conceptu 
+            <app>
+              <lem>clare</lem>
+              <rdg wit="#D">clari</rdg>
+            </app>
+            differentia.
           </p>
           <p xml:id="y789tt-d1e93-d1e430">
-            Urgetur, quomodocunque concipiatur ens, ab huc manebit in differentiis,
+            <seg type="navigation">Urgetur</seg>: quomodocunque concipiatur ens, ab huc manebit in differentiis,
             ergo non potest praescindi a differentiis, consequenter non potest unisari.
           </p>
           <p xml:id="y789tt-d1e93-d1e437">
-            Respondeo, distinguo antecedens: 
-            <quote>quomodocunque concipiatur ens, manebit in differentiis</quote> ex parte obiecti — concedo 
+            <seg type="navigation">Respondeo</seg>: distinguo antecedens. 
+            <quote>Quomodocunque concipiatur 
+            <pb ed="#D" n="570-r"/>
+            ens, manebit in differentiis</quote> ex parte obiecti — concedo 
             <app>
               <lem>antecedens</lem>
-              <rdg wit="#A" type="variation-absent"/>
+              <rdg wit="#D" type="variation-absent"/>
             </app>,
             ex parte actus — nego antecedens;
             sic distincto consequente nego consequentiam.
@@ -344,6 +361,7 @@
             existentiam causae, quam existentia effectus. 
           </p>
           <p xml:id="y789tt-d1e93-d1e562">
+            <pb ed="#D" n="570-v"/>
             Firmatur tertio, in hac propositione:
             <hi>Rationale est principium ratiocinationum</hi> in copula <hi>est</hi> involvitur ratio entis, quod
             etiam est principium ratiocinationum, utique est seu est capax esse, ergo etc.
@@ -427,6 +445,8 @@
           </p>
         </div>
         <div xml:id="y789tt-d1e93-Dd1e145">
+          <pb ed="#D" n="571-r"/> 
+          <!-- Did I put pb in a correct place? -->
           <head xml:id="y789tt-d1e93-Hd1e147">Paragraphus 4</head>
           <head xml:id="y789tt-d1e93-Hd1e149" type="question-title">An conceptus entis sit univocum en analogus</head>
           <p xml:id="y789tt-d1e93-d1e668">
@@ -482,7 +502,9 @@
           <p xml:id="y789tt-d1e93-d1e752">
             Dices: Ens sic spectatum non involvere illam diversitatem
             actualem nisi aptitudinalem. Ratio, quia conceptus entis est universalis. Homo vero universale quodlibet
-            sit unum aptum inesse multis. Hinc conceptus universalis debet competere conceptum entis
+            sit unum 
+            <pb ed="#D" n="571-v"/>
+            aptum inesse multis. Hinc conceptus universalis debet competere conceptum entis
             ac proinde debet esse unus aptus inesse multis. Et quia ens ita aptum est in esse multis,
             ut transcendat formaliter etiam differentias ultimas. Hinc ratione huius aptitudinalis
             differentiae conceptus entis erit analogus. Aliter contingit in conceptu <hi>animalis</hi>, animal 
@@ -535,6 +557,7 @@
             comparationis — concedo; <quote>est diversum</quote> pro statu praecisionis pure ab inferioribus — nego. Explicatio patet.
           </p>
           <p xml:id="y789tt-d1e93-d1e855">
+            <pb ed="#D" n="572-r"/>
             Obiicitur secundo: Nihil potest dici univoce de Deo et creaturis, quia nihil potest
             esse commune Deo et creaturis, ergo ens non potest esse univocum respectu Dei et creaturae
             substantiae et accidentis.
@@ -589,7 +612,9 @@
             Probatur prima<!-- or primo -->: Illud solum potest cognosci, quod habet rationem veri; sed quod est distinctum ab omni
             ente reali, non habet rationem veri; ergo quod est distinctum ab omni ente reali non potest cognosci. Maior patet:
             quia verum est adaequatum obiectum intellectus, sicut potentiae visivae lux et color, 
-            auditivae sonus, gustativae sapor, volitivae bonum, etc. Minor probatur: quod constat ex terminis 
+            auditivae sonus, 
+            <pb ed="#D" n="572-v"/>
+            gustativae sapor, volitivae bonum, etc. Minor probatur: quod constat ex terminis 
             repugnantibus et mutuo se falsificantibus, illud non habet rationem veri; sed omne distinctum ab
             ente reali constat ex terminis repugnantibus et se mutuo falsificantibus; ergo non habet rationem 
             veri. Maior probatur: quia si termini et praedicata se mutuo falsificent, tunc non potest

@@ -136,7 +136,7 @@
             <lb ed="#D" n="21"/>Respondeo Absolutum dicitur explicari per relativum propter duas causas. Prima quando absolutum 
             <lb ed="#D" n="22"/>est maxime cognoscibile sed a sensibus remotissimum; et hoc modo Deum 
             <lb ed="#D" n="23"/>concipimus relate ad creaturas. Vel Etiam dum absolutum est minime cognoscibile, 
-            <lb ed="#D" n="24"/>et hoc modo concipimus materiam primam non nisi relate ad formas. Secunda <unclear>Dum</unclear> 
+            <lb ed="#D" n="24"/>et hoc modo concipimus materiam primam non nisi relate ad formas. Secunda <del rend="erasure" hand="#N1">Dum</del>
             Abso<lb ed="#D" break="no" n="25"/>lutum explicatur per respectivum, dum est per se notum, tunc enim debet explicari per ordinem 
             <lb ed="#D" n="26"/>ad aliquem actum experimentalem ut patet in albo et nigro propter has rationes etiam ens 
             <lb ed="#D" n="27"/>explicari debet per respectivum.
@@ -196,7 +196,7 @@
             cogno<lb ed="#D" n="23"/>sci per connotata similia, Ergo possunt cognosci per modum unius Sicut homo ut sic animal ut sic.
           </p>
           <p xml:id="y789tt-d1e93-d1e403">
-            <lb ed="#D" n="24"/>Obiicitur primo Quod Essentialiter dicit differentias, ergo non potest dari unus 
+            <lb ed="#D" n="24"/>Obiicitur primo Quod Essentialiter dicit differentias, eius non potest dari unus 
             conce<lb ed="#D" n="25"/>ptus, sed ens essentialiter dicit differentias Ergo entis non potest esse unus conceptus. Probatur minor Quia a 
             dif<lb ed="#D" n="26"/>ferentiis non potest praescindi ens, Alias etiam differentiae possunt praescindi ab ente. 
           </p>
@@ -214,7 +214,7 @@
           <p xml:id="y789tt-d1e93-d1e437">
             respondeo distinguo antecedens Quomodocunque concipiatur 
             <pb ed="#D" n="570-r"/>
-            <lb ed="#D" n="1"/>ens manebit indifferentiis ex parte obiecti concedo ex parte actus nego antecedens, sic distincto consequente 
+            <lb ed="#D" n="1"/>ens manebit in differentiis ex parte obiecti concedo ex parte actus nego antecedens, sic distincto consequente 
             <lb ed="#D" n="2"/>nego consequentiam.
           </p>
           <p xml:id="y789tt-d1e93-d1e444">
@@ -442,7 +442,7 @@
             <lb ed="#D" n="33"/>ab inferioribus nego. Explicatio patet.
           </p>
           <p xml:id="y789tt-d1e93-d1e855">
-            <pb ed="#D" n="572r"/>
+            <pb ed="#D" n="572-r"/>
             <lb ed="#D" n="1"/>Obiicitur secundo Nihil potest dici univoce de Deo et creaturis, Quia nihil 
             <lb ed="#D" n="2"/>potest esse commune Deo et creaturis. Ergo ens non potest esse Univocum respectu Dei et 
             <lb ed="#D" n="3"/>creaturae substantiae et accidentis
