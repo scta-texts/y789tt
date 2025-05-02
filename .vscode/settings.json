@@ -1,5 +1,36 @@
 {
   "cSpell.words": [
-    "metaphysica"
+    "metaphysica",
+    "intentionalis",
+    "existentiam"
+  ]
+}
+"commentsHighlight": {
+  "fullLine": false,
+  "configurations": [
+    {
+      "text": "NOTE:",
+      "backgroundColor": "#ffeb3b",
+      "color": "#000000",
+      "border": "1px solid #fdd835",
+      "borderRadius": "3px",
+      "prefixicon": "💡"
+    },
+    {
+      "text": "HACK:",
+      "backgroundColor": "#ff5722",
+      "color": "#ffffff",
+      "border": "1px solid #d84315",
+      "borderRadius": "3px",
+      "prefixicon": "🔧"
+    },
+    {
+      "text": "BUG:",
+      "backgroundColor": "#f44336",
+      "color": "#ffffff",
+      "border": "1px solid #c62828",
+      "borderRadius": "3px",
+      "prefixicon": "🐛"
+    }
   ]
 }

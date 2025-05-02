@@ -52,26 +52,30 @@
     </front>
     <body>
       <div xml:id="y789tt-d1e93">
-        <head xml:id="y789tt-d1e93-Hd1e108">Question 1</head><!-- disputatio, quaestio 1-->
-        <head xml:id="y789tt-d1e93-Hd1e111" type="question-title">De quidditate entis eiusque transcendentia atque conceptu univoco</head>
+        <head xml:id="y789tt-d1e93-Hd1e108">Питання !</head><!-- disputatio, quaestio 1-->
+        <head xml:id="y789tt-d1e93-Hd1e111" type="question-title">Про щойність сущого, його трансциденцію а також унівокативний концепт</head>
         <p xml:id="y789tt-d1e93-d1e115">
-          Question 1
-          On the whatness of being and transcendence and also concept
-          
           
           <pb ed="#M" n="551-v"/>
-          Quaestio 1ma
-          ptu 
-          univoco
+          
         </p>
         <div xml:id="y789tt-d1e93-Dd1e114">
-          <head xml:id="y789tt-d1e93-Hd1e116">Paragraphus 1</head>
-          <head xml:id="y789tt-d1e93-Hd1e118" type="question-title">Quomodo definitur ens</head>
+          <head xml:id="y789tt-d1e93-Hd1e116">Параграф 1</head>
+          <head xml:id="y789tt-d1e93-Hd1e118" type="question-title">В який спосіб визначається суще?</head>
           <p xml:id="y789tt-d1e93-d1e134">
             § 1mus
             Quomodo definitur ens
           </p>
           <p xml:id="y789tt-d1e93-d1e121">
+            Попереднє зауваження: 
+            реальне суще не визначається через рід, вищий від нього, —
+            нічого ж немає вищого від сущого як такого.
+            Також не може бути визначеним через щось більш відоме,
+            бо воно саме є найбільш відомим інтелекту. 
+            Достоту, в кожному об'єкті, який пізнає інтелект, він найбільше пізнає підставу сущого. 
+            Про багато чого в об'єкті сумніваємося, але не про підставу сущого. 
+            Суще є першим у пізнанні, оскільки ніщо раніше не пізнає інтелект від реального сущого 
+            і спершу виявляється в кожному об'єкті підстава сущого.   
             Praenoto Ens Reale non est definibile per Genus superius se, nihil enim est Superius
             Ente ut Sic. neque est definibile per aliquid notius Quia est ipsum maxime notum 
             intellectui nam in omni obiecto quod cognoscit intellectus maxime cognoscit rationem entis
