@@ -67,44 +67,50 @@
             Quomodo definitur ens
           </p>
           <p xml:id="y789tt-d1e93-d1e121">
-            Попереднє зауваження: 
+            <seg type="navigation">Попереднє зауваження</seg>: 
             реальне суще не визначається через рід, вищий від нього, —
             нічого ж немає вищого від сущого як такого.
             Також не може бути визначеним через щось більш відоме,
             бо воно саме є найбільш відомим інтелекту. 
-            Достоту, в кожному об'єкті, який пізнає інтелект, він найбільше пізнає підставу сущого. 
-            Про багато чого в об'єкті сумніваємося, але не про підставу сущого. 
-            Суще є першим у пізнанні, оскільки ніщо раніше не пізнає інтелект від реального сущого 
-            і спершу виявляється в кожному об'єкті підстава сущого.   
-            Praenoto Ens Reale non est definibile per Genus superius se, nihil enim est Superius
-            Ente ut Sic. neque est definibile per aliquid notius Quia est ipsum maxime notum 
-            intellectui nam in omni obiecto quod cognoscit intellectus maxime cognoscit rationem entis
-            de pluribus enim in obiecto dubitamus. de ratione autem Entis nihil. Imo Ens
-            primum est in notitia Quia nihil prius cognoscit Intellectus Ente reali
-            et primo occurrit in obiecto omni Ratio Entis. Unde Ens est id quod primo
-            concipit intellectus tanquam notissimum et in quod omnes conceptiones resolvuntur
-            Cum ergo ratio Entis sit universalissima, prima, notissima non potest a priori definiri
-            nisi a posteriori ad aliquem actum experimentalem. Sic album Quia est notum per se non definitur a priori
-            sed a posteriori, respective ad actum visivum experimentalem, nam album est diciturque
-            disgregativum visus igitur idem de Ente
+            Достоту, в кожному об'єкті, який пізнає інтелект, він найбільше пізнає смисл сущого. 
+            Про багато чого в об'єкті сумніваємося, але не про смисл сущого. 
+            Суще є першим у пізнанні, оскільки не пізнає нічого раніше реального сущого 
+            і в кожному об'єкті спершу виявляється підстава сущого. 
+            Звісно, суще є першим у знанні, 
+            адже нічого не пізнає інтелект перед реальним сущим
+            і смисл сущого — це перше, що виявляється у кожному об'єкті. 
+            Тому суще — це те, що пізнає інтелект як щось найбільш знайоме
+            і в чому всі розв'язуються всі концепції. <!-- не зрозуміло, що таке resolvere conceptiones -->
+            Отже, коли смисл сущого є найзагальнішим, першим і найбільш відомим, він не може бути визначеним апріорі,
+            а лише апостеріорі через певний досвідний акт. 
+            Так біле, оскільки є саме собою зрозумілим, не визначається апріорі,
+            але апостеріорі — відповідно до досвідного акту бачення,
+            бо біле є і називається тим, що вирізняє бачення, <!-- не розумію disgragativum visus -->
+            і те саме справедливе щодо сущого. 
           </p>
           <p xml:id="y789tt-d1e93-d1e149">
-            <hi>Dicendum</hi> est Ens Reale est illud quod est motivum potentiae intentionalis 
-            Ita Perez et eorum Sequaces praesertim Princeps Philosophorum Pater
-            Morawski. <hi>Probatur</hi> communi illo quod scilicet haec definitio competat omni soli 
-            et semper suo definito. <hi>Omni</hi> quia nullo est ens reale quod per se vel 
-            per speciem sui nequeat movere ad Cognitionem sui Saltem Intellectum
-            Qui est potentia in cognoscendo illimitata. <hi>Soli</hi> Quia movere
-            potentiam Intentionalem pertinet ad Genus causalitatis, quae Soli Enti Reali
-            convenire potest; unde hymerae et non Entia (Si dantur distincta ab omni Ente 
-            reali) ad summum possunt esse obiectum potentiae Intentionalis pure 
-            terminativum quapropter sicut inter obiecta, quae sensu percipiuntur illa omnia et sola
-            vocantur Entia quae ad cognitionem sui movent sensum aliquem, quae vero 
-            non movent, uti silentium, tenebrae etc: non vocantur entia realia: ita etiam inter obiecta 
-            quae attinguntur per aliquam potentiam intentionalem, illa omnia et sola dici debent 
-            entia realia, quae movent aliquam potentiam intentionalem, sicut enim se habent 
-            sensibile ad sensum, ita attingibile a potentia Intentionali ad potentiam 
-             
+            <seg type="navigation">Слід сказати</seg>: реальне суще є тим,
+            що урухомлює інтенційну потенцію. 
+            Так [вважали] Перес і його послідовники, особливо князь філософів отець Моравський. 
+          </p>
+          <p xml:id="y789tt-d1e93-d1e156">
+            Доведення: 
+            загальноприйнято, що це визначення безумовно завжди відповідає кожному своєму визначуваному і виключно йому.
+            [Відповідає] кожному, бо урухомлювати інтенційну потенцію стосується причиннєвості, <!-- роду причиннєвості -->
+            яка може відповідати тільки реальному сущому. 
+            Тому химери і несущі (якщо існують окремо від всякого реального сущого)
+            щонайбільше можуть бути об'єктом інтенційної потенції суто спрямовувально. <!-- terminativum -->
+            Тому як між об'єктами, які сприймаються чуттями,
+            ті всі і виключно ті називаються сущими, 
+            котрі для свого пізнання урухомлюють якесь чуття,
+            ті ж, що не урухомлюють жодного чуття, як тиша, темрява тощо, 
+            не називаються реальними сущими. 
+            Так само також між об'єктами, 
+            які досягаються через якусь інтенційну потенцію, 
+            всі ті і виключно ті мають називатися реальними сущими,
+            які урухомлюють якусь <pb ed="#D" n="569-r"/> інтенційну потенцію. 
+            як це виявляється у чуттуєвому щодо чуття,
+            і у досяжному щодо інтенційної потенції. 
           </p>
           <p xml:id="y789tt-d1e93-d1e196">
             Differt Conceptus Entis a conceptu Veri. Quia hoc

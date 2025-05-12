@@ -31,6 +31,7 @@
       <sourceDesc>
         <listWit>
           <witness xml:id="M" n="cod-r7yv7v">Vernadsky National Library of Ukraine, fonds 8, 60</witness>
+          <witness xml:id="D" n="cod-ro9i8u">Vernadsky National Library of Ukraine, fonds 305, 152</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -72,21 +73,26 @@
             quia est ipsum maxime notum intellectui. 
             Nam in omni obiecto, quod cognoscit intellectus, maxime cognoscit rationem entis.
             De pluribus enim in obiecto dubitamus, de ratione autem entis nihil. 
-            Imo ens primum est in notitia, quia nihil 
+            Imo ens primum est in notitia, 
+            quia nihil 
             <app>
             <lem>prius</lem>
             <rdg wit="#D" type="variation-absent"/>
             </app> 
             cognoscit intellectus ente reali 
             et primo occurrit in obiecto omni ratio entis. 
-            Unde ens est id, quod primo concipit intellectus tanquam notissimum et in quod omnes conceptiones resolvuntur.
-            Cum ergo ratio entis sit universalissima, prima, notissima non potest a priori definiri,
-            nisi a posteriori ad aliquem actum experimentalem. Sic album, quia est notum per se, non definitur a priori,
-            sed a posteriori, respective ad actum visivum experimentalem, nam album est diciturque
-            disgregativum visus, igitur idem de ente.
+            Unde ens est id, quod primo concipit intellectus tanquam notissimum 
+            et in quod omnes conceptiones resolvuntur.
+            Cum ergo ratio entis sit universalissima, prima, notissima, non potest a priori definiri,
+            nisi a posteriori ad aliquem actum experimentalem. 
+            Sic album, quia est notum per se, non definitur a priori,
+            sed a posteriori, respective ad actum visivum experimentalem, 
+            nam album est diciturque disgregativum visus, 
+            igitur idem de ente.
           </p>
           <p xml:id="y789tt-d1e93-d1e149">
-            <hi>Dicendum est</hi>: ens reale est illud, quod est motivum potentiae intentionalis. 
+            <seg type="navigation">Dicendum est</seg>: ens reale est illud, 
+            quod est motivum potentiae intentionalis. 
             Ita Perez et eorum sequaces, praesertim princeps philosophorum 
             <app>
               <lem>pater</lem>
@@ -95,31 +101,36 @@
             Morawski. 
           </p>
           <p xml:id="y789tt-d1e93-d1e156">
-            <seg type="navigation">Probatur</seg>: communi illo, quod scilicet haec definitio competat omni, soli 
-            et semper suo definito. Omni - quia nullo est ens reale, quod per se vel 
-            per speciem sui nequeat movere ad cognitionem sui saltem intellectum,
+            <seg type="navigation">Probatur</seg>: 
+            communi illo <!-- ablativus absolutus -->, quod scilicet haec definitio competat omni, soli et semper suo definito. 
+            Omni - quia nullo est ens reale, 
+            quod per se vel per speciem sui nequeat movere ad cognitionem sui saltem intellectum,
             <app>
               <lem wit="#M">qui</lem>
               <rdg wit="#D">quia</rdg>
             </app>
-            est potentia in cognoscendo illimitata. Soli - quia movere
-            potentiam intentionalem pertinet ad genus causalitatis, quae soli enti reali
-            convenire potest. Unde 
+            est potentia in cognoscendo illimitata. 
+            Soli - quia movere potentiam intentionalem pertinet ad genus causalitatis, 
+            quae soli enti reali convenire potest. 
+            Unde 
             <app>
               <lem type="conjecture-corrected"><corr>chimaerae</corr></lem>
               <rdg wit="#M" type="variation-orthography">hymerae</rdg>
               <rdg wit="#D" type="variation-orthography">himerae</rdg>
             </app>
-            et non-entia (si dantur distincta ab omni ente 
-            reali) ad summum possunt esse obiectum potentiae intentionalis pure 
-            terminativum. Quapropter sicut inter obiectum, quae sensu percipiuntur, illa omnia et sola
-            vocantur entia, quae ad cognitionem sui movent sensum aliquem, quae vero 
-            non movent, uti silentium, tenebrae etc., non vocantur entia realia. Ita etiam inter obiecta, 
-            quae attinguntur per aliquam potentiam intentionalem, illa omnia et sola dici debent 
-            entia realia, quae movent aliquam 
-            <pb ed="#D" n="569-r"/>
-            potentiam intentionalem, sicut enim se habent 
-            sensibile ad sensum, ita attingibile
+            et non-entia (si dantur distincta ab omni ente reali) 
+            ad summum possunt esse obiectum potentiae intentionalis pure terminativum. 
+            Quapropter sicut inter obiecta, quae sensu percipiuntur, 
+            illa omnia et sola vocantur entia, 
+            quae ad cognitionem sui movent sensum aliquem, 
+            quae vero non movent, uti silentium, tenebrae etc., 
+            non vocantur entia realia. 
+            Ita etiam inter obiecta, 
+            quae attinguntur per aliquam potentiam intentionalem, 
+            illa omnia et sola dici debent entia realia, 
+            quae movent aliquam <pb ed="#D" n="569-r"/> potentiam intentionalem, 
+            sicut enim se habent sensibile ad sensum, 
+            ita attingibile
             <app>
               <lem n="attingibile"/>
               <rdg wit="#M" type="variation-present">a potentia intentionali</rdg>
