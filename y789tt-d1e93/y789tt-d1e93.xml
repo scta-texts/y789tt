@@ -83,7 +83,8 @@
             et primo occurrit in obiecto omni ratio entis. 
             Unde ens est id, quod primo concipit intellectus tanquam notissimum 
             et in quod omnes conceptiones resolvuntur.
-            Cum ergo ratio entis sit universalissima, prima, notissima, non potest a priori definiri,
+            Cum ergo ratio entis sit universalissima, prima, notissima, 
+            non potest a priori definiri,
             nisi a posteriori ad aliquem actum experimentalem. 
             Sic album, quia est notum per se, non definitur a priori,
             sed a posteriori, respective ad actum visivum experimentalem, 
@@ -159,10 +160,13 @@
             nam etiam lapis opponitur non-homini et tamen non est homo.
           </p>
           <p xml:id="y789tt-d1e93-d1e221">
-            <seg type="navigation">Infero secundo</seg>: male definitur ens esse illud, quod est aptum existere.
-            <seg type="navigation">Ratio</seg>: quia existere, cum sit realiter identificatum cum ente, vel est identificatum 
-            ut quid inferius, vel ut quid superius, vel ut quid convertibile eum respectu
-            entis, quatenus
+            <seg type="navigation">Infero secundo</seg>: 
+            male definitur ens esse illud, quod est aptum existere.
+            <seg type="navigation">Ratio</seg>: quia existere, 
+            cum sit realiter identificatum cum ente, 
+            vel est identificatum ut quid inferius, vel ut quid superius, 
+            vel ut quid convertibile eum respectu entis, 
+            quatenus
             <app>
             <lem>communis ad </lem>
             <rdg wit="#D" type="variation-absent"/>
@@ -171,65 +175,83 @@
             <app>
             <lem>et</lem>
             <rdg wit="#D" type="variation-substance">ad</rdg>
-            </app> existens. Cum ergo definitur
-            ens per hoc, quod sit aptum existere, vel definitur ratio superior per hoc,
-            quod sit apta esse sua species, ac si quis dicat: "Animal est id, quod est aptum esse homo";
-            vel e converso definitur ratio inferior per hoc, quod sit apta 
-            <!-- Why "apta", not "aptum"? It is in both manuscripts. -->
-            esse suum genus; vel demum definitur unum ex praedicatis convertibilibus per hoc,
-            quod sit aptum esse suum convertibile, ac si quis dicat: "Homo est id, quod est
-            aptum esse risibile". Et tamen omnes huiusmodi definitiones non sunt exactae.
+            </app> existens. 
+            Cum ergo definitur ens per hoc, 
+            quod sit aptum existere, 
+            vel definitur ratio superior per hoc,
+            quod sit apta esse sua species, 
+            ac si quis dicat: "Animal est id, quod est aptum esse homo";
+            vel e converso definitur ratio inferior per hoc,
+            quod sit apta <!-- Why "apta", not "aptum"? It is in both manuscripts. -->esse suum genus; 
+            vel demum definitur unum ex praedicatis convertibilibus per hoc,
+            quod sit aptum esse suum convertibile, 
+            ac si quis dicat: "Homo est id, quod est aptum esse risibile". 
+            Et tamen omnes huiusmodi definitiones non sunt exactae.
             Indiget ergo maiori luce utraque definitio entis praedicta.
           </p>
           <p xml:id="y789tt-d1e93-d1e247">
-            <seg type="navigation">Obiicitur primo</seg>: ens reale est quid absolutum, ergo non bene definitur
-            per id, quod est respectivum. Tale autem est esse motivum potentiae intentionalis.
+            <seg type="navigation">Obiicitur primo</seg>: 
+            ens reale est quid absolutum, 
+            ergo non bene definitur per id, 
+            quod est respectivum. 
+            Tale autem est esse motivum potentiae intentionalis.
           </p>
           <p xml:id="y789tt-d1e93-d1e254">
-            <seg type="navigation">Respondeo</seg>: absolutum dicitur explicari per relativum propter duas causas. Prima,
-            quando absolutum est maxime cognoscibile, sed a sensibus remotissimum. 
-            Et hoc modo Deum concipimus relate ad creaturas. Vel etiam dum absolutum est
-            minime cognoscibile. Et hoc modo concipimus materiam primam non nisi relate 
-            ad formas. Secunda, 
+            <seg type="navigation">Respondeo</seg>: 
+            absolutum dicitur explicari per relativum propter duas causas. 
+            Prima, quando absolutum est maxime cognoscibile, 
+            sed a sensibus remotissimum. 
+            Et hoc modo Deum concipimus relate ad creaturas. 
+            Vel etiam dum absolutum est minime cognoscibile. 
+            Et hoc modo concipimus materiam primam non nisi relate ad formas. 
+            Secunda, 
             <!-- "dum" is deleted in both manuscripts (but it is in P), should I indicate it here? -->
-            absolutum explicatur per respectivum, dum est per se 
-            notum. Tunc enim debet explicari per ordinem ad aliquem actum experimentalem,
-            ut patet in albo et nigro. Propter has rationes etiam ens explicari debet per respectivum.
+            absolutum explicatur per respectivum, 
+            dum est per se notum. 
+            Tunc enim debet explicari per ordinem ad aliquem actum experimentalem,
+            ut patet in albo et nigro. 
+            Propter has rationes etiam ens explicari debet per respectivum.
           </p>
           <p xml:id="y789tt-d1e93-d1e276">
-            <seg type="navigation">Urgetur</seg>: ipsa potentia intentionalis explicari debet per ordinem ad ens
-            reale tanquam ad suum obiectum, a quo specificatur, ergo circulus vitiosus erit.
+            <seg type="navigation">Urgetur</seg>: 
+            ipsa potentia intentionalis explicari debet per ordinem ad ens reale tanquam ad suum obiectum, 
+            a quo specificatur, ergo circulus vitiosus erit.
           </p>
           <p xml:id="y789tt-d1e93-d1e284">
-            <seg type="navigation">Respondeo</seg>: possunt absque circulo vitioso explicari duo termini per se ipsos
-            mutuo, quando sunt per se ipsos immediate noti, quia tunc unus terminus explicatur
-            per alium aliunde scilicet per se ipsum notum. Sic autem contingit in explicatione
-            entis, imo etiam in correlativis, filius enim explicatur per patrem aliunde scilicet
-            notum et pater vicissim.
+            <seg type="navigation">Respondeo</seg>: 
+            possunt absque circulo vitioso explicari duo termini per se ipsos mutuo, 
+            quando sunt per se ipsos immediate noti, 
+            quia tunc unus terminus explicatur per alium aliunde scilicet per se ipsum notum. 
+            Sic autem contingit in explicatione entis, imo etiam in correlativis, 
+            filius enim explicatur per patrem aliunde scilicet notum et pater vicissim.
           </p>
           <p xml:id="y789tt-d1e93-d1e302">
             <pb ed="#M" n="552-v"/>
             <pb ed="#D" n="569-v"/>
-            <seg type="navigation">Urgetur</seg>: quia color ut sic explicatur per ordinem ad actuum ut sic potentiae visivae
-            dicendo: color est obiectum visus. Ideo talis color, verbi gratia album, debet explicari per 
-            ordinem ad talem actum potentiae visivae dicendo: album est disgreagativum visus.
-            Ergo similiter si ens reale ut sic explicatur per ordinem ad actum ut sic
-            potentiae intentionalis, etiam tale ens, verbi gratia leo, deberet explicari per ordinem ad
-            tale actum potentiae intentionalis dicendo: leo est id, quod tali modo
-            attingitur a potentia intentionali. Sequela autem est inconveniens, ergo
-            et id, ex quo deducitur.
+            <seg type="navigation">Urgetur</seg>: 
+            quia color ut sic explicatur per ordinem ad actuum ut sic potentiae visivae dicendo: 
+            color est obiectum visus. 
+            Ideo talis color, verbi gratia album, debet explicari per ordinem ad talem actum potentiae visivae dicendo: 
+            album est disgregativum visus.
+            Ergo similiter si ens reale ut sic explicatur per ordinem ad actum ut sic potentiae intentionalis, 
+            etiam tale ens, verbi gratia leo, deberet explicari per ordinem ad tale actum potentiae intentionalis dicendo: 
+            leo est id, quod tali modo attingitur a potentia intentionali. 
+            Sequela autem est inconveniens, ergo et id, ex quo deducitur.
           </p>
           <p xml:id="y789tt-d1e93-d1e325">
-            <seg type="navigation">Respondeo</seg>: tam color ut sic, quam album sunt termini immediate
-            per se noti. Et ideo uterque hic terminus tam genericus, quam specificus <sic>definiuntur</sic> 
+            <seg type="navigation">Respondeo</seg>: 
+            tam color ut sic, quam album sunt termini immediate per se noti. 
+            Et ideo uterque hic terminus tam genericus, quam specificus <sic>definiuntur</sic> 
             <app>
             <lem>relate ad actum nostrum </lem>
             <rdg wit="#D" type="variation-inversion">ad actum nostrum relate</rdg>
             </app> 
-            experimentalem. At ens ut sic licet sit terminus per se
-            notus, non tamen similiter omnia inferiora eius, verbi gratia homo, leo etc. (Substantiae
-            enim nobis innotescunt per sua accidentia.) Et ideo haec non definiuntur relate
-            ad actus nostros experimentales, sicut definitur 
+            experimentalem. 
+            At ens ut sic licet sit terminus per se notus, 
+            non tamen similiter omnia inferiora eius, verbi gratia homo, leo etc. 
+            (Substantiae enim nobis innotescunt per sua accidentia.) 
+            Et ideo haec non definiuntur relate ad actus nostros experimentales, 
+            sicut definitur 
             <app>
             <lem>ens ipsum</lem>
             <rdg wit="#M" type="variation-inversion">ipsum ens</rdg>

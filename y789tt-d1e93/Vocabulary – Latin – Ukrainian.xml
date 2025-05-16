@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <vocabulary n="Latin-Ukrainian">
-    <p xml:id="y789tt-d1e93-d1e196">
-        potentiae intellectiva – інтелектуальна потенція
-        potentia appetitiva - потенцію прагнення
+  <vocabulary n="Latin-Ukrainian">
+    <p xml:id="y789tt-d1e93-d1e121">
+      Praenoto — попереднє зауваження
+      ratio entis — смисл сущого
+      notitia — пізнання (?)
+      cognitio — пізнання 
+      notissimum — найочевидніше
+      conceptio — концепт
+      actum experimentalem — досвідний акт
+      notum per se — самоочевидне 
     </p>
- </vocabulary>
+    <p xml:id="y789tt-d1e93-d1e149">
+      
+    </p>
+    <p xml:id="y789tt-d1e93-d1e196">
+      potentiae intellectiva — інтелектуальна потенція
+      potentia appetitiva — потенцію прагнення
+    </p>
+    <p xml:id="y789tt-d1e93-d1e221">
+      aptum — здатний
+      convertibile eum respectu entis — сумісне з ним щодо сущого (?)
+    </p>
+    <p xml:id="y789tt-d1e93-d1e247">
+      obiicitur — закид
+    </p>
+    <p xml:id="y789tt-d1e93-d1e254">
+      respondeo — відповідь
+      relativum — відносне
+      respectivum — відносне
+      actum experimentalem — досвідній акт
+    </p>
+    <p xml:id="y789tt-d1e93-d1e276">
+      urgetur — додатковий закид
+    </p>
+    <p xml:id="y789tt-d1e93-d1e302">
+      sequela – висновок
+    </p>
+    <p xml:id="y789tt-d1e93-d1e325">
+      per se notum — само собою зрозуміле
+
+    </p>
+  </vocabulary>
