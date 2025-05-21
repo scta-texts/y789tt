@@ -525,7 +525,7 @@
             <lb ed="#M" n="16"/>hoc non potest contingere v.g. de hoc Ente quod est Hircocervus scilicet supponitur esse
             <lb ed="#M" n="17"/>distinctum ab omni Ente reali ac constare terminis se mutuo falsificantibus 
             <lb ed="#M" n="18"/>non est verum dicere quod sit hircus Quia hoc praedicatum destruitur per praedicationem cervi
-            <lb ed="#M" n="19"/>quod enim est cervus non est hircus, nec etiam est verum dicere quod sit cervus tamen non est hircus
+            <lb ed="#M" n="19"/>quod enim est cervus non est hircus, nec etiam est verum dicere quod sit cervus tamen <del rend="strikethrough">non</del> est hircus
             <lb ed="#M" n="20"/>quod autem est hircus non est cervus. Et sic unum praedicatum destruitur per aliud
             <lb ed="#M" n="21"/>neutrum igitur est verum ergo hoc quod constat terminis se mutuo falsificantibus non habet
             <lb ed="#M" n="22"/>rationem veri Minor etiam illius argumenti probatur Quia Sicut Ens reale est aptum existere
@@ -534,7 +534,7 @@
             <lb ed="#M" n="25"/>praedicata contradictoria.
           </p>
           <p xml:id="y789tt-d1e93-d1e1019">
-            Respondebis obiectum Intellectus est verum aut
+            Respondebis obiectum Intellectus est verum in re tale aut
             <lb ed="#M" n="26"/>fictum non secus ac bonum est obiectum voluntatis aut apparens.
             <!-- Dices obiectum intellectus est verum aut in re tale aut fictum; non secus ac bonum est obiectum voluntatis aut re tale aut apparens. #P -->
           </p>

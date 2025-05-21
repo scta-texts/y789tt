@@ -115,7 +115,7 @@
             quae soli enti reali convenire potest. 
             Unde 
             <app>
-              <lem type="conjecture-corrected"><corr>chimaerae</corr></lem>
+              <lem>chimaerae</lem>
               <rdg wit="#M" type="variation-orthography">hymerae</rdg>
               <rdg wit="#D" type="variation-orthography">himerae</rdg>
             </app>
@@ -174,7 +174,7 @@
             pure possibile 
             <app>
             <lem>et</lem>
-            <rdg wit="#D" type="variation-substance">ad</rdg>
+            <rdg wit="#D">ad</rdg>
             </app> existens. 
             Cum ergo definitur ens per hoc, 
             quod sit aptum existere, 
@@ -279,7 +279,7 @@
             <seg type="navigation">Firmatur</seg>: dantur similia connotata propria substantiae et accidenti, qualia sunt 
             potentia intentionalis, quae respicit et accidens, et substantia, item oppositio cum
             <app>
-              <lem type="conjecture-corrected"><corr>chimaerae</corr></lem>
+              <lem>chimaerae</lem>
               <rdg wit="#M" type="variation-orthography">hymerae</rdg>
               <rdg wit="#D" type="variation-orthography">himerae</rdg>
             </app>,
@@ -384,7 +384,7 @@
             <seg type="navigation">Probatur</seg>: quia rationale, verbi gratia, ex parte actus apprehenditur 
             ut distinctum a 
             <app>
-              <lem type="conjecture-corrected"><corr>chimaera</corr></lem>
+              <lem>chimaera</lem>
               <rdg wit="#M" type="variation-orthography">hymera</rdg>
               <rdg wit="#D" type="variation-orthography">himera</rdg>
             </app>
@@ -460,7 +460,7 @@
             genere et differentia, 
             <app>
                 <lem wit="#M">quae</lem>
-                <rdg wit="#D" type="variation-substance">quod</rdg>
+                <rdg wit="#D">quod</rdg>
             </app>
             est perseitas, ergo praeter perseitatem debet dicere plus.
             <seg type="navigation">Probatur illatum</seg>: quia substantia dicit 
@@ -483,13 +483,13 @@
             resolvitur in conceptum clarum entis et conceptum clarum perseitatis, in 
             <app>
                 <lem wit="#D">quo</lem>
-                <rdg wit="#M" type="variation-substance">qua</rdg>
+                <rdg wit="#M">qua</rdg>
             </app>
             obscurius ens imbibitur. Iam autem perseitas solum resolvitur in conceptum
             perseitatis, in 
             <app>
                 <lem wit="#M">quo</lem>
-                <rdg wit="#D" type="variation-substance">qua</rdg>
+                <rdg wit="#D">qua</rdg>
             </app>
             obscurius imbibit ens, ultra quem substantiam addit clarum
             conceptum entis. Distinctio ergo non nisi rationis ratiocinantis <!--est P--> inter ens et perseitatem,
@@ -635,93 +635,164 @@
           <p xml:id="y789tt-d1e93-d1e162"/>
           <p xml:id="y789tt-d1e93-d1e901">
             <!--ed="#P" no="406-v"-->
-            Praenoto: Quoniam supra definivimus ens per hoc, quod sit motivum potentiae intentionalis,
-            debemus iam consequenter dicere, quod, quidquid movet potentiam intentionalem <!--ed="#p" no="407-r"--> seu quidquid cognoscitur, est ens.
-            Hic itaque solemniter inquiritur, an solum ens reale potest cognosci, ita ut, quidquid sit distinctum
-            ab omni ente reali, nequaquam cognosci possit, adeoque, quidquid sit impossibile, sit etiam incognoscibile.
-            Pro utraque sententia magna authorum classicorum <!-- stat #P --> multitudo. Nobis tamen —
+            <!-- ed="#Z3" no="130-r" -->
+            <!-- ed="#L" no="560-v" -->
+            Praenoto: 
+            Quoniam supra definivimus ens per hoc, 
+            quod sit motivum potentiae intentionalis,
+            debemus iam consequenter dicere, 
+            quod, quidquid movet potentiam intentionalem <!--ed="#P" no="407-r"--> 
+            seu quidquid cognoscitur, est ens.
+            Hic itaque solemniter inquiritur, <!-- ed="#Z3" no-"130v" -->
+            an solum ens reale potest cognosci, 
+            ita ut, quidquid sit distinctum ab omni ente reali, 
+            nequaquam cognosci possit, 
+            adeoque, quidquid sit impossibile, sit etiam incognoscibile.
+            Pro utraque sententia magna authorum classicorum <!-- stat #P, --> multitudo. Nobis tamen —
           </p>
           <p xml:id="y789tt-d1e93-d1e921">
-            Dicendum est primo: Omne ens reale potest cognosci. Ratio, quia omne 
-            verum potest cognosci, verum enim est obiectum intellectus; sed omne ens reale est verum, quia
-            veritas est passio metaphysica entis identificata realiter eidem; ergo etc.
+            Dicendum est primo: Omne ens reale potest cognosci. 
+            Ratio, quia omne verum potest cognosci, 
+            verum enim est obiectum intellectus; 
+            sed omne ens reale est verum, 
+            quia veritas est passio metaphysica entis identificata realiter eidem; ergo etc.
             </p>
           <p xml:id="y789tt-d1e93-d1e931">
-            Notandum enim hic: Quia non definio, a quo nam intellectu potest cognosci ens reale, plura
-            enim entia<!-- sunt #P -->, quae non cognoscuntur a creaturis nec possunt cognosci, nisi a Deo aut ab 
-            angelis.
+            <!-- pb ed="#L" n="561-r"-->
+            Notandum enim hic: 
+            Quia non definio, 
+            a quo nam intellectu potest cognosci ens reale, 
+            plura enim entia<!-- sunt #P -->, 
+            quae non cognoscuntur a creaturis nec possunt cognosci, 
+            nisi a Deo aut ab angelis.
           </p>
           <p xml:id="y789tt-d1e93-d1e942">
-            Dicendum secundo: Omne cognoscibile est possibile, nec datur ullum obiectum
-            <pb ed="#M" n="555-v"/>
-            intellectus distinctum ab omni ente reali. Ita <name xml:id="y789tt-d1e93-Nd1e950">pater Ioannes Morawski professor</name>
-            <name xml:id="y789tt-d1e93-Nd1e953">mei professoris</name> et alii, quos ipse citat: Arubal, Erize, eminentissimus 
-            Sfortia, Antonius Perez, qui in posthumo de Deo opere ob Singulare acumen ingenii
-            merito Theologi mirabilis nomen obtinuit. Item Martinus Esparza, professor patris 
-            Morawski, Stephanus Spinula, Miller, Hainano, Bartolus, Sanignamus, M.
-            Mayron, Valazius, Linceus, <name xml:id="y789tt-d1e93-Nd1e964" ref="#FranciscoSuarez">Zoarius</name>, <name xml:id="y789tt-d1e93-Nd1e967" ref="#PedroHurtandodeMendoza">Hurtadus</name> etc.
+            Dicendum secundo: 
+            Omne cognoscibile est possibile, 
+            nec datur ullum obiectum <pb ed="#M" n="555-v"/> intellectus distinctum ab omni ente reali. 
+            Ita <name xml:id="y789tt-d1e93-Nd1e950">pater Ioannes Morawski professor</name>
+            <name xml:id="y789tt-d1e93-Nd1e953">mei professoris</name> et alii, quos ipse citat: 
+            Arrubal, Erize, eminentissimus Sfortia, Antonius Perez, 
+            qui in posthumo De Deo opere ob singulare acumen ingenii merito Theologi Mirabilis nomen obtinuit. 
+            Item Martinus Esparza, professor patris Morawski, Stephanus Spinula, Miller, Hainanau, Bartolus, Savignanus, M. Mairon, Valesius, Linceus, <name xml:id="y789tt-d1e93-Nd1e964" ref="#FranciscoSuarez">Zoarius</name>, <name xml:id="y789tt-d1e93-Nd1e967" ref="#PedroHurtandodeMendoza">Hurtadus</name> etc.
           </p>
           <p xml:id="y789tt-d1e93-d1e971">
-            Probatur prima<!-- or primo -->: Illud solum potest cognosci, quod habet rationem veri; sed quod est distinctum ab omni
-            ente reali, non habet rationem veri; ergo quod est distinctum ab omni ente reali non potest cognosci. Maior patet:
-            quia verum est adaequatum obiectum intellectus, sicut potentiae visivae lux et color, 
-            auditivae sonus, 
+            Probatur prima<!-- or primo; prima conclusio #M3, #L -->: 
+            Illud solum potest cognosci, 
+            quod habet rationem veri; 
+            sed quod est distinctum ab omni ente reali, 
+            non habet rationem veri; 
+            ergo quod est distinctum ab omni ente reali, non potest cognosci. 
+            Maior patet: quia verum est adaequatum obiectum intellectus, 
+            sicut potentiae visivae lux et color, auditivae sonus, 
             <pb ed="#D" n="572-v"/>
-            gustativae sapor, volitivae bonum, etc. Minor probatur: quod constat ex terminis 
-            repugnantibus et mutuo se falsificantibus, illud non habet rationem veri; sed omne distinctum ab
-            ente reali constat ex terminis repugnantibus et se mutuo falsificantibus; ergo non habet rationem 
-            veri. Maior probatur: quia si termini et praedicata se mutuo falsificent, tunc non potest
-            esse ratio veri, quia verum debet fundare conformitatem actus intellectus ad obiectum,
-            ita ut actus intellectus verus enunciet <!--enuntiet--> hoc, quod est in obiecto. Si autem termini se falsificent,
-            hoc non potest contingere v.g. de hoc ente, quod est hircocervus, scilicet supponitur esse
-            distinctum ab omni ente reali ac constare terminis se mutuo falsificantibus, 
-            non est verum dicere, quod sit hircus, quia hoc praedicatum destruitur per praedicationem cervi,
-            quod enim est cervus, non est hircus, nec etiam est verum dicere, quod sit cervus, tamen non est hircus,
-            quod autem est hircus, non est cervus. Et sic unum praedicatum destruitur per aliud,
-            neutrum igitur est verum, ergo hoc, quod constat terminis se mutuo falsificantibus, non habet
-            rationem veri. Minor etiam illius argumenti probatur: quia sicut ens reale est aptum existere,
-            ita, hoc quod est distinctum ab omni ente reali, non est aptum existere; hoc autem, quod non est
-            aptum existere, non potest existere; illud autem, quod non potest existere, est impossibile, adeoque involvit
-            praedicata contradictoria.
+            gustativae sapor, volitivae bonum, etc. 
+            Minor probatur: quod constat ex terminis repugnantibus et mutuo se falsificantibus, 
+            illud non habet rationem veri; 
+            sed omne distinctum ab ente reali constat ex terminis repugnantibus et se mutuo falsificantibus; 
+            ergo non habet rationem veri. 
+            Maior probatur: quia si termini et praedicata se mutuo falsificent, 
+            tunc non potest esse ratio veri, 
+            quia verum debet fundare conformitatem actus intellectus ad obiectum, <!-- ed="#L" n="561v" -->
+            ita ut actus intellectus verus enuntiet <!--enunciet #M, #D--> hoc, 
+            quod est in obiecto. 
+            Si autem termini se falsificent,
+            hoc non potest contingere v.g. de hoc ente, 
+            quod est hircocervus, 
+            <app>
+                <lem wit="#M">et</lem>
+                <rdg wit="#D">scilicet</rdg>
+            </app>
+            supponitur esse distinctum ab omni ente reali ac constare terminis se mutuo falsificantibus, 
+            non est verum dicere, quod sit hircus, 
+            quia hoc praedicatum destruitur per praedicationem cervi,
+            quod enim est cervus, non est hircus, 
+            nec etiam est verum dicere, quod sit cervus, 
+            <app>
+                <lem wit="#M">quia</lem>
+                <rdg wit="#D">tamen</rdg>
+            </app>
+            est hircus, 
+            quod autem est hircus, non est cervus. 
+            Et sic unum praedicatum destruitur per aliud,
+            neutrum igitur est verum, 
+            ergo hoc, quod constat terminis se mutuo falsificantibus, 
+            non habet rationem veri. 
+            Minor etiam illius argumenti probatur: 
+            quia sicut ens reale est aptum existere,
+            ita hoc, quod est distinctum ab omni ente reali, non est aptum existere; 
+            hoc autem, quod non est aptum existere, non potest existere; 
+            illud autem, quod non potest existere, est impossibile, 
+            adeoque involvit praedicata contradictoria.
           </p>
           <p xml:id="y789tt-d1e93-d1e1019">
-            Respondebis: Obiectum intellectus est verum aut
-            fictum non secus, ac bonum est obiectum voluntatis aut apparens.
-            <!-- Dices obiectum intellectus est verum aut in re tale aut fictum; non secus ac bonum est obiectum voluntatis aut re tale aut apparens. #P -->
+            Respondebis: 
+            Obiectum intellectus est verum 
+            <app>
+                <lem>aut</lem>
+                <rdg wit="#M" type="variation-absent"/>
+            </app>
+            in re tale aut fictum – non secus, ac bonum est obiectum voluntatis 
+            <app>
+                <lem>aut re tale</lem>
+                <rdg wit="#M" type="variation-absent"/>
+            </app>
+            aut apparens.
           </p>
           <p xml:id="y789tt-d1e93-d1e1026">
-            <!--ed="#P" n="407-v"-->
-            Contra est: Quia veritas ficta est nulla veritas, siquidem veritas ficta consistit in verificatione
-            duorum contradictoriorum, ubi nulla est veritas, ut dixi in exemplo hircocervi. Concedo
-            quidem verum fictum cognosci posse, sicut quando amatur apparens bonum,
+            <!--pb ed="#P" n="407-v"-->
+            Contra est: 
+            Quia veritas ficta est nulla veritas, 
+            siquidem veritas ficta consistit in verificatione duorum contradictoriorum, 
+            ubi nulla est veritas, ut dixi in exemplo hircocervi. 
+            Concedo quidem verum fictum cognosci posse, 
+            sicut quando amatur apparens bonum,
             sed hoc ipso argumento probatur verum fictum esse ens reale false cognitum,
             ut verum, sicut etiam bonum apparens est ens reale falso cognitum ut bonum.
           </p>
           <p xml:id="y789tt-d1e93-d1e1039">
-            Probatur secunda conclusio: Illud obiectum implicatorium et non reale, cum
-            non sit ante cognitionem, alias esset ens reale, tunc quaero, vel resultat quasi
-            <pb ed="#M" n="156-r"/>
-            effective ex cognitione fingente, vel constituitur per ipsum cognitionem 
-            fingentem seu per formam extrinsecam. Non primum, quia esse obiectum seu cognitum
-            esse est determinatio extrinseca a cognitione absque ullo ente resultante ex cognitione,
-            ut dixi in prooemialibus logicae, ubi reiecimus ab obiecto rationis, si enim cognitio
-            confusa aut conditionata aut disiunctiva nihil efficit vel quasi efficit ex parte sui subiecti sed
+            Probatur secunda conclusio: <!-- Morawski p.22 -->
+            Illud obiectum implicatorium et non reale, 
+            cum non sit ante cognitionem, alias esset ens reale, 
+            tunc quaero: vel resultat quasi <pb ed="#M" n="156-r"/>effective ex cognitione fingente, 
+            vel constituitur per ipsam cognitionem fingentem seu per formam extrinsecam. 
+            Non primum, quia esse obiectum seu cognitum <!-- pb ed="#L" n=562-r -->esse est determinatio extrinseca a cognitione 
+            absque ullo ente resultante ex cognitione. 
+            Ut dixi in prooemialibus logicae, ubi reiecimus ab obiecto rationis, 
+            si enim cognitio confusa aut conditionata, aut disiunctiva nihil efficit vel quasi efficit ex parte sui subiecti<!-- obiecti (Mor) -->, 
             <!-- cf. suppositio confusa: conditionata et disiunctiva -->
-            solum se ipsum addendo obiecto extrinseco denominat confusum aut conditionatum aut disiunctivum
-            cur etiam eodem modo cognitio fingens suum obiectum non denominabit fictum. unde enim dicitur 
-            tribui maior activitas cognitioni fingenti quam confusae vel disiunctivae
-            non secundum quia obiectum implicatorum non solum dicitur fictum praecise sed etiam tale fictum
-            dicitur v.g. identitas hirci et cerni, ficta alteritas dei etc: sed per cognitionem 
-            fingentem obiectum non constituitur tale scilicet non constituitur identitas hirci
-            et cerni alteritas dei licet cognoscatur ut tale, cognitio enim non facit tale sed solum
-            <unclear>terminum</unclear> tali se ipsum superadit ergo illud obiectum fictum praeter cognitionem
-            fingentem a qua dicitur fictum importat aliquid contra distinctum ab omni ente intentionali
-            a quo denominatur tale, puta identitas hirci et cerni alteritas dei etc: ergo importat aliquid
-            reale omne enim oppositum intentionali est reale, si vero obiectum cognitionis 
-            fingentis nec habet esse actuale nec habere potest praeter illud, quod recipit formaliter
-            a cognitione fingente iam <unclear>denominatio</unclear> ficti solum dicet formam extrinsecam et nullum
-            subiectum denominationis quod habeat actum vel potentia aliquid esse propter id quod 
-            recipit a forma extrinseca et sic forma extrinseca nihil denominabit nisi sei ipsam
+            sed solum se ipsum addendo obiecto, <!-- obiectum (Mor)--> extrinsece denominat confusum aut conditionatum, aut disiunctivum.
+            Cur etiam eodem modo cognitio fingens suum obiectum non denominabit fictum? 
+            Unde enim debet tribui maior activitas cognitioni fingenti, quam 
+            cognitioni 
+            <app>
+                <lem>cognitioni</lem>
+                  <rdg wit="#M" type="variation-absent"/>
+                  <rdg wit="#D" type="correction-addition">
+                    <add place="above-line">cognitioni</add>
+                </rdg>
+            </app>
+            confusae vel disiunctivae.
+            Non secundum, 
+            quia obiectum implicatorum non solum dicitur fictum praecise, 
+            sed etiam tale fictum dicitur, v.g. identitas hirci et cerni, ficta alteritas Dei etc. 
+            Sed per cognitionem fingentem obiectum non constituitur tale, 
+            scilicet non constituitur identitas hirci et cerni, alteritas Dei, 
+            licet cognoscatur ut tale, cognitio enim non facit tale, 
+            sed solum <unclear>terminum</unclear> tali se ipsum superadit. 
+            Ergo illud obiectum fictum praeter cognitionem fingentem, a qua dicitur fictum, 
+            importat aliquid contra distinctum ab omni ente intentionali,
+            a quo denominatur tale, <!-- here is the end of #D -->
+            puta identitas hirci et cerni, alteritas Dei etc. 
+            Ergo importat aliquid reale. 
+            Omne enim oppositum intentionali est reale, 
+            si vero obiectum cognitionis fingentis nec habet esse actuale, 
+            nec habere potest praeter illud, 
+            quod recipit formaliter a cognitione fingente. 
+            Iam <unclear>denominatio</unclear> ficti solum dicet formam extrinsecam et nullum subiectum denominationis, 
+            quod habeat actum vel potentia aliquid esse propter id, 
+            quod recipit a forma extrinseca. 
+            Et sic forma extrinseca nihil denominabit nisi sei ipsam,
             sibique erit extrinseca.
           </p>
           <p xml:id="y789tt-d1e93-d1e1100">
