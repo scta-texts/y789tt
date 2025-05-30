@@ -751,7 +751,7 @@
             ut verum, sicut etiam bonum apparens est ens reale falso cognitum ut bonum.
           </p>
           <p xml:id="y789tt-d1e93-d1e1039">
-            Probatur secunda conclusio: <!-- Morawski p.22 -->
+            Probatur secunda conclusio: <!-- Morawski 1666, p.12 (Disp 1, q. 2, §3) -->
             Illud obiectum implicatorium et non reale, 
             cum non sit ante cognitionem, alias esset ens reale, 
             tunc quaero: vel resultat quasi <pb ed="#M" n="156-r"/>effective ex cognitione fingente, 
@@ -775,67 +775,81 @@
             confusae vel disiunctivae.
             Non secundum, 
             quia obiectum implicatorum non solum dicitur fictum praecise, 
-            sed etiam tale fictum dicitur, v.g. identitas hirci et cerni, ficta alteritas Dei etc. 
+            sed etiam tale fictum dicitur, 
+            v.g. identitas hirci et cerni, ficta alteritas Dei etc. 
             Sed per cognitionem fingentem obiectum non constituitur tale, 
             scilicet non constituitur identitas hirci et cerni, alteritas Dei, 
-            licet cognoscatur ut tale, cognitio enim non facit tale, 
-            sed solum <unclear>terminum</unclear> tali se ipsum superadit. 
-            Ergo illud obiectum fictum praeter cognitionem fingentem, a qua dicitur fictum, 
+            licet cognoscatur ut tale, .
+            cognitio enim non facit tale, 
+            sed solum termino tali se ipsum superadit. 
+            Ergo illud obiectum fictum, praeter cognitionem fingentem, 
+            a qua dicitur fictum, 
             importat aliquid contra distinctum ab omni ente intentionali,
             a quo denominatur tale, <!-- here is the end of #D -->
             puta identitas hirci et cerni, alteritas Dei etc. 
             Ergo importat aliquid reale. 
-            Omne enim oppositum intentionali est reale, 
-            si vero obiectum cognitionis fingentis nec habet esse actuale, 
+            Omne enim oppositum intentionali <!-- intellectuali ? --> est reale. 
+            Si vero obiectum cognitionis fingentis nec habet esse actuale, 
             nec habere potest praeter illud, 
             quod recipit formaliter a cognitione fingente. 
-            Iam <unclear>denominatio</unclear> ficti solum dicet formam extrinsecam et nullum subiectum denominationis, 
-            quod habeat actum vel potentia aliquid esse propter id, 
+            Iam denominatio ficti solum dicit formam extrinsecam et nullum subiectum denominationis, 
+            quod habeat actu vel potentia aliquid esse propter id, 
             quod recipit a forma extrinseca. 
             Et sic forma extrinseca nihil denominabit nisi sei ipsam,
             sibique erit extrinseca.
           </p>
           <p xml:id="y789tt-d1e93-d1e1100">
-            Probatur tertio Propositiones contradictoriae debent esse
-            de eodem obiecto terminativo sed hae propositiones mus est Leo mus non est Leo sunt
-            contradictoriae ergo debent esse de eodem obiecto obiecto terminativo subsumo sed haec 
-                <del rend="strikethrough">propositio</del>
-            <!-- wit="#P" n="407-v"-->
-            propositio <hi>mus non est Leo</hi>. est de obiecto terminativo reali ergo et haec 
-            propositio mus est Leo est de obiecto reali terminativo ergo ulterius Cognitio
-            fingens non <unclear>athingit</unclear> quidquam impossibile ex parte obiecti terminativi consequenter
-            cognitio fingens a non fingente non differt ex parte obiecti terminativi
+            Probatur tertio: 
+            Propositiones contradictoriae debent esse de eodem obiecto terminativo, 
+            sed hae propositiones: "Mus est leo", "Mus non est leo", sunt contradictoriae, 
+            ergo debent esse de eodem obiecto terminativo. 
+            Subsumo sed haec <!-- pb wit="#P" n="407-v"--> propositio: <!-- pb wit="L" n="562v" --> 
+            "Mus non est leo", est de obiecto terminativo reali, 
+            ergo et haec propositio: "Mus est leo", est de obiecto reali terminativo,
+            ergo ulterius cognitio fingens non attingit quidquam impossibile ex parte obiecti terminativi, 
+            consequenter cognitio fingens a non fingente non differt ex parte obiecti terminativi,
             <pb ed="#M" n="556-v"/>
-            sed ex modo tendendi quatenus una propositio modo 
-            compositivo denotata est per particulam est praecedit, altera vero circa idem
-            obiectum terminatum procedit modo Divisivo denotato per particulam
-            <unclear>non est</unclear>.
+            sed ex modo tendendi, 
+            quatenus una propositio modo compositivo denotata est <!-- "est" absent in other manuscripts --> per particulam <hi>est</hi> procedit, 
+            altera vero circa idem obiectum terminatum procedit modo divisivo denotato per particulam <hi>non est</hi>.
           </p>
           <p xml:id="y789tt-d1e93-d1e1139">
-            Respondebis Idem est obiectum terminativum 
-            propositionumcontradictoriarum ex parte Subiecti et praedicati, non tamen est
-          idem ex parte Copulae.
+            Respondebis: Idem est obiectum terminativum propositionum contradictoriarum ex parte subiecti et praedicati, 
+            non tamen est idem ex parte copulae.
           </p>
           <p xml:id="y789tt-d1e93-d1e1146">
-            Contra est Quia Copula propositionis
-            non importata <unclear/> quod obiectum distinctum a subiectum et praedicatum, sed solum
-            copula est Unio Intentionalis Subiecti cum praedicato. Ratio huius 
-            est Quia cum Omnis propositio nihil aliud faciat nisi aut componat
-            aut dividat Intentionaliter se ipsa obiectum Significatum ex parte Subiecti.
-            et praedicati praeter haec duo obiecta nequit dari in propositione aliud
-            tertium obiectum, unde copula debet esse solum <!-- "solum" seams to be crossed out --> nexus Solum
-            praedicati et subiecti Intentionalis nam in omnis composito debent
-            esse haec quae componunt et ratio componens, cum ergo in propositione
-            affirmativa componatur  <!-- subiectum crossed out --> praedicatum cum subiecto restat ut copula
-            sit compositio seu ratio componendi intentionalitr, adeoque non involivit aliud
-            obiectum terminativum. <hi>Firmatur</hi> Si haec propositio homo 
-            non est Leo attingit obiectivam negationem identitatis, tunc Quaero vel illam
-            affirmat vel negat, Si affirmat ergo praedicta propositio erit affirmativa
-            et <unclear>conter</unclear> non erit contradictoria huic <hi>homo est Leo</hi>, si negat ergo de ita
-            propositio erit falsa negabit enim negationem 
-            identitatis inter hominem et leonem consequenter 
-            contradidictoria illi haec homo est Leo erit
-            vera quod est manifeste falsum. Ex Dictis
+            Contra est: Quia copula propositionis non importat aliquod obiectum distinctum a subiecto et praedicato, 
+            sed solum copula est unio intentionalis subiecti cum praedicato. 
+            Ratio huius est: Quia cum omnis propositio nihil aliud faciat, 
+            nisi aut componat, aut dividat intentionaliter se ipsâ obiectum significatum ex parte subiecti et praedicati. 
+            Praeter haec duo obiecta nequit dari in propositione aliud tertium obiectum, 
+            unde copula debet esse 
+            <app>
+              <lem n="esse"/>
+              <rdg wit="#M" type="correction-deletion">
+                <del>solum</del>
+              </rdg>
+            </app>
+            nexus solum praedicati et subiecti intentionalis. 
+            Nam in omni composito debent esse haec, quae componunt, et ratio componens. 
+            Cum ergo in propositione affirmativa componatur 
+            <app>
+              <lem n="componatur"/>
+              <rdg wit="#M" type="correction-deletion">
+                <del>subiectum</del>
+              </rdg>
+            </app>
+            praedicatum cum subiecto, 
+            restat, ut copula sit compositio seu ratio componendi intentionaliter, 
+            adeoque non involivit aliud obiectum terminativum. 
+            Firmatur: Si haec propositio: "Homo non est leo", attingit obiectivam negationem identitatis, 
+            tunc quaero: vel illam affirmat vel negat? 
+            Si affirmat, ergo praedicta propositio erit affirmativa,
+            et consequenter non erit contradictoria huic: "Homo est leo. 
+            Si negat, ergo dicta propositio erit falsa, 
+            negabit enim negationem identitatis inter hominem et leonem, 
+            consequenter contradictoria illi: "Haec homo est leo" erit vera, 
+            quod est manifeste falsum. Ex dictis –
           </p>
           <p xml:id="y789tt-d1e93-d1e1200">
             <pb ed="#M" n="556-r"/>
@@ -908,18 +922,18 @@
             identitas per copulam sive recta sive ficta. 
           </p>
           <p xml:id="y789tt-d1e93-d1e1356">
-          Respondeo non omnis Dixi enim quod Ly est non importet ullum
-          obiectum distinctum a Subiecto et praedicato, sed tantum quod sit nexus Intentionalis Subiecti 
-           et praedicati. Ad probationem Dico propositiones Contradictoriae non debent differre obiecto
-          terminativo sed modo tendendi in obiectum Quia scilicet propositio affirmativa tendit modo
-          copulativo, propositio vero negativa tendit modo disiunctivo, disiungendo scilicet
-          subiectum a praedicato. Falsum vero est determinativum ad assensum in propositionibus 
-          affirmativis esse identitatem extremorum appraehensam, Quia post appraehensum identitatem
-          Saepe sequitur dissensus. Identitas autem ficta quae nec esse potest nec est, non potest
-          exercere vim motivam, vis enim <unclear>coactiva</unclear> soli Enti reali convenit, potius ergo motivum
-          ad assensum vel sunt ipsi termini propositionis apprehensi si assensus sit immediatus et
-          per se notus vel est aliquid medium ex quo Infertur propositio, si assensus sit mediatus
-          et deductus.
+            Respondeo non omnis Dixi enim quod Ly est non importet ullum
+            obiectum distinctum a Subiecto et praedicato, sed tantum quod sit nexus Intentionalis Subiecti 
+            et praedicati. Ad probationem Dico propositiones Contradictoriae non debent differre obiecto
+            terminativo sed modo tendendi in obiectum Quia scilicet propositio affirmativa tendit modo
+            copulativo, propositio vero negativa tendit modo disiunctivo, disiungendo scilicet
+            subiectum a praedicato. Falsum vero est determinativum ad assensum in propositionibus 
+            affirmativis esse identitatem extremorum appraehensam, Quia post appraehensum identitatem
+            Saepe sequitur dissensus. Identitas autem ficta quae nec esse potest nec est, non potest
+            exercere vim motivam, vis enim <unclear>coactiva</unclear> soli Enti reali convenit, potius ergo motivum
+            ad assensum vel sunt ipsi termini propositionis apprehensi si assensus sit immediatus et
+            per se notus vel est aliquid medium ex quo Infertur propositio, si assensus sit mediatus
+            et deductus.
           </p>
           <p xml:id="y789tt-d1e93-d1e1385">
             Obiicitur tertio <name xml:id="y789tt-d1e93-Nd1e1389">Achilles</name> Qui negat aliquid debet cognoscere id quod

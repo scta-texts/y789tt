@@ -596,20 +596,20 @@
           </p>
           <p xml:id="y789tt-d1e93-d1e1146">
             Contra est Quia Copula propositionis
-            <lb ed="#M" n="7"/>non importata <unclear/> quod obiectum distinctum a subiectum et praedicatum, sed solum
+            <lb ed="#M" n="7"/>non importat aliquod obiectum distinctum a subiecto et praedicato, sed solum
             <lb ed="#M" n="8"/>copula est Unio Intentionalis Subiecti cum praedicato. Ratio huius 
             <lb ed="#M" n="9"/>est Quia cum Omnis propositio nihil aliud faciat nisi aut componat
             <lb ed="#M" n="10"/>aut dividat Intentionaliter se ipsa obiectum Significatum ex parte Subiecti.
             <lb ed="#M" n="11"/>et praedicati praeter haec duo obiecta nequit dari in propositione aliud
-            <lb ed="#M" n="12"/>tertium obiectum, unde copula debet esse solum <!-- "solum" seams to be crossed out --> nexus Solum
-            <lb ed="#M" n="13"/>praedicati et subiecti Intentionalis nam in omnis composito debent
+            <lb ed="#M" n="12"/>tertium obiectum, unde copula debet esse <del rend="strikethrough">solum</del> nexus Solum
+            <lb ed="#M" n="13"/>praedicati et subiecti Intentionalis nam in omni composito debent
             <lb ed="#M" n="14"/>esse haec quae componunt et ratio componens, cum ergo in propositione
-            <lb ed="#M" n="15"/>affirmativa componatur  <!-- subiectum crossed out --> praedicatum cum subiecto restat ut copula
+            <lb ed="#M" n="15"/>affirmativa componatur <del rend="strikethrough">subiectum</del> praedicatum cum subiecto restat ut copula
             <lb ed="#M" n="16"/>sit compositio seu ratio componendi intentionalitr, adeoque non involivit aliud
             <lb ed="#M" n="17"/>obiectum terminativum. <hi>Firmatur</hi> Si haec propositio homo 
             <lb ed="#M" n="18"/>non est Leo attingit obiectivam negationem identitatis, tunc Quaero vel illam
             <lb ed="#M" n="19"/>affirmat vel negat, Si affirmat ergo praedicta propositio erit affirmativa
-            <lb ed="#M" n="20"/>et <unclear>conter</unclear> non erit contradictoria huic <hi>homo est Leo</hi>, si negat ergo de ita
+            <lb ed="#M" n="20"/>et consequenter non erit contradictoria huic <hi>homo est Leo</hi>, si negat ergo de ita
             <lb ed="#M" n="21"/>propositio erit falsa negabit enim negationem 
             identi<lb ed="#M" break="no" n="22"/>tatis inter hominem et leonem consequenter 
             contradi<lb ed="#M" break="no" n="23"/>dictoria illi haec homo est Leo erit
