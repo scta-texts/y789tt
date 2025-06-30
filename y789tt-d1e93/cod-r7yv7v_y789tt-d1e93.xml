@@ -440,7 +440,11 @@
           <p xml:id="y789tt-d1e93-d1e820">
             Firmatur primo aptitudo in conceptu animalis ad
             <pb ed="#M" n="555-r"/>
-            transcen<lb ed="#M" break="no" n="1"/><unclear>dentiam</unclear> formaliter species non obest univocationem in <subst><del>conceptus</del> <add>conceptu</add></subst> animalis secundum omnes
+            transcen<lb ed="#M" break="no" n="1"/><unclear>dentiam</unclear> formaliter species non obest univocationem in 
+            <subst>
+              <del>conceptus</del> 
+              <add>conceptu</add>
+            </subst> animalis secundum omnes
             <!-- The previous correction is in two manuscripts. It shows that the text was dictated -->
             <lb ed="#M" n="2"/>ergo etiam aptitudo ad transcendendas formaliter differentias non obest univocationi
             conceptus Entis.
@@ -549,10 +553,10 @@
           <p xml:id="y789tt-d1e93-d1e1039">
             <lb ed="#M" n="31"/>Probatur secunda conclusio Illud Obiectum Implicatorium et non reale cum
             <lb ed="#M" n="32"/>non sit ante Cognitionem alias esset Ens reale, tunc quaero vel resultat quasi
-            <pb ed="#M" n="156-r"/>
+            <pb ed="#M" n="556-r"/>
             <lb ed="#M" n="1"/>effective ex Cognitione fingente vel constituitur per ipsum cognitionem 
             <lb ed="#M" n="2"/>fingentem seu per formam Extrinsecam. Non primum Quia esse obiectum seu Cognitum
-            <lb ed="#M" n="3"/>esse, est determinatio Extrinseca a Cognitionem absque ullo Ente resultante ex cognitione
+            <lb ed="#M" n="3"/>esse, est determinatio Extrinseca a Cognitione absque ullo Ente resultante ex cognitione
             <lb ed="#M" n="4"/>ut dixi in prooemialibus Logicae ubi reiecimus ab obiecto rationis Si enim Cognitio
             <lb ed="#M" n="5"/>confusa aut conditionata aut disiunctiva nihil efficit vel quasi efficit ex parte sui Subiecti sed
             <!-- cf. suppositio confusa: conditionata et disiunctiva -->
@@ -563,31 +567,31 @@
             <lb ed="#M" n="10"/>dicitur v.g. identitas hirci et cerni, ficta alteritas Dei etc: sed per cognitionem 
             <lb ed="#M" n="11"/>fingentem obiectum non constituitur tale scilicet non constituitur identitas hirci
             <lb ed="#M" n="12"/>et cerni alteritas Dei licet cognoscatur ut tale, Cognitio enim non facit tale sed solum
-            <lb ed="#M" n="13"/><unclear>terminum</unclear> tali se ipsum superadit ergo illud obiectum fictum praeter cognitionem
+            <lb ed="#M" n="13"/>termino tali se ipsum superadit ergo illud obiectum fictum praeter cognitionem
             <lb ed="#M" n="14"/>fingentem a qua dicitur fictum importat aliquid contra distinctum ab omni Ente Intentionali
             <lb ed="#M" n="15"/>a quo denominatur tale, puta identitas hirci et cerni alteritas Dei etc: ergo importat aliquid
             <lb ed="#M" n="16"/>reale omne enim oppositum intentionali est reale, si vero obiectum cognitionis 
             <lb ed="#M" n="17"/>fingentis nec habet esse actuale nec habere potest praeter illud, quod recipit formaliter
-            <lb ed="#M" n="18"/>a Cognitione fingente iam <unclear>denominatio</unclear> ficti solum dicet formam extrinsecam et nullum
-            <lb ed="#M" n="19"/>subiectum denominationis quod habeat actum vel potentia aliquid esse propter id quod 
+            <lb ed="#M" n="18"/>a Cognitione fingente iam denominatio ficti solum dicet formam extrinsecam et nullum
+            <lb ed="#M" n="19"/>subiectum denominationis quod habeat actu vel potentia aliquid esse propter id quod 
             <lb ed="#M" n="20"/>recipit a forma Extrinseca et sic forma Extrinseca nihil denominabit nisi sei ipsam
             <lb ed="#M" n="21"/>sibique erit Extrinseca.
           </p>
           <p xml:id="y789tt-d1e93-d1e1100">
             <lb ed="#M" n="22"/>Probatur tertio Propositiones contradictoriae debent esse
             <lb ed="#M" n="23"/>de eodem obiecto terminativo sed hae propositiones mus est Leo mus non est Leo sunt
-            <lb ed="#M" n="24"/>contradictoriae ergo debent esse de eodem obiecto obiecto terminativo subsumo sed haec 
+            <lb ed="#M" n="24"/>contradictoriae ergo debent esse de eodem obiecto terminativo subsumo sed haec 
                 <del rend="strikethrough">propositio</del>
             <!-- wit="#P" n="407-v"-->
-            <lb ed="#M" n="25"/>propositio <hi>mus non est Leo</hi>. est de obiecto terminativo reali ergo et haec 
+            <lb ed="#M" n="25"/>propositio mus non est Leo. est de obiecto terminativo reali ergo et haec 
             pro<lb ed="#M" break="no" n="26"/>positio mus est Leo est de obiecto reali terminativo ergo ulterius Cognitio
-            <lb ed="#M" n="27"/>fingens non <unclear>athingit</unclear> quidquam impossibile ex parte obiecti terminativi consequenter
+            <lb ed="#M" n="27"/>fingens non attingit quidquam impossibile ex parte obiecti terminativi consequenter
             <lb ed="#M" n="28"/>cognitio fingens a non fingente non differt ex parte obiecti terminativi
             <pb ed="#M" n="556-v"/>
             <lb ed="#M" n="1"/>sed ex modo tendendi quatenus una propositio modo 
             compo<lb ed="#M" break="no" n="2"/>sitivo denotata est per particulam est praecedit, altera vero circa idem
             <lb ed="#M" n="3"/>obiectum terminatum procedit modo Divisivo denotato per particulam
-            <lb ed="#M" n="4"/><unclear>non est</unclear>.
+            <lb ed="#M" n="4"/>non est.
           </p>
           <p xml:id="y789tt-d1e93-d1e1139">
             Respondebis Idem est obiectum terminativum 
@@ -605,55 +609,55 @@
             <lb ed="#M" n="13"/>praedicati et subiecti Intentionalis nam in omni composito debent
             <lb ed="#M" n="14"/>esse haec quae componunt et ratio componens, cum ergo in propositione
             <lb ed="#M" n="15"/>affirmativa componatur <del rend="strikethrough">subiectum</del> praedicatum cum subiecto restat ut copula
-            <lb ed="#M" n="16"/>sit compositio seu ratio componendi intentionalitr, adeoque non involivit aliud
+            <lb ed="#M" n="16"/>sit compositio seu ratio componendi intentionaliter, adeoque non involivit aliud
             <lb ed="#M" n="17"/>obiectum terminativum. <hi>Firmatur</hi> Si haec propositio homo 
             <lb ed="#M" n="18"/>non est Leo attingit obiectivam negationem identitatis, tunc Quaero vel illam
             <lb ed="#M" n="19"/>affirmat vel negat, Si affirmat ergo praedicta propositio erit affirmativa
-            <lb ed="#M" n="20"/>et consequenter non erit contradictoria huic <hi>homo est Leo</hi>, si negat ergo de ita
+            <lb ed="#M" n="20"/>et consequenter non erit contradictoria huic <hi>homo est Leo</hi>, si negat ergo dicta
             <lb ed="#M" n="21"/>propositio erit falsa negabit enim negationem 
             identi<lb ed="#M" break="no" n="22"/>tatis inter hominem et leonem consequenter 
             contradi<lb ed="#M" break="no" n="23"/>dictoria illi haec homo est Leo erit
             <lb ed="#M" n="24"/>vera quod est manifeste falsum. Ex Dictis
           </p>
           <p xml:id="y789tt-d1e93-d1e1200">
-            <pb ed="#M" n="556-r"/>
-            <lb ed="#M" n="1"/>Infero primo Ens Rationis, seu fictum hymerivum, seu Impossibile duo dicit: unum pro
+            <pb ed="#M" n="557-r"/>
+            <lb ed="#M" n="1"/>Infero primo Ens Rationis, seu fictum hymericum, seu Impossibile duo dicit: unum pro
             <lb ed="#M" n="2"/>materiali alterum pro formali: Ens rationis materialiter sumptum sunt Entia realia quatenus Substantia
             <lb ed="#M" n="3"/>cognitioni essentialiter falsae, seu quatenus affecta extrinsece cognitione essentialiter falsa
             <lb ed="#M" n="4"/>et inverificabili componenti divisa ut homo est Leo, vel dividenti identificata, ut bonitas
             <lb ed="#M" n="5"/>Dei dum concipitur distingui a Deo. Verbo: Ens rationis pro materiali et in recto dicit Entia
-            <lb ed="#M" n="6"/>realia. Iam vero pro formali et in obliquo Ens rationis dicit Cognitionem necessaria falsam
+            <lb ed="#M" n="6"/>realia. Iam vero pro formali et in obliquo Ens rationis dicit Cognitionem necessario falsam
             <lb ed="#M" n="7"/>tanquam formam extrinsecam a qua hoc quod secundum se Intrinsece ac obiective est reale et posibile.
             <lb ed="#M" n="8"/>ut Substans illi cognitioni denominatur Extrinsece non reale. Quia scilicet tali modo quali enunciatur
-            <lb ed="#M" n="9"/>pro illam cognitionem falsam neque datur a parte rei neque potest dari illius virtute agentis
-            <lb ed="#M" n="10"/>nis solum in intellectu datur Unde etiam dicitur Ens rationis.
+            <lb ed="#M" n="9"/><sic>pro</sic> illam cognitionem falsam neque datur a parte rei neque potest dari illius virtute agentis
+            <lb ed="#M" n="10"/>nisi solum in intellectu datur Unde etiam dicitur Ens rationis.
           </p>
           <p xml:id="y789tt-d1e93-d1e1226">
             <lb ed="#M" n="11"/>Infero secundo Non ideo aliqua propositio est falsa Quia eius obiectum non datur a parte rei,
             <lb ed="#M" n="12"/>nec ideo vera Quia datur eius obiectum omnium enim propositionum obiectum datur a parte rei
             <lb ed="#M" n="13"/>secundum se actu vel possibiliter, sed potius ideo aliqua propositio est falsa quia eius obiectum
             <lb ed="#M" n="14"/>non datur tali modo a parte rei quali modo enunciatur per ipsam, seu Quia tendit
-            <lb ed="#M" n="15"/>modo indebilo in suum obiectum <unclear>secicis</unclear> propositio vera.
+            <lb ed="#M" n="15"/>modo indebito in suum obiectum secus propositio vera.
           </p>
           <p xml:id="y789tt-d1e93-d1e1242">
-            <lb ed="#M" n="16"/>Infero tertio Ens rationis fit per actum intellectus indebito modo tendentem in obiect 
+            <lb ed="#M" n="16"/>Infero tertio Ens rationis fit per actum intellectus indebito modo tendentem in obiecta 
             <lb ed="#M" n="17"/>realia. Hinc Deus non potest facere Ens rationis, Quia non habet nec potest habere modum indebitum tendendi
             <lb ed="#M" n="18"/>in obiecta. Cognoscit tamen Ens rationis, Quia Cognoscit Entia realia ut Substantia cognitionibus
             <lb ed="#M" n="19"/>falsis creatis.
           </p>
           <p xml:id="y789tt-d1e93-d1e1254">
             Infero quarto Ens rationis debet fieri per secundam operationem Intellectus Quia debet esse
-            <lb ed="#M" n="20"/>per actu intellectus essentialiter falsum, falsitas autem consistit in enunciatione aliter
-            <lb ed="#M" n="21"/><unclear>diverite</unclear> obiectum quam sit in se, Hinc neque per sensus externos fieri potest Ens rationis.
+            <lb ed="#M" n="20"/>per actum intellectus essentialiter falsum, falsitas autem consistit in enunciatione aliter
+            <lb ed="#M" n="21"/>dicente obiectum quam sit in se, Hinc neque per sensus externos fieri potest Ens rationis.
           </p>
           <p xml:id="y789tt-d1e93-d1e1262">
             <lb ed="#M" n="22"/>Obiicitur primo Non potest Explicari quodnam Ens reale concipitur, dum concipiuntur hi termini
-            <lb ed="#M" n="23"/>alter Deus, verbum est Creatura <!-- creaturea -->, negatio Dei, Impossibile. Ergo Intellectus non Soa Entia
+            <lb ed="#M" n="23"/>alter Deus, verbum est Creatura, negatio Dei, Impossibile. Ergo Intellectus non Sola Entia
             <lb ed="#M" n="24"/>realia cognoscit.
           </p>
           <p xml:id="y789tt-d1e93-d1e1273">
-            Respondeo Dixi omnes terminos hymericos esse secundo-intentionaliter, et in re 
-            <lb ed="#M" n="25"/>esse Entia realia prout Substantia <!-- cross out conclusioni --> cognitioni essentialiter falsae, unde identitas
+            Respondeo Dixi omnes terminos hymericos esse secundo-intentionalites, et in re 
+            <lb ed="#M" n="25"/>esse Entia realia prout Substantia <del type="strikethrough">conclusioni</del> cognitioni essentialiter falsae, unde identitas
             <lb ed="#M" n="26"/>hirci cum cervo est aliqua vage identitas realis, quae secundum se obiective et Intrinsece 
             <lb ed="#M" n="27"/>spectata non unit hircum cum cervo, unit vero Solum Extrinsece ratione indebitae applicationis
             <lb ed="#M" n="28"/>mentalis, ratione cuius etiam dicitur identitas hirci et cervi. Ly vero Impossibile est aliquid 
@@ -663,9 +667,17 @@
           </p>
           <p xml:id="y789tt-d1e93-d1e1293">
             Urgetur Qui dicendo <hi>non datur alter Deus</hi> negat alteritatem Creatam et 
-            <lb ed="#M" n="32"/>Divinitatem Creatam existere, tali modo quali repraesentatur per iudicium <!-- cross out repraes -->
-            <lb ed="#M" n="33"/>falsum compositum horum terminorum debet ad hui cognoscere illud <!-- illud corrected of illum --> modum existendi quem
-            <lb ed="#M" n="34"/>negat, hic autem modus est hincericus ergo Cognoscit ad huc <!-- ad huc above the line --> aliquid hymericum. 
+            <lb ed="#M" n="32"/>Divinitatem Creatam existere, tali modo quali repraesentatur per iudicium <del rend="strikethrough" hand="#N1">repraes</del> 
+            <lb ed="#M" n="33"/>falsum compositum horum terminorum debet ad hui cognoscere 
+            <seg type="correction">
+            illu
+              <subst>
+                <del>d</del>
+                <add>m</add>
+              </subst>
+            </seg>
+            modum existendi quem
+            <lb ed="#M" n="34"/>negat, hic autem modus est himeriucus ergo Cognoscit <add place="above-line" hand="#N1">ad huc</add> aliquod hymericum. 
           </p>
           <p xml:id="y789tt-d1e93-d1e1311">
             Respondeo Quod talis 
@@ -673,49 +685,49 @@
             <lb ed="#M" n="1"/>Cognoscit confuse aliquem modum existendi realem conformem alicui affirmationi
             <lb ed="#M" n="2"/>verae, illumque negat de alteritate creata reali et Divinitate vera utpote
             <lb ed="#M" n="3"/>opposito modo Existentibus, qui proinde modus Existendi est hymericus, non secundum se
-            <lb ed="#M" n="4"/>et obiective sed quatenus per affirmationem falsam applicatur alteri tali Creatae
+            <lb ed="#M" n="4"/>et obiective sed quatenus per affirmationem falsam applicatur alteritati Creatae
             <lb ed="#M" n="5"/>et Divinitati reali.
           </p>
           <p xml:id="y789tt-d1e93-d1e1327">
             <lb ed="#M" n="6"/>Obicitur secundo Dum Dicit <name xml:id="y789tt-d1e93-Nd1e1331">Arrianus</name> <hi>Verbum est Creatura,</hi> non solum concipit
             <lb ed="#M" n="7"/>verbum et creaturam sed etiam aliquod obiectum significatum per ly est, quod obiectum est
             <lb ed="#M" n="8"/>utique identitas hymerica, ergo concipit aliquod Impossibile ex parte obiecti, antecedens probatur
-            <lb ed="#M" n="9"/><unclear>Tum</unclear> Quia alioquin dicta propositio Arriana non differret a propositione Catholica <!-- Catholica non Orthodoxa -->: Divente:
+            <lb ed="#M" n="9"/><unclear>Tum</unclear> Quia alioquin dicta propositio Arriana non differret a propositione Catholica <!-- Catholica non Orthodoxa -->: Dicente:
             <lb ed="#M" n="10"/>Verbum non est Creatura; Quia in utraque esset idem obiectum; <unclear>Tum</unclear> quia in omni propositione 
-            affir<lb ed="#M" break="no" n="11"/>mativa dicit concipi motivum ad affirmadndum hoc autem, nihil aliud est quam 
+            affir<lb ed="#M" break="no" n="11"/>mativa debet concipi motivum ad affirmandum hoc autem, nihil aliud est quam 
             identi<lb ed="#M" break="no" n="12"/>tas per copulam sive recta sive ficta. 
           </p>
           <p xml:id="y789tt-d1e93-d1e1356">
-          Respondeo non omnis Dixi enim quod Ly est non importet ullum
-          <lb ed="#M" n="13"/>obiectum distinctum a Subiecto et praedicato, sed tantum quod sit nexus Intentionalis Subiecti 
-          <lb ed="#M" n="14"/> et praedicati. Ad probationem Dico propositiones Contradictoriae non debent differre obiecto
-          termi<lb ed="#M" break="no" n="15"/>nativo sed modo tendendi in obiectum Quia scilicet propositio affirmativa tendit modo
-          <lb ed="#M" n="16"/>copulativo, propositio vero negativa tendit modo disiunctivo, disiungendo scilicet
-          <lb ed="#M" n="17"/>subiectum a praedicato. Falsum vero est determinativum ad assensum in propositionibus 
-          affirma<lb ed="#M" break="no" n="18"/>tivis esse identitatem extremorum appraehensam, Quia post appraehensum identitatem
-          <lb ed="#M" n="19"/>Saepe sequitur dissensus. Identitas autem ficta quae nec esse potest nec est, non potest
-          exer<lb ed="#M" break="no" n="20"/>cere vim motivam, vis enim <unclear>coactiva</unclear> soli Enti reali convenit, potius ergo motivum
-          <lb ed="#M" n="21"/>ad assensum vel sunt ipsi termini propositionis apprehensi si assensus sit immediatus et
-          <lb ed="#M" n="22"/>per se notus vel est aliquid medium ex quo Infertur propositio, si assensus sit mediatus
-          <lb ed="#M" n="23"/>et deductus.
+            Respondeo nego antecedens Dixi enim quod Ly est non importet ullum
+            <lb ed="#M" n="13"/>obiectum distinctum a Subiecto et praedicato, sed tantum quod sit nexus Intentionalis Subiecti 
+            <lb ed="#M" n="14"/> et praedicati. Ad probationem Dico propositiones Contradictoriae non debent differre obiecto
+            termi<lb ed="#M" break="no" n="15"/>nativo sed modo tendendi in obiectum Quia scilicet propositio affirmativa tendit modo
+            <lb ed="#M" n="16"/>copulativo, propositio vero negativa tendit modo disiunctivo, disiungendo scilicet
+            <lb ed="#M" n="17"/>subiectum a praedicato. Falsum vero est determinativum ad assensum in propositionibus 
+            affirma<lb ed="#M" break="no" n="18"/>tivis esse identitatem extremorum appraehensam, Quia post appraehensam identitatem
+            <lb ed="#M" n="19"/>Saepe sequitur dissensus. Identitas autem ficta quae nec esse potest nec est, non potest
+            exer<lb ed="#M" break="no" n="20"/>cere vim motivam, vis enim <unclear>causativa</unclear> soli Enti reali convenit, potius ergo motivum
+            <lb ed="#M" n="21"/>ad assensum vel sunt ipsi termini propositionis apprehensi si assensus sit immediatus et
+            <lb ed="#M" n="22"/>per se notus vel est aliquod medium ex quo Infertur propositio, si assensus sit mediatus
+            <lb ed="#M" n="23"/>et deductus.
           </p>
           <p xml:id="y789tt-d1e93-d1e1385">
             <lb ed="#M" n="24"/>Obiicitur tertio <name xml:id="y789tt-d1e93-Nd1e1389">Achilles</name> Qui negat aliquid debet cognoscere id quod
             <lb ed="#M" n="25"/>negat ergo pariter negans cognosci ex parte obiecti impossible seu Ens rationis
-            <lb ed="#M" n="26"/>debet illud eo ipso cognoscere ex parte obiecti, et sic falsificat <unclear>seram</unclear> propositionem.
+            <lb ed="#M" n="26"/>debet illud eo ipso cognoscere ex parte obiecti, et sic falsificat suam propositionem.
           </p>
           <p xml:id="y789tt-d1e93-d1e1398">
             <lb ed="#M" n="27"/>Respondeo primo retorqueo: Dum dicit quis: <hi>Incognoscibile omnibus non potest cognosci</hi>
             <lb ed="#M" n="28"/>Cognoscitne id quod negat Cognosci vel non? Si Cognoscit ergo 
             incogno<lb ed="#M" break="no" n="29"/>scibile est Cognoscibile, ergo propositio se ipsa falsificat, si non Cognoscit, ergo sicut
-            <lb ed="#M" n="30"/>potest dici incognoscibile etiamsi non cognoscatur ita potest dici impossibile non cognosci quim
-            <lb ed="#M" n="31"/>cognoscatur. Respondeo secundo Directe <unclear>Distin</unclear> Qui negat aliquid illud cognoscit vel directe
-            <lb ed="#M" n="32"/>vel reflexe concedo Qui negat aliquid illud cognoscit directe Semper non Itaque dum
+            <lb ed="#M" n="30"/>potest dici incognoscibile etiamsi non cognoscatur ita potest dici impossibile non cognosci quin
+            <lb ed="#M" n="31"/>cognoscatur. Respondeo secundo Directe Distinguo Qui negat aliquid illud cognoscit vel directe
+            <lb ed="#M" n="32"/>vel reflexe concedo Qui negat aliquid illud cognoscit directe Semper nego Itaque dum
             <lb ed="#M" n="33"/>Quis negat posse ex parte obiecti Cognosci Ens rationis reflectit Se Supra
             propo<lb ed="#M" break="no" n="34"/>sitione adversariorum separantem intentionaliter ab obiecto cognoscibili possibilitatem
             <lb ed="#M" n="35"/>et realitatem, negatque reflexe cognoscibile et possibile tali modo Se habere quali modo
             <lb ed="#M" n="36"/>repraesentatur per propositionem adversariorum quae dividit Intentionaliter istos terminos
-            <lb ed="#M" n="37"/>in divisos in re; cum omne Cognoscibile sit possibile et reale ut probatum est. Porro talis
+            <lb ed="#M" n="37"/>indivisos in re; cum omne Cognoscibile sit possibile et reale ut probatum est. Porro talis
             <lb ed="#M" n="38"/>reflexa cognitio Entis rationis, Solum attingit obiectum reale, et Sufficienter negat Ens
             <pb ed="#M" n="558-r"/>
             <lb ed="#M" n="1"/>rationis posse Cognosci ex parte obiecti Quia contradicit Sententiae adversariorum
@@ -723,7 +735,7 @@
           </p>
           <p xml:id="y789tt-d1e93-d1e1437">
             <lb ed="#M" n="3"/>Obiicitur quarto Si Ens rationis est ipsum obiectum realiter prout cognitum cognitione
-            <lb ed="#M" n="4"/>essentialiter falsa sequitur Ens rationis dari a parte rei quod est falsa. Sequela probatur
+            <lb ed="#M" n="4"/>essentialiter falsa sequitur Ens rationis dari a parte rei quod est falsum. Sequela probatur
             <lb ed="#M" n="5"/>Cuius constitutiva dantur a parte rei illud ipsum datur a parte rei sed Entis Rationis
             <lb ed="#M" n="6"/>Constitutiva dantur a parte rei Quia datur hircus et cervus a parte rei item datur
             <lb ed="#M" n="7"/>Cognitio falsa a parte rei

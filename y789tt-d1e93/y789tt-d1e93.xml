@@ -143,8 +143,8 @@
             quia hoc <pb ed="#M" n="552-r"/> est motivum potentiae intellectivae tantum. 
             Bonum autem est potentiae appetitivae
             <app>
-            <lem>motivum</lem>
-            <rdg wit="#D" type="variation-absent"/>
+              <lem>motivum</lem>
+              <rdg wit="#D" type="variation-absent"/>
             </app>. 
             Ens autem ex suo conceptu est indifferens, 
             ut attingatur ab hac vel illa potentia, 
@@ -503,7 +503,7 @@
           <p xml:id="y789tt-d1e93-d1e668">
           <pb ed="#D" n="571-r"/> 
           <!-- It should be above the title -->
-            Praenoto: Non est dubium, quod ratio entis, si comparetur ad inferiora, sit analoga, quia est
+            <seg type="navigation">Praenoto</seg>: Non est dubium, quod ratio entis, si comparetur ad inferiora, sit analoga, quia est
             partim eadem praecisa a differentiis, partim diversa. Si comparetur ad inferiora, quod enim
             identificatur diversis formaliter, est diversum formaliter, sed ratio entis sic se habet comparata
             ad inferiora, ergo etc. Sed quaeritur hic, an ratio entis praecisa a comparatione sit adhuc
@@ -518,7 +518,7 @@
             substantiam quam accidens. Contra quos —
           </p>
           <p xml:id="y789tt-d1e93-d1e697">
-            Dicendum primo: Ratio entis non est analoga propter dependentiam. Ratio, quia
+            <seg type="navigation">Dicendum primo</seg>: Ratio entis non est analoga propter dependentiam. Ratio, quia
             dependentia entis non obest univocationi. Nam actus vitalis essentialiter dependeter
             a potentia vitali, et tamen ratio vitalis univoce dicitur de 
             <app>
@@ -781,7 +781,7 @@
             scilicet non constituitur identitas hirci et cerni, alteritas Dei, 
             licet cognoscatur ut tale, .
             cognitio enim non facit tale, 
-            sed solum termino tali se ipsum superadit. 
+            sed solum termino tali se ipsum <!-- ipsam L -->superadit. 
             Ergo illud obiectum fictum, praeter cognitionem fingentem, 
             a qua dicitur fictum, 
             importat aliquid contra distinctum ab omni ente intentionali,
@@ -852,125 +852,153 @@
             quod est manifeste falsum. Ex dictis –
           </p>
           <p xml:id="y789tt-d1e93-d1e1200">
-            <pb ed="#M" n="556-r"/>
-            Infero primo Ens Rationis, seu fictum hymerivum, seu Impossibile duo dicit: unum pro
-            materiali alterum pro formali: Ens rationis materialiter sumptum sunt Entia realia quatenus Substantia
-            cognitioni essentialiter falsae, seu quatenus affecta extrinsece cognitione essentialiter falsa
-            et inverificabili componenti divisa ut homo est Leo, vel dividenti identificata, ut bonitas
-            Dei dum concipitur distingui a Deo. Verbo: Ens rationis pro materiali et in recto dicit Entia
-            realia. Iam vero pro formali et in obliquo Ens rationis dicit Cognitionem necessaria falsam
-            tanquam formam extrinsecam a qua hoc quod secundum se Intrinsece ac obiective est reale et posibile.
-            ut Substans illi cognitioni denominatur Extrinsece non reale. Quia scilicet tali modo quali enunciatur
-            pro illam cognitionem falsam neque datur a parte rei neque potest dari illius virtute agentis
-            nis solum in intellectu datur Unde etiam dicitur Ens rationis.
+            <pb ed="#M" n="557-r"/> <!-- pb ed="#L" n="563-r" -->
+            <seg type="navigation">Infero primo</seg>: Ens rationis seu fictum hymericum, seu impossibile duo dicit: 
+            unum pro materiali, alterum pro formali. 
+            Ens rationis materialiter sumptum sunt entia realia, 
+            quatenus substantia cognitioni essentialiter falsae, 
+            seu quatenus affecta extrinsece cognitione essentialiter falsa et inverificabili componenti divisa, ut homo est leo, 
+            vel dividenti identificata, ut bonitas Dei, dum concipitur distingui a Deo. 
+            Verbo: ens rationis pro materiali et in recto dicit entia realia. 
+            Iam vero pro formali et in obliquo ens rationis dicit cognitionem necessario falsam, tanquam formam extrinsecam, 
+            a qua hoc, quod secundum se intrinsece ac obiective est reale et possibile,
+            ut substans illi cognitioni, denominatur extrinsece non reale. 
+            Quia scilicet tali modo quali enunciatur
+            <app>
+              <lem type="conjecture-corrected"><corr>per</corr></lem>
+              <rdg wit="#M">pro</rdg>
+            </app>
+            illam cognitionem falsam, 
+            neque datur a parte rei, neque potest dari illius virtute agentis,
+            nisi solum in intellectu datur, 
+            unde etiam dicitur ens rationis.
           </p>
           <p xml:id="y789tt-d1e93-d1e1226">
-            Infero secundo Non ideo aliqua propositio est falsa Quia eius obiectum non datur a parte rei,
-            nec ideo vera Quia datur eius obiectum omnium enim propositionum obiectum datur a parte rei
-            secundum se actu vel possibiliter, sed potius ideo aliqua propositio est falsa quia eius obiectum
-            non datur tali modo a parte rei quali modo enunciatur per ipsam, seu Quia tendit
-            modo indebilo in suum obiectum <unclear>secicis</unclear> propositio vera.
+            <seg type="navigation">Infero secundo</seg>: Non ideo aliqua propositio est falsa, 
+            quia eius obiectum non datur a parte rei,
+            nec ideo vera, 
+            quia datur eius obiectum, omnium enim propositionum obiectum datur a parte rei secundum se actu vel possibiliter, 
+            sed potius ideo aliqua propositio est falsa, quia eius obiectum non datur tali modo a parte rei, quali modo enunciatur per ipsam, 
+            seu quia tendit modo indebito in suum obiectum secus propositio vera.
           </p>
           <p xml:id="y789tt-d1e93-d1e1242">
-            Infero tertio Ens rationis fit per actum intellectus indebito modo tendentem in obiect 
-            realia. Hinc Deus non potest facere Ens rationis, Quia non habet nec potest habere modum indebitum tendendi
-            in obiecta. Cognoscit tamen Ens rationis, Quia Cognoscit Entia realia ut Substantia cognitionibus
-            falsis creatis.
+            <seg type="navigation">Infero tertio</seg>: Ens rationis fit per actum intellectus indebito modo tendentem in obiecta realia. 
+            Hinc Deus non potest facere ens rationis, quia non habet nec potest habere modum indebitum tendendi in obiecta, 
+            cognoscit tamen ens rationis, 
+            quia cognoscit entia realia ut substantia cognitionibus falsis creatis.
           </p>
           <p xml:id="y789tt-d1e93-d1e1254">
-            Infero quarto Ens rationis debet fieri per secundam operationem Intellectus Quia debet esse
-            per actu intellectus essentialiter falsum, falsitas autem consistit in enunciatione aliter
-            <unclear>diverite</unclear> obiectum quam sit in se, Hinc neque per sensus externos fieri potest Ens rationis.
+            <seg type="navigation">Infero quarto</seg>: Ens rationis debet fieri per secundam operationem intellectus, 
+            quia debet esse per actum intellectus essentialiter falsum, 
+            falsitas autem consistit in enunciatione aliter dicente obiectum, quam sit in se, 
+            hinc neque per sensus externos fieri potest ens rationis.
           </p>
           <p xml:id="y789tt-d1e93-d1e1262">
-            Obiicitur primo Non potest Explicari quodnam Ens reale concipitur, dum concipiuntur hi termini
-            alter Deus, verbum est Creatura <!-- creaturea -->, negatio Dei, Impossibile. Ergo Intellectus non Soa Entia
-            realia cognoscit.
+            <seg type="navigation">Obiicitur primo</seg>: Non potest explicari quodnam ens reale concipitur, 
+            dum concipiuntur hi termini:
+            alter Deus, verbum est creatura, negatio Dei, impossibile; 
+            ergo intellectus non sola entia realia cognoscit.
           </p>
           <p xml:id="y789tt-d1e93-d1e1273">
-            Respondeo Dixi omnes terminos hymericos esse secundo-intentionaliter, et in re 
-            esse Entia realia prout Substantia <!-- cross out conclusioni --> cognitioni essentialiter falsae, unde identitas
-            hirci cum cervo est aliqua vage identitas realis, quae secundum se obiective et Intrinsece 
-            spectata non unit hircum cum cervo, unit vero Solum Extrinsece ratione indebitae applicationis
-            mentalis, ratione cuius etiam dicitur identitas hirci et cervi. Ly vero Impossibile est aliquid 
-            commune ad omnes terminos hymericos et significat omne illud obiectum reale quod substat
-            cognitioni essentialiter falsae, non potens a parte rei exitere tali modo, quali per ipsam 
-            enunciatur.
+            <seg type="navigation">Respondeo</seg>: Dixi omnes terminos hymericos esse secundo-intentionalites, 
+            et in re esse entia realia, prout substantia cognitioni essentialiter falsae, 
+            unde identitas hirci cum cervo est aliqua vage identitas realis, 
+            quae secundum se obiective et intrinsece spectata non unit hircum cum cervo, 
+            unit vero solum extrinsece ratione indebitae applicationis mentalis, 
+            ratione cuius etiam dicitur identitas hirci et cervi; 
+            ly vero "impossibile" est aliquid commune ad omnes terminos hymericos et significat omne illud obiectum reale, 
+            quod substat cognitioni essentialiter falsae, 
+            non potens a parte rei exitere tali modo, 
+            quali per ipsam enunciatur.
           </p>
           <p xml:id="y789tt-d1e93-d1e1293">
-            Urgetur Qui dicendo <hi>non datur alter Deus</hi> negat alteritatem Creatam et 
-            Divinitatem Creatam existere, tali modo quali repraesentatur per iudicium <!-- cross out repraes -->
-            falsum compositum horum terminorum debet ad hui cognoscere illud <!-- illud corrected of illum --> modum existendi quem
-            negat, hic autem modus est hincericus ergo Cognoscit ad huc <!-- ad huc above the line --> aliquid hymericum. 
+            <seg type="navigation">Urgetur</seg>: Qui dicendo: "Non datur alter Deus" negat alteritatem creatam et divinitatem creatam existere tali modo, 
+            quali repraesentatur per iudicium falsum compositum horum terminorum, 
+            debet adhuc cognoscere illum modum existendi, quem negat, 
+            hic autem modus est hymericus, ergo cognoscit adhuc aliquid hymericum. 
           </p>
           <p xml:id="y789tt-d1e93-d1e1311">
-            Respondeo Quod talis 
+            <seg type="navigation">Respondeo</seg>: Quod talis 
             <pb ed="#M" n="557-v"/>
-            Cognoscit confuse aliquem modum existendi realem conformem alicui affirmationi
-            verae, illumque negat de alteritate creata reali et Divinitate vera utpote
-            opposito modo Existentibus, qui proinde modus Existendi est hymericus, non secundum se
-            et obiective sed quatenus per affirmationem falsam applicatur alteri tali Creatae
-            et Divinitati reali.
+            cognoscit confuse aliquem modum existendi realem conformem alicui affirmationi verae, 
+            illumque negat de alteritate creata reali et divinitate vera utpote
+            opposito modo existentibus, qui proinde modus existendi est hymericus, non secundum se
+            et obiective sed quatenus per affirmationem falsam applicatur alteri tali creatae
+            et divinitati reali.
           </p>
           <p xml:id="y789tt-d1e93-d1e1327">
-            Obicitur secundo Dum Dicit <name xml:id="y789tt-d1e93-Nd1e1331">Arrianus</name> <hi>Verbum est Creatura,</hi> non solum concipit
-            verbum et creaturam sed etiam aliquod obiectum significatum per ly est, quod obiectum est
-            utique identitas hymerica, ergo concipit aliquod Impossibile ex parte obiecti, antecedens probatur
-            <unclear>Tum</unclear> Quia alioquin dicta propositio Arriana non differret a propositione Catholica <!-- Catholica non Orthodoxa -->: Divente:
-            Verbum non est Creatura; Quia in utraque esset idem obiectum; <unclear>Tum</unclear> quia in omni propositione 
-            affirmativa dicit concipi motivum ad affirmadndum hoc autem, nihil aliud est quam 
-            identitas per copulam sive recta sive ficta. 
+            <seg type="navigation">Obicitur secundo</seg>: Dum dicit <name xml:id="y789tt-d1e93-Nd1e1331">Arrianus</name>: "Verbum est creatura", 
+            non solum concipit Verbum et creaturam, 
+            sed etiam aliquod obiectum significatum per ly "est", 
+            quod obiectum est utique identitas hymerica, 
+            ergo concipit aliquod impossibile ex parte obiecti, 
+            antecedens probatur:
+            tum quia alioquin dicta propositio arriana non differret a propositione catholica dicente:
+            "Verbum non est creatura", 
+            quia in utraque esset idem obiectum; 
+            tum quia in omni propositione affirmativa debet concipi motivum ad affirmandum, 
+            hoc autem nihil aliud est quam identitas per copulam, sive recta, sive ficta. 
           </p>
           <p xml:id="y789tt-d1e93-d1e1356">
-            Respondeo non omnis Dixi enim quod Ly est non importet ullum
-            obiectum distinctum a Subiecto et praedicato, sed tantum quod sit nexus Intentionalis Subiecti 
-            et praedicati. Ad probationem Dico propositiones Contradictoriae non debent differre obiecto
-            terminativo sed modo tendendi in obiectum Quia scilicet propositio affirmativa tendit modo
-            copulativo, propositio vero negativa tendit modo disiunctivo, disiungendo scilicet
-            subiectum a praedicato. Falsum vero est determinativum ad assensum in propositionibus 
-            affirmativis esse identitatem extremorum appraehensam, Quia post appraehensum identitatem
-            Saepe sequitur dissensus. Identitas autem ficta quae nec esse potest nec est, non potest
-            exercere vim motivam, vis enim <unclear>coactiva</unclear> soli Enti reali convenit, potius ergo motivum
-            ad assensum vel sunt ipsi termini propositionis apprehensi si assensus sit immediatus et
-            per se notus vel est aliquid medium ex quo Infertur propositio, si assensus sit mediatus
-            et deductus.
+            <seg type="navigation">Respondeo</seg>, nego antecedens: 
+            Dixi enim, quod ly "est" non importet ullum obiectum distinctum a subiecto et praedicato, 
+            sed tantum, quod sit nexus intentionalis subiecti et praedicati. 
+            Ad probationem dico: propositiones contradictoriae non debent differre obiecto terminativo, sed modo tendendi in obiectum, 
+            quia scilicet propositio affirmativa tendit modo copulativo, 
+            propositio vero negativa tendit modo disiunctivo, disiungendo scilicet subiectum a praedicato. 
+            Falsum vero est determinativum ad assensum in propositionibus affirmativis esse identitatem extremorum appraehensam, 
+            quia post appraehensam identitatem saepe sequitur dissensus. 
+            Identitas autem ficta, quae nec esse potest, nec est, non potest exercere vim motivam, 
+            vis enim causativa soli enti reali convenit, .
+            potius ergo motivum ad assensum vel sunt ipsi termini propositionis apprehensi, 
+            si assensus sit immediatus et per se notus, 
+            vel est aliquod medium, ex quo infertur propositio, 
+            si assensus sit mediatus et deductus.
           </p>
           <p xml:id="y789tt-d1e93-d1e1385">
-            Obiicitur tertio <name xml:id="y789tt-d1e93-Nd1e1389">Achilles</name> Qui negat aliquid debet cognoscere id quod
-            negat ergo pariter negans cognosci ex parte obiecti impossible seu Ens rationis
-            debet illud eo ipso cognoscere ex parte obiecti, et sic falsificat <unclear>seram</unclear> propositionem.
+            <seg type="navigation">Obiicitur tertio</seg>: 
+            <name xml:id="y789tt-d1e93-Nd1e1389">Achilles</name>, qui negat aliquid, debet cognoscere id, quod negat, 
+            ergo pariter negans cognosci ex parte obiecti impossible, 
+            seu ens rationis debet illud eo ipso cognoscere ex parte obiecti et sic falsificat suam propositionem.
           </p>
           <p xml:id="y789tt-d1e93-d1e1398">
-            Respondeo primo retorqueo: Dum dicit quis: <hi>Incognoscibile omnibus non potest cognosci</hi>
-            Cognoscitne id quod negat Cognosci vel non? Si Cognoscit ergo 
-            incognoscibile est Cognoscibile, ergo propositio se ipsa falsificat, si non Cognoscit, ergo sicut
-            potest dici incognoscibile etiamsi non cognoscatur ita potest dici impossibile non cognosci quim
-            cognoscatur. Respondeo secundo Directe <unclear>Distin</unclear> Qui negat aliquid illud cognoscit vel directe
-            vel reflexe concedo Qui negat aliquid illud cognoscit directe Semper non Itaque dum
-            Quis negat posse ex parte obiecti Cognosci Ens rationis reflectit Se Supra
-            propositione adversariorum separantem intentionaliter ab obiecto cognoscibili possibilitatem
-            et realitatem, negatque reflexe cognoscibile et possibile tali modo Se habere quali modo
-            repraesentatur per propositionem adversariorum quae dividit Intentionaliter istos terminos
-            in divisos in re; cum omne Cognoscibile sit possibile et reale ut probatum est. Porro talis
-            reflexa cognitio Entis rationis, Solum attingit obiectum reale, et Sufficienter negat Ens
+            <seg type="navigation">Respondeo primo</seg>, retorqueo: Dum dicit quis: "Incognoscibile omnibus non potest cognosci"
+            cognoscitne id, quod negat cognosci, vel non? 
+            Si cognoscit, ergo incognoscibile est cognoscibile, ergo propositio se ipsa falsificat, 
+            si non cognoscit, ergo sicut potest dici incognoscibile, etiamsi non cognoscatur, 
+            ita potest dici impossibile non cognosci, quin cognoscatur. 
+            <seg type="navigation">Respondeo secundo</seg>: Directe distinguo: 
+            <hi>qui negat aliquid</hi>, illud cognoscit vel directe, vel reflexe – concedo; 
+            <hi>qui negat aliquid</hi>, illud cognoscit directe semper – nego. 
+            Itaque dum quis negat posse ex parte obiecti cognosci ens rationis, 
+            reflectit se supra propositione adversariorum, separantem intentionaliter ab obiecto cognoscibili possibilitatem et realitatem, 
+            negatque reflexe cognoscibile et possibile tali modo se habere, 
+            quali modo repraesentatur per propositionem adversariorum, 
+            quae dividit intentionaliter istos terminos indivisos in re. 
+            Cum omne cognoscibile sit possibile et reale, ut probatum est, 
+            porro talis reflexa cognitio entis rationis solum attingit obiectum reale, 
+            et sufficienter negat ens
             <pb ed="#M" n="558-r"/>
-            rationis posse Cognosci ex parte obiecti Quia contradicit Sententiae adversariorum
+            rationis posse cognosci ex parte obiecti. quia contradicit sententiae adversariorum,
             ut patet.
           </p>
           <p xml:id="y789tt-d1e93-d1e1437">
-            Obiicitur quarto Si Ens rationis est ipsum obiectum realiter prout cognitum cognitione
-            essentialiter falsa sequitur Ens rationis dari a parte rei quod est falsa. Sequela probatur
-            Cuius constitutiva dantur a parte rei illud ipsum datur a parte rei sed Entis Rationis
-            Constitutiva dantur a parte rei Quia datur hircus et cervus a parte rei item datur
-            Cognitio falsa a parte rei
+            <seg type="navigation">Obiicitur quarto</seg>: 
+            Si ens rationis est ipsum obiectum realiter prout cognitum cognitione essentialiter falsa, 
+            sequitur ens rationis dari a parte rei, quod est falsum. 
+            <seg type="navigation">Sequela probatur</seg>,
+            cuius constitutiva dantur a parte rei, illud ipsum datur a parte rei; 
+            sed entis rationis constitutiva dantur a parte rei, 
+            quia datur hircus et cervus a parte rei, 
+            item datur cognitio falsa a parte rei.
           </p>
           <p xml:id="y789tt-d1e93-d1e1450">
-            Respondeo Ens rationis materialiter et obiective sumptum secundum se
-            datur actu vel potentia Extra Intellectum a parte rei. Ceterum formaliter sumptum seu 
-            ut denominatum a Cognitione falsa dari non potest tali modo quali enunciatur per cognitionem
-            essentialiter falsam ideoque ita sumptum denominatur extrinsece non reale, quatenus
-            reale opponitur ficto et falso, licet possit dici reale, quatenus reale abstrahit
-            ab esse Intentionali qualicunque etiam inverificabili. 
+            <seg type="navigation">Respondeo</seg>: 
+            Ens rationis materialiter et obiective sumptum secundum se datur actu vel potentia extra intellectum a parte rei; 
+            ceterum formaliter sumptum, seu ut denominatum a cognitione falsa, dari non potest tali modo, 
+            quali enunciatur per cognitionem essentialiter falsam, 
+            ideoque ita sumptum denominatur extrinsece non reale, quatenus reale opponitur ficto et falso, 
+            licet possit dici reale, quatenus reale abstrahit ab esse intentionali qualicunque etiam inverificabili. 
           </p>
         </div>
       </div>
