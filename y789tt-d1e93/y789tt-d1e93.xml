@@ -566,7 +566,7 @@
             sunt ista principia per rationem. Ad hoc respondeo —
           </p>
           <p xml:id="y789tt-d1e93-d1e772">
-            Praenoto: In ratione
+            <seg type="navigation">Praenoto</seg>: In ratione
             entis confuse concepti duplex potest cogitari aptitudo ad praedicari de multis:
             proxima et remota. <hi>Proxima</hi>, quae habetur ab actu comparativo entis ad inferiora,
             ut dixi in logica. ¯<!--I need to find this place in his Logic--> Et haec aptitudo proxima infert diversitatem, ut dixi.
@@ -574,11 +574,11 @@
             hac itaque aptitudine —
           </p>
           <p xml:id="y789tt-d1e93-d1e790">
-            Dicendum secundo: Ens non est analogum, sed univocum propter
+            <seg type="navigation">Dicendum secundo</seg>: Ens non est analogum, sed univocum propter
             transcedentiam aptitudinalem. 
           </p>
           <p xml:id="y789tt-d1e93-d1e797">
-            Probatur: Quia in conceptu entis seclusa comparatione
+            <seg type="navigation">Probatur</seg>: Quia in conceptu entis seclusa comparatione
             ad inferiora non apparet diversitas aptitudinalis formalis transcendentiae. Nam
             diversitas actualis entis non habetur a ratione entis quatenus significata nomine entis,
             sed quatenus significata nomine differentiarum, ergo diversitas aptitudinalis.
@@ -590,40 +590,40 @@
             est omnino eadem.
           </p>
           <p xml:id="y789tt-d1e93-d1e820">
-            Firmatur primo: Aptitudo in conceptu animalis ad
+            <seg type="navigation">Firmatur primo</seg>: Aptitudo in conceptu animalis ad
             <pb ed="#M" n="555-r"/>
             transcendendas formaliter species non obest univocationi in conceptis animalis secundum omnes;
             ergo etiam aptitudo ad transcendendas formaliter differentias non obest univocationi
             conceptus entis.
           </p>
           <p xml:id="y789tt-d1e93-d1e832">
-            Firmatur secundo: Conceptus entis debet esse diversus per hoc, quod est ipsi
+            <seg type="navigation">Firmatur secundo</seg>: Conceptus entis debet esse diversus per hoc, quod est ipsi
             essentiale: omne enim est diversum ab alio per suam essentiam; sed differentiae non sunt
             essentiale enti, potest enim ens praescindi ab ilis per rationem; ergo etc:
           </p>
           <p xml:id="y789tt-d1e93-d1e839">
-            Obiicitur primo: Quod est aptum in esse formaliter diversis est diversum, adeoque non est univocum;
+            <seg type="navigation">Obiicitur primo</seg>: Quod est aptum in esse formaliter diversis est diversum, adeoque non est univocum;
             sed ratio entis est apta inesse formaliter diversis, scilicet differentiis, ergo est diversa non univoca.
           </p>
           <p xml:id="y789tt-d1e93-d1e846">
-            Respondeo: nego maiorem vel distinguo <quote>quod est aptum inesse formaliter diversis est diversum</quote> in casu
+            <seg type="navigation">Respondeo</seg>: nego maiorem vel distinguo <quote>quod est aptum inesse formaliter diversis est diversum</quote> in casu
             comparationis — concedo; <quote>est diversum</quote> pro statu praecisionis pure ab inferioribus — nego. Explicatio patet.
           </p>
           <p xml:id="y789tt-d1e93-d1e855">
             <pb ed="#D" n="572-r"/>
-            Obiicitur secundo: Nihil potest dici univoce de Deo et creaturis, quia nihil potest
+            <seg type="navigation">Obiicitur secundo</seg>: Nihil potest dici univoce de Deo et creaturis, quia nihil potest
             esse commune Deo et creaturis, ergo ens non potest esse univocum respectu Dei et creaturae
             substantiae et accidentis.
           </p>
           <p xml:id="y789tt-d1e93-d1e864">
-            Respondeo, nego antecedens probationem: distinguo: <quote>nihil potest esse commune Deo et creaturis</quote>
+            <seg type="navigation">Respondeo</seg>, nego antecedens probationem: distinguo: <quote>nihil potest esse commune Deo et creaturis</quote>
             a parte rei — concedo, quia ibi invenitur asseitas, infinitudo etc. quod non convenit creaturae;
             <quote>nihil potest esse commune Deo et creaturis</quote> per rationem — nego, quia esse oppositum nihilo,
             habere esse independenter ab intellectu fingente, esse motivum potentiae intentionalis,
             utique est commune per rationem tam Deo, quam creaturis. Hinc —
           </p>
           <p xml:id="y789tt-d1e93-d1e879">
-            Infero: Ratio entis praecisa comparatione ad sua inferiora per actum reflexum 
+            <seg type="navigation">Infero</seg>: Ratio entis praecisa comparatione ad sua inferiora per actum reflexum 
             est univoca; aequivoca autem est respectu entis rationis et negationum, supposito,
             quod hae distinguantur ab omni ente reali; analoga denique est spectata in casu comparationis
             ad sua inferiora.
@@ -637,7 +637,7 @@
             <!--ed="#P" no="406-v"-->
             <!-- ed="#Z3" no="130-r" -->
             <!-- ed="#L" no="560-v" -->
-            Praenoto: 
+            <seg type="navigation">Praenoto</seg>: 
             Quoniam supra definivimus ens per hoc, 
             quod sit motivum potentiae intentionalis,
             debemus iam consequenter dicere, 
@@ -651,7 +651,7 @@
             Pro utraque sententia magna authorum classicorum <!-- stat #P, --> multitudo. Nobis tamen —
           </p>
           <p xml:id="y789tt-d1e93-d1e921">
-            Dicendum est primo: Omne ens reale potest cognosci. 
+            <seg type="navigation">Dicendum est primo</seg>: Omne ens reale potest cognosci. 
             Ratio, quia omne verum potest cognosci, 
             verum enim est obiectum intellectus; 
             sed omne ens reale est verum, 
@@ -659,7 +659,7 @@
             </p>
           <p xml:id="y789tt-d1e93-d1e931">
             <!-- pb ed="#L" n="561-r"-->
-            Notandum enim hic: 
+            <seg type="navigation">Notandum enim hic</seg>: 
             Quia non definio, 
             a quo nam intellectu potest cognosci ens reale, 
             plura enim entia<!-- sunt #P -->, 
@@ -667,7 +667,7 @@
             nisi a Deo aut ab angelis.
           </p>
           <p xml:id="y789tt-d1e93-d1e942">
-            Dicendum secundo: 
+            <seg type="navigation">Dicendum secundo</seg>: 
             Omne cognoscibile est possibile, 
             nec datur ullum obiectum <pb ed="#M" n="555-v"/> intellectus distinctum ab omni ente reali. 
             Ita <name xml:id="y789tt-d1e93-Nd1e950">pater Ioannes Morawski professor</name>
@@ -677,7 +677,7 @@
             Item Martinus Esparza, professor patris Morawski, Stephanus Spinula, Miller, Hainanau, Bartolus, Savignanus, M. Mairon, Valesius, Linceus, <name xml:id="y789tt-d1e93-Nd1e964" ref="#FranciscoSuarez">Zoarius</name>, <name xml:id="y789tt-d1e93-Nd1e967" ref="#PedroHurtandodeMendoza">Hurtadus</name> etc.
           </p>
           <p xml:id="y789tt-d1e93-d1e971">
-            Probatur prima<!-- or primo; prima conclusio #M3, #L -->: 
+            <seg type="navigation">Probatur prima</seg><!-- or primo; prima conclusio #M3, #L -->: 
             Illud solum potest cognosci, 
             quod habet rationem veri; 
             sed quod est distinctum ab omni ente reali, 
@@ -726,7 +726,7 @@
             adeoque involvit praedicata contradictoria.
           </p>
           <p xml:id="y789tt-d1e93-d1e1019">
-            Respondebis: 
+            <seg type="navigation">Respondebis</seg>: 
             Obiectum intellectus est verum 
             <app>
                 <lem>aut</lem>
@@ -741,7 +741,7 @@
           </p>
           <p xml:id="y789tt-d1e93-d1e1026">
             <!--pb ed="#P" n="407-v"-->
-            Contra est: 
+            <seg type="navigation">Contra est</seg>: 
             Quia veritas ficta est nulla veritas, 
             siquidem veritas ficta consistit in verificatione duorum contradictoriorum, 
             ubi nulla est veritas, ut dixi in exemplo hircocervi. 
@@ -751,7 +751,7 @@
             ut verum, sicut etiam bonum apparens est ens reale falso cognitum ut bonum.
           </p>
           <p xml:id="y789tt-d1e93-d1e1039">
-            Probatur secunda conclusio: <!-- Morawski 1666, p.12 (Disp 1, q. 2, §3) -->
+            <seg type="navigation">Probatur secunda conclusio</seg>: <!-- Morawski 1666, p.12 (Disp 1, q. 2, §3) -->
             Illud obiectum implicatorium et non reale, 
             cum non sit ante cognitionem, alias esset ens reale, 
             tunc quaero: vel resultat quasi <pb ed="#M" n="156-r"/>effective ex cognitione fingente, 
@@ -799,7 +799,7 @@
             sibique erit extrinseca.
           </p>
           <p xml:id="y789tt-d1e93-d1e1100">
-            Probatur tertio: 
+            <seg type="navigation">Probatur tertio</seg>: 
             Propositiones contradictoriae debent esse de eodem obiecto terminativo, 
             sed hae propositiones: "Mus est leo", "Mus non est leo", sunt contradictoriae, 
             ergo debent esse de eodem obiecto terminativo. 
@@ -814,11 +814,11 @@
             altera vero circa idem obiectum terminatum procedit modo divisivo denotato per particulam <hi>non est</hi>.
           </p>
           <p xml:id="y789tt-d1e93-d1e1139">
-            Respondebis: Idem est obiectum terminativum propositionum contradictoriarum ex parte subiecti et praedicati, 
+            <seg type="navigation">Respondebis</seg>: Idem est obiectum terminativum propositionum contradictoriarum ex parte subiecti et praedicati, 
             non tamen est idem ex parte copulae.
           </p>
           <p xml:id="y789tt-d1e93-d1e1146">
-            Contra est: Quia copula propositionis non importat aliquod obiectum distinctum a subiecto et praedicato, 
+            <seg type="navigation">Contra est</seg>: Quia copula propositionis non importat aliquod obiectum distinctum a subiecto et praedicato, 
             sed solum copula est unio intentionalis subiecti cum praedicato. 
             Ratio huius est: Quia cum omnis propositio nihil aliud faciat, 
             nisi aut componat, aut dividat intentionaliter se ipsâ obiectum significatum ex parte subiecti et praedicati. 
