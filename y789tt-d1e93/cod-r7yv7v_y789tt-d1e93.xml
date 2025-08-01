@@ -668,15 +668,7 @@
           <p xml:id="y789tt-d1e93-d1e1293">
             Urgetur Qui dicendo <hi>non datur alter Deus</hi> negat alteritatem Creatam et 
             <lb ed="#M" n="32"/>Divinitatem Creatam existere, tali modo quali repraesentatur per iudicium <del rend="strikethrough" hand="#N1">repraes</del> 
-            <lb ed="#M" n="33"/>falsum compositum horum terminorum debet ad hui cognoscere 
-            <seg type="correction">
-            illu
-              <subst>
-                <del>d</del>
-                <add>m</add>
-              </subst>
-            </seg>
-            modum existendi quem
+            <lb ed="#M" n="33"/>falsum compositum horum terminorum debet ad hui cognoscere <seg type="correction">illu<subst><del>d</del><add>m</add></subst></seg> modum existendi quem
             <lb ed="#M" n="34"/>negat, hic autem modus est himeriucus ergo Cognoscit <add place="above-line" hand="#N1">ad huc</add> aliquod hymericum. 
           </p>
           <p xml:id="y789tt-d1e93-d1e1311">
